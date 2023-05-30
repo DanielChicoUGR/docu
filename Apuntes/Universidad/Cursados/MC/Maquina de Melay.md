@@ -1,0 +1,3 @@
+- 
+- 
+- Asocia Salidas a las transiciones de estados

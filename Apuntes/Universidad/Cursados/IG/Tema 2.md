@@ -1,0 +1,12 @@
+- Existen varios metodos a traves de los cuales se pueden  representar de manera interna
+- Modelado basado en fronteras
+    - Se necesitan para representar estos elementos ↓ 
+        - Geometría→Localización del conjunto de los puntos en el espacio de los elementos a representar
+        - Topología→Como se ordenan y conectan los puntos entre si 
+    - Valores normalizados
+        - Normal de un plano→vector unitario perpendicular a cada cara, de longitud unidad, apuntando al exterior de la malla. se precalcula 
+        - Normal de un punto→
+    - Colores
+        - Colores de caras→Util cuando cada cara representa un trozo de superficie de color homogeneo
+        - Colores de vértices→color de la superficie en cada vértice. en este caso se supone ue el color varía de forma continua entre los vértices 
+- 

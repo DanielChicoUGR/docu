@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md","id":"b556cca4a1ca3b59","x":-800,"y":-1200,"width":860,"height":620},
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md","id":"6b165daf36862dc7","x":-800,"y":-500,"width":860,"height":420},
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md","id":"0e25990d5fb12b93","x":-800,"y":0,"width":860,"height":300},
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/DiagramaInicialML.png","id":"f91245c66431c400","x":120,"y":-1200,"width":780,"height":660,"color":"5"},
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md","id":"4bf69337fe188820","x":960,"y":-1200,"width":620,"height":620},
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md","id":"320341d2d9acfd99","x":960,"y":-500,"width":620,"height":460},
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md","id":"e5e621fb3d13f9c7","x":960,"y":0,"width":620,"height":400}
+	],
+	"edges":[]
+}

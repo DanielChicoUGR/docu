@@ -1,0 +1,166 @@
+- Diseño de un agente deliberatívo: Busqueda.
+    - Características ↓ 
+        - Dispone de un modelo del mundo en el que habita
+        - El Agente dispone de un modelo de los efectos de sus acciones sobre el mundo
+        - El agente es capaz de razonar sobre esos modelos para decidir que hacer para conseguir un objetivo
+    - Busqueda en un espacio de estados:
+        - Espacio de estados↔Representación del conocimiento a través de las acciones del agente.
+        - Busqueda en el espacio de estados→Resolución del problema mediante proyección de las distintas acciones
+    - Descripción del problema:
+        1. Estados
+        2. Estado inicial
+        3. Acciones
+        4. Objetivo
+        5. Coste Acción
+        6. **EJEMPLO ⇒ El mundo de los bloques:**  
+            - Supongamos un mundo cuadriculado con 3 bloques A, B, C.
+            - Inicialmente, todos los bloques están en el suelo.
+            - El objetivo es apilar los bloques de modo que A quede sobre B, B quede sobre C, y C esté en el suelo.
+            - En cada momento, se dispone de la operación mover(x,y) para poner x sobre y, donde x={A, B, C} e y={A, B, C, Suelo}.
+            - En cada momento, se conoce el estado del sistema. Lo modelamos con una secuencia de listas de objetos sobre objetos. Inicialmente, el estado es ((A),(B),(C))y se desea llegar al estado ((ABC)). 
+            - Asumimos que se descartan los operadores imposibles mover(A,A), mover(B,B), mover(C,C), etc., para cada estado.
+    - Una estructura de **grafo dirigido **puede ser útil para buscar secuencias de acciones que nos lleven al objetivo final.
+    - En esta estructura, un nodo representa un estado del sistema y un arco una posible acción. La acción, aplicada al estado que representa al nodo origen, producirá el estado del nodo destino.
+    - Se denomina Grafo de estados.
+    - **Ejemplo ⇒ El mundo de los bloques:**
+        - ![](https://remnote-user-data.s3.amazonaws.com/mttH9NXmy34zrttROG58KqtPBLalLYhfcFT7tj6iZsdHgxEVhFreWBedHVC114Q5g4bpWL8tRtD8-GuMJb6sl9hUW-EwcvsCVaSvAmZL8jT2bDA5gpUgRFkk13IqSYnW.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/qB2gegsa-WKbw9FeNgK1hbi2Yn-Gfok28y9Mr7x7zpw-fEvgHhM-e1kpkX808oCN83XQTDMgIuaTta79Au_aQ9qy7BfbbuWA-IVkh02oYlmufR1g_b25k-eMkl8uzBEC.png) ⇒ Espacio de estados del mundo de los bloques.
+    - PLAN→Secuencia de acciones que llevan al agente desde un estado inicial hasta un estado destino.
+    - PLANIFICACIÓN→Proceso de generar un plan. Este proceso se puede realizar sobre grafos implícitos o explícitos.
+        - **Elementos a tener en cuenta en el proceso de planificación **  ↓ 
+            - Factor de ramificación (Cuantos nodos hijo tiene cada estado)
+            - Profundidad del árbol de busqueda.
+        - **EJEMPLO ⇒ El mundo de los bloques:**
+            - ![](https://remnote-user-data.s3.amazonaws.com/aaNwg-ttPgm0z0EnhLLgZHXiWxnWuMzp6ZPK2NIGIlSuSOjNpLue_eqVFdkahx5ex1JzYnh4xnc63qoiDYC894WCQ9l-QMKj_FP6ayQTe_NW_8P_HzkhfsSZdJnRIMOx.png)c 
+    - Pseudocódigo Busqueda general en grado:
+        - ![](https://remnote-user-data.s3.amazonaws.com/sUraEhXO86jN8HC8RNUQtPVubhjDmnZIt0fXegxHLEzYuj1jWetjQcQ3_OiWCSjxqo8K0OKTW6MO6Ofrw5J5uF5s7e7EAJmfDGBeTZavLhpQ_1Ml7Mbc_arGzdyih4HS.png) 
+- Sistemas de busqueda y estratégias.
+    - ![](https://remnote-user-data.s3.amazonaws.com/gloQnwLN9f9x1I64ERkTd5HU04JQgrx1O3B0WDpxn2fH-vL9WIJ2As-__mou6kMbQ0DhRbs_UGMvt868bqhpH1B7acwicWOqyV4-17xBYTZiUslhZR0ojOjUMa5VNXJ3.png) 
+    - Procedimiento general de busqueda (Pseudocódigo):
+        - ![](https://remnote-user-data.s3.amazonaws.com/M9oPxe3-XBps-LgslbWjV9w8S-pjcqo62Ri_nwlomN4b1YUcwj7a1YThpcpUUKVe9znTU3-UHo6Vdg4qr9CUKwglPYXNYf9zxGBP2KhocDn3I9l1YtgqnLeixu_ftySk.png) 
+    - Estratégias de control:
+        - Estrategias irrevocables ↓ 
+            - En cada momento, el grafo éxplicito lo constituye un único nodo, que incluye la descripción completa del sistema en ese momento
+            - Pseudocódigo:
+                - Se selecciona una acción de A
+                - Se aplica sobre el estado del sistema E, para obtener el nuevo estado E'=A(E) 
+        - Estratégias tentativas
+            - Estrategia retroactiva (Backtracking)
+                - Características ↓ 
+                    - En memoria solo guardamos un hijo de cada estado; esto es, se mantiene el camino desde el estado inicial hasta el actual.
+                    - El grafo explicito es una lista
+                    - Condicion de parada:
+                        - Se llega a un nodo optimo
+                        - No se quieren generar mas soluciones
+                        - Se exploraron todos los nodos del grafo
+                    - Concición backtrack
+                        - Se ha encontrado una solucion pero se quiere seguir buscando
+                        - Cuando se llega a una profundidad dada
+                        - Cuando se excede un tiempo determinado de computo
+                        - Cuando se ha generado un estado ya visitado
+                        - Cuando no existen mas acciones aplicables al ultimo nodo de la lista.
+            - Busqueda en grafos
+                - En memoria se guardan todos los estados visitados hasta el momento, de forma que la busqueda puede seguir por cualquiera de ellos.
+                - Pseudocodigo ↓ 
+                    1. Seleccionar estado E del grafo
+                    2. Seleccionar un operador A aplicable sobre E
+                    3. Aplicar A, para obtener el nuevo estado A(E)
+                    4. Añadir el arco E ⇒ A(E) al grafo
+                    5. Repetir
+                - infraestructura necesaria
+                    - ![](https://remnote-user-data.s3.amazonaws.com/BX781DtbBRwsmtOV9sshXy4W1CdAG-5IfVK83NZUTpSmmLbwdl6wG97Qy36QUOkUGaD3J6ue7Pvkr6Dg_bdejw-AcUNIFb17mL8f9SC54Er8erqxbdqda67EceuDubnN.png) ![](https://remnote-user-data.s3.amazonaws.com/p_Le2fTbBeGKTj4TWrM3PtxYS9gbG8kSGWb31yvkwFopRWIcdECTJ6waTLvLQ_701L1isiQqQGm4m0i4nUKIGxzo1alxlUiOFJf_6iXHbIggDsQhaxOmBMD0FbPdNntE.png) 
+                - **Medidas del comportamiento de un sistema de busqueda**
+                    - Completitud↔HAy garantia de encontrar la solución si esta existe
+                    - Optimalidad↔Hay garantia de encontrar la solución optima
+                    - Complejidad Temporal↔Tiempo que se requiere para encontrar la solucion
+                    - Complejidad Espacial↔Cantidad de memoria necesaria para llegar a la solucion del problema.
+- Busqueda sin información.
+    - Busqueda en anchura:
+        - Pseudocódigo:
+            - ![](https://remnote-user-data.s3.amazonaws.com/Dn-divOyN_iNfAbXiJQ9SVivPKIbvm-1iyozypvzjNeJMAyGUJfneCfFQfWXGOl6CeazEeX_osiq8zbLtJggBJ3ZUYJekcxQSL7oIWwefDA7l9a6dwW_SgIVDg6ZJgAn.png) 
+        - Ejemplo de funcionamiento:
+            - ![](https://remnote-user-data.s3.amazonaws.com/y-N0uv1xieJZy8nxOFTgtzYxvJ9zCq4YgZ5VWufnCmECK1yrLMPaksgGuPihgpbU9Iztv5leHN7vy7_5s7SYqJHLzZPCuSyc7dkqUFIwWH9SdKFqPJQ_2EW-ta4GFQxs.png) 
+        - Características: ↓ 
+            - Completo ⇒ Encuentra siempre solucion si existe y si el factor de ramificación de cada nodo es finito
+            - Optimalidad ⇒ Si todos los operadores tienen el mismo coste encontrará la solucion óptima (despreciando los costes de las acciones devolvera el plan con menor numero de acciones que satisface las restricciones de la busqueda)
+            - Eficiencia ⇒ Buena en espacios de busqueda acotados
+            - Complejidad Espacial ⇒ Alta/ Muy alta
+    - Busqueda en profundidad:
+        - Comola busqueda en anchura, cambiando la frontera porm una ED de tipo LIFO. Este algoritmo se puede implementar de manera iterativa.
+        - Características ↓ 
+            - Completitud ⇒ no asegura encontrar la solucion 
+            - Optimalidad ⇒ no asegura encontrar la solucion optima
+            - Eficiencia ⇒ Bueno cuando las metas estan alejadas del estado inicial, malo cuando existen ciclos
+    - **Busqueda con costo** 
+        - Pseudocódigo:
+            - ![](https://remnote-user-data.s3.amazonaws.com/JvzzFu5xYjH7ekBB5IBco0n16EBdjxiZ5DQW-MLXjcEaDmaBEs3xlSK92NxMI_hwUE33luWLwbXWVSa-U3Cn0HBjwtdgKS4h6OrRw1vAZzJvppAcZ4bvPNXRVApaWW6n.png)c  
+    - **Descenso iterativo**
+        - Pseudocódigo:
+            - ![](https://remnote-user-data.s3.amazonaws.com/JMTfRLFFJC3tW97ncp-QNv2pr6u5sihRipt7tjkfexEeODu0Qj2FdMUCJZHv76Aug54veZmLIgVKl3hnuwn4BEZXEAvUW2TAa17EHw8mAGLlqOKxM040NPifouohZwjD.png) 
+        - Funcionamiento:
+            - ![](https://remnote-user-data.s3.amazonaws.com/yhisaqsTUYlEGoyE8Nif9U55-JFZTQpK8GQ1CdjL5mB3p4rOnmtUGZKVCb3rBUTQbQbHj0PHiagjFal65ZjOezc1a5C4AGYx-eCBeWA4bQdk34DW4fnzlDQiZmiZPPqY.png) 
+- Busqueda con información. 
+    - Heurísticas
+        - Conjunto de reglas/conocimiento parcial sobre un problema que permite resolver problema/dominio eficientemente en ese problema/dominio.
+        - Si se tiene conocimiento perfecto sobre el problema, Se obtendra una solución optima.
+        - Características:
+            - Son criterios, métodos o principios para decidir cual de entre varias acciones promete ser la mejor para alcanzar una determinada meta
+            - Encapsulan conocimiento específico/experto que se tiene sobre un problema y sirve de guía para que in algoritmo de búsqueda pueda encontrar una solución válida aceptable. 
+            - Eventualmente una heurística puede devolver siempre soluciones óptimas bajo ciertas conciones (requiere de demostración)
+        - Ejemplo:
+            - ![](https://remnote-user-data.s3.amazonaws.com/Ec793antB14vAlmolrCbrdUViqmmjyeurTY5mehrl4EMX4jUnfSwINY3zoPDPMxSmIEhs32xdXtoMUi3Zt1Olz71fsm5UkcrJgursf0yRKcUajtWwHNKmhFXu_Rvy0dF.png) 
+    - Métodos de escalada
+        - Si dibujamos las soluciones como puntos en el espacio 
+        - ![](https://remnote-user-data.s3.amazonaws.com/TyUtmbHhZFK_E1JEDklQ13YZ73e7LtdPCrDtX_Ex655kZBs3E_qtGT-ainBXqTRYgrbeF-XPaHkmuEg0uyJ0-lYlp0saN9SBRIwdX2RxrDVudCiCS6jAg8vk_SuE3yb9.png) 
+        - **búsqueda local**→ consiste en seleccionar la solución mejor en el vecindario de una solución inicial, e ir viajando por las soluciones del espacio hasta encontrar un óptimo (local o global, en funcion de la heurística usada).
+        - Algoritmo de escalada simple:
+            - ![](https://remnote-user-data.s3.amazonaws.com/Jsu_U624lbs-GKB8MyS9fBpZ2c4QOvOFuIjHeOS0W59lFJC3TjtMfLiFGDhoHt2HYd8ZNSWmst9Y0rc5GvgZ3uveRjha6heSysxvPmMhSmYP3dvYOk-lY72D1HNrkMOp.png) 
+            - No es completo.
+            - No es admisible.
+            - Rápido si la funcion es monótona decreciente.
+        - Algoritmo de escalada por la máxima pendiente
+            - ![](https://remnote-user-data.s3.amazonaws.com/EwLZgHKdOP6gtYWfI362dRVGteK_iJLINy9wExaatFqm1FLpKb5a-c4n0b4tE4HusaRLe1YSLdHn5U8ppDNqn10GvbFisrgTpkgEc4fa3MuUM9JOxLiT8BPKDUpBZpiS.png) 
+            - No es completo.
+            - No es admisible.
+            - Rápido si la funcion es monótona decreciente.
+        - Variaciones Estocásticas (usando azar)
+            - **Enfriamiento Simulado:**
+        - 
+        - Algoritmos genéticos.
+            - **Definición: **→Sol algoritmos de optimización basados en el proceso de la evolución natural de darwin. Su objetivo es encontrar una solución cuyo valor de función objetivo sea óptimo.
+            - **Componentes** ↓ 
+                - Cromosoma↔Vector de representación de una solución al problema.
+                - Gen↔Caracteríßtica/variable/atributo concreto del vector de representación de una solución.
+                - Población↔Conjunto de soluciones de un problema.
+                - Adecuación al entorno↔Valor de la función objetivo.
+                - Selección natural↔Operador de selección.
+                - Reproducción sexual↔Operador de cruce.
+                - Mutación↔operador de mutación.
+                - Cambio generacional↔Operador de reemplazamiento.
+            - ![](https://remnote-user-data.s3.amazonaws.com/vOMz5MTc5G1V8nuLOMMkOUoFtidfjsPX9KIxtQO-8pMZknEAN_s6OBsk2ae9amx3tEAhyARiEviw3fdsF6bI3C8YCvcFLP6YXkMg9xc96bRAwpq0czCp9jaTzV86Knk0.png) 
+    - Busqueda primero el mejor
+        - Primero mejor greedy (BFS)
+            - Algoritmo de busqueda que visita siempre el nodo de la frontera con una mejor valoración heurística
+            - ** Pseudocódigo**
+                - ![](https://remnote-user-data.s3.amazonaws.com/84zisQwa7J3dAz3denKUZn_KOQPz9g9wLSezamKtcfGW6yIV6FVMD71W4jwdVnHPwFgEr49Y4DCNOOG8BncfD_zZzclZAfb_fYhBnaZrF-WMprFC8REtaA8c3fUAmESJ.png) 
+        - Algoritmo A*
+            - Algortimo de Busqueda que visita siempre el nodo que minimice/maximice la suma del costo de llegar a ese nodo mas el valor heurístico
+            - $f(n)=g(n)+h(n)$ 
+            - **Estrutura nodo:**
+                - ![](https://remnote-user-data.s3.amazonaws.com/7Q76MUxFpiYxOxgRgNqkHgqpaa8ywxbIj7x_MOa6A1DriOMZer2-0Sxlk6sjvkrkMPZebcUQwlPstJmxA3uZEpi1Ju7gCp3DW80Av2-RtK512FhP43rBQLkyTx_0owql.png) 
+                - hijos y mejor padre se pueden suprimir en función del tipo de problema y de como se tenga que presentar la solución.
+            - **Pseudocódigo:**
+                - ![](https://remnote-user-data.s3.amazonaws.com/plxVSQDjy4jLx7Eqf8HufTATwMP8kCJyOJmGmijwBl8r2QNv7kjsGunAh7az1G_6U1Y68QLthv6YjVlTFj4mWIorKZNKsjs_vk1mOUPUNuAakOTm_41Lg_WPlk7vD-FN.png)  
+                - Estructura similar a BFS,DFS y busqueda por costo, la priority queue de busqueda por costo, se ordena en funcion de la suma del costo y el valor heurístico. 
+            - Este algoritmo es capáz de generar una solución optima si y solo si la función heurística es monotona decreciente.
+            - **Casos particulares:**
+                - $\forall n, h(n)=0$ ⇒
+                    1. Si los costes son iguales se comporta como busqueda en anchura
+                    2. Si los costes no son iguales se comportan como un algoritmo de busqueda de costo uniforme
+                - $\forall n,g(n)=0$ ⇒ Se comprota como algoritmo grteedy de primero el mejor. 
+        - Busqueda dirigida
+            - Una variación del algoritmo A* que limita el factor de ramificación en problemas complejos.
+            - Cada vez que se expande un nodo, se evalua con la función heurística f, y se eliminan aquellos sucesores con peor valor de la f(n)
+    - ![](https://remnote-user-data.s3.amazonaws.com/O1uI0ufSCEo9Myymj7CH6SMX00lMC9fS7NwBTW0Cmv_oTb67M8XMJWFhbCrSBMa04eXl8yuz0pPafJTZvjQNU5WpHokXeL-0wMdn996sCabJJegEOkLzsneMj5wueJyE.png) 
+- Problemas descomponibles y búsqueda. 
+- 

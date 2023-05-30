@@ -1,0 +1,70 @@
+- Autómatas Finitos Deterministas
+    - Que es?
+        - Definición→Es una quintupla $M=(Q,A,\delta,q_0,F)$.
+        - Donde:↓ ↓ 
+            - Q⇒ Es un conjunto finito llamado conjunto de estados (Los estados en los que se define el sistema)
+            - A⇒ Es un alfabeto llamado alfabeto de entrada (Simbolos que lee el automata)
+            - $\delta$⇒ Es una aplicación (Función) llamada función de transición: $\delta:Q \times A \rightarrow Q$ (define el conjunto de transiciones entre estados y el motivo de este (que lee el automata)).
+            - $q_0$⇒ $q_0 \in Q$, estado en el que empieza a leer el automata, se llama estado inicial 
+            - F⇒ $F \sub Q$, conjunto de estados validos en los que puede acabar el automata. 
+        - Ejemplo
+            - ![](https://remnote-user-data.s3.amazonaws.com/92ufLw2X5PNhwBp7c_lHynwLnj93lOh8ugpjx1IPfeKXJkPGKbs3KsBEQXgpZZYVFzelGlQEgcNvg5hD7Kyy6sCRCea_bpdI0UczA-aR-vA8QWv6MFDgx0kg2pFljeRI.png) 
+    - Diagrama de transición
+        - Definición ⇒ es un grafo en el que:↓ ↓ 
+            - Hay un nodo por cada estado.
+            - Por cada transición $\delta(q,a)=p$ hay un arco de q a p con la etiqueta A.
+            - El estado inicial está indicado con un ángulio entrante.
+            - Los estados finales están indicados por una circunferencia.
+        - ![](https://remnote-user-data.s3.amazonaws.com/mYx8RLiu0usgwQEsuDj7qaNZ3DDI8iY4piiuE-aQMamnktu1S77fCT4kFpUoIA2tnUV-QY1FV12CCjzmdMgHuI5zs0duHYf_0r1h4iCBktBo1BUc2-ChgAnt9UieHyxV.png)
+        - Conceptos clave de los diagramas de transición de automatas finitos deterministicos ↓ 
+            - No puede haber mas de un nodo de entrada
+            - Puede haber mas de un estado final
+- Autómatas Finitos NO_Deterministas
+    - Que es?
+        - Definición→Es una quintupla $M=(Q,A,\delta,q_0,F)$.
+        - Donde:―
+            - Q⇒ Es un conjunto finito llamado conjunto de estados (Los estados en los que se define el sistema)
+            - A⇒ Es un alfabeto llamado alfabeto de entrada (Simbolos que lee el automata)
+            - $\delta$⇒ Es una aplicación (Función) llamada función de transición: $\delta:Q \times A \rightarrow \rho (Q)$ (define el conjunto de transiciones entre estados y el motivo de este (que lee el automata)).
+                - En estos autómatas la función puede devolver mas de un resultado para un input dado (motivo por el que se complica a la hora de computarlo)
+            - $q_0$⇒ $q_0 \in Q$, estado en el que empieza a leer el automata, se llama estado inicial
+            - F⇒ $F \sub Q$, conjunto de estados validos en los que puede acabar el automata.
+        - Tambien pueden usar diagramas de transición (solo que con modificaciones)
+        - ![](https://remnote-user-data.s3.amazonaws.com/KIwZUCDNwsZdocpCKvyAEe_7AwclJ-CIjKMLkVVd9_mSrBFewuGkKbBuJvmKcGLMlgHxIJw5qia8voBYhwCWEF8Sv7nkodRaqmgYWcZe_AOh7P2ZTOPUglsvl4kG5UGE.png)
+Acepta el conjunto de las palabras que tienen a 010010 como subcadena: palabras que se **pueden **leer pasando de $q_0$ a un estado final 
+        - Conceptos Clave de los AFND
+            - Puede haber estados que para una entrada tenga dos transiciones. Por ejemplo:
+                - $q_0$ cuando lee 0 puede pasar a 0 o a 1
+            - Puede haber estados que para una entrada no tengan ninguna transición: desde $q_1$ no se puede leer un 0
+            - Se puede transformar en un  Automata Finito determinista añádiendo transiciones necesarias para manejar las lecturas indeseadas, pasando a un nodo "sumidero"
+- Equivalencias entre autómatas finitos Deterministas/No deterministas ↓ 
+    - Un lenguaje puede ser aceptado por un AFD si es aceptado por un AFND
+        - Los AFD son tambien AFND
+    - Un lenguaje que es aceptado por un AFND es aceptado por un AFD
+        - Dado un AND se busca su equivalente AFD asociado
+- Autómatas Finitos con Transiciones Nulas
+    - Que es?
+        - Definición→Es una quintupla $M=(Q,A,\delta,q_0,F)$.
+        - Donde:↓ ↓ 
+            - Q⇒ Es un conjunto finito llamado conjunto de estados (Los estados en los que se define el sistema)
+            - A⇒ Es un alfabeto llamado alfabeto de entrada (Simbolos que lee el automata)
+            - $\delta$⇒ Es una aplicación (Función) llamada función de transición: $\delta:Q \times (A \cup \{\epsilon\}) \rightarrow \rho (Q)$ (define el conjunto de transiciones entre estados y el motivo de este (que lee el automata)).
+                - En estos autómatas la función puede devolver mas de un resultado para un input dado (motivo por el que se complica a la hora de computarlo)
+            - $q_0$⇒ $q_0 \in Q$, estado en el que empieza a leer el automata, se llama estado inicial
+            - F⇒ $F \sub Q$, conjunto de estados validos en los que puede acabar el automata.
+        - Tambien pueden usar diagramas de transición (solo que con modificaciones)
+    - 
+- Expresiones Regulares
+    - Que es?
+        - Si A es un alfabeto, una expresión regular sobre ese alfabeto es una expresión de la forma ↓ 
+            - 0 ⇒ es una expresion regular que denota el lenguaje vacio
+            - $\epsilon$ es una expresión regular que denota el lenguaje $\{\epsilon\}$ 
+            - Si $a \in A$, a es una expresion regular que denota el lenguaje $\{a\}$ 
+        - Si **r** y **s **son expresiones regulares denotando los lenguajes **R **y **S**  entonces definimos las siguientes operaciones ↓ 
+            - **Union⇒** $(r+s)$ es una expresión regular que denota el lenguaje $R \cup S$
+            - **Concatenación ⇒ **$(rs)$ es una expresión regular que denota el lenguaje RS
+            - **Clausura ⇒ **r* es una expresión regular que denota el lenguaje  
+- Gramáticas Regulares
+- 
+- 
+- 

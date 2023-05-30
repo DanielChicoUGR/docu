@@ -1,0 +1,46 @@
+- Introducción
+    - Término "LOCAL". Estructura de entorno. Proceso de búsqueda:
+        - Local::Todas las soluciones incluidas en el entorno de la solución actual, que viene delimitado por un operador de generación de soluciones, se denominan **soluciones vecinas** 
+            - ![](https://remnote-user-data.s3.amazonaws.com/1bYU9GkZcBXjUVKR3RV1hhhRWLjdu56nGkKmmtHv54LMXKPrNDWwk1Eu65DpmwNgkYrTCurLYS36-_IhW6loR7gBjpROrFCJUIvpdOQBAISTSPGNIeDy4QrgEUUAK6KZ.png) 
+        - Los algoritmos basados en esta estrategia efectúan **un estudio local del espacio de búsqueda,** puesto que analizan el entorno de la solución actual para decidir cómo continuar el recorrido de la búsqueda.
+        - Búsqueda local→Proceso que, dada la solución actual en la que se encuentra el recorrido, selecciona iterativamente una solución de su entorno para continuar la búsqueda.  
+            - Basta con diseñar la estructura de entorno para obtener un modelo genérico de algoritmo de búsque da.
+        - ![](https://remnote-user-data.s3.amazonaws.com/u67fE9AlMvCfpcPuM2oY-vy41GP08Pqgf6OvKGXBw20k8IjuOwFmPoaQHakkqlzkt4VH2ID7DM66EGMV2_cy_Piju207jJ8qxqacofVcAiFwCunmH5XZZwwkG3hNW4Pq.png) 
+            - Inicio
+            -     
+    - Búsqueda basada en poblaciones
+        - ![](https://remnote-user-data.s3.amazonaws.com/syF1RPx8O27f02ftugXhtYsBcMnbHaXKzp-d18gblA9jAasaBLiLuUowGYWPyYjVjnl7S_iC5cNwGEzVbZ4T7tcP-Kjql8Pt4-63-MzGYc18NQCwlL-fw_3ciMHivxYu.png) 
+        - En un modelo de poblaciones de soluciones debemos definir cómo generar nuevas poblaciones
+        - La nueva población asociada a la anterior y tener en cuenta la calidad de las anteriores soluciones
+        - Se podría tener un modelo que seleccione soluciones, opere con ellas y puedan ser reinsertadas en la población dando lugar a una nueva población.
+        - Se puede imitar a la genética, cómo se combinan cromosomas
+- Búsqueda aleatoria
+    - Búsqueda aleatoria pura
+        - Definición→Se elige aleatoriamente una muestra de soluciones del espacio de búsqueda y se devuelve la mejor
+        - Se diría que el entorno de una solución es todo el espacio de búsqueda
+        - ![](https://remnote-user-data.s3.amazonaws.com/O5hLVYfIhAPrtBAM_kYh7Jbz3b03X0voIMycSoNu8O72kw1f1A0Y_eaCLk9E7RCGtpzE2WXQlxkKohBbyX7LYAkiWBWhOEUYw2uLCLtRsmkI-f_JXWT9WnVfEojqwyhJ.png) 
+        - Estudio teórico de la eficiencia de la búsqueda aleatoria pura
+            - 
+    - Búsqueda Aleatoria por recorrido al azar
+        - La solución inicial se genera aleatoriamente.
+        - El entorno de cualquier solución es propio (no consta de todas las soluciones del espacio de búsqueda)
+        - La solución vecina a la solución actual se escoge aleatoriamente dentro del entorno y se acepta automáticamente
+        - Se almacena la mejor solución obtenida hasta el momento. Esta es la solución que se devuelve cuandos e llegue al limite de iteraciones
+- Métodos de búsqueda local básicos:
+    - Procedimiento Base
+        - Consiste en el muestreo de soluciones vecinas mejores que la actual en el entorno de esta
+        - Existe dos versiones ↓ 
+            - El mejor vecino
+            - Primer mejor vecino
+        - En ambos casos, el algoritmo devuelve la última solución visitada.
+        - ![](https://remnote-user-data.s3.amazonaws.com/cGK6GIiLy7UJbz7ILEZ9ECmflQutLupdmReViYkVE09JI3XXQbfeVT4QYIMxTuqNCVoWnLonQOB-Apsdqxtw1uoWX7QW3xYWZRA9t0kGOfANUdOMuWeVAuEka-Xyfpxp.png) 
+    - Búsqueda local del mejor (Steepest-Ascendt Hill Climbing)
+        - Genera el entorno completo de la solución actual y selecciona la mejor solución vecina.
+        - Si esta es mejor que la solución actual, la sustituye y se continua la iteración
+        - En otro caso el algoritmo finaliza
+        - ![](https://remnote-user-data.s3.amazonaws.com/ugPTNARuNF1VPRxAKyA8MfQzTvgvkfh9FKsOmWimtbnul6ZEM2St3Q6FcC3mhzDeHa-99rqJuIoM-NOsm8qwrmP5itcvdslHJjXsqF5W8W10hc5ucgciD2wJs_R4Pv5W.png)
+    - Búsqueda local del primer mejor (Simple hill climbing)
+        - Se va generando paso a paso el entorno de la solucion actual hasta que se obtiene una solución vecina que mejora a la actual o se construye el entorno completo
+        - En el primer caso, la solución vecina sustituye a la actual y se continua iterando
+        - En el segundo, se finaliza la ejecución del algoritmo
+        - ![](https://remnote-user-data.s3.amazonaws.com/Zd1DPdnYWkTW8WVHQw8oqMEN9NH2rtAx9UdcO6gLS-pHy5y9RQlW_78lYm_L2MCDMm5xO-SL7qHzVQSZJ2Lk4knexOu7aga6yohQaJ9ivYxaP3o_I02nq4DvNr0Zs8N-.png) 

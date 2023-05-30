@@ -1,0 +1,16 @@
+- Conceptos Previos:
+    - A partir de ahora se trabajará cib aplicaciones lineales de un espacio vectorial V en si mismo(Endomorfismo) y con matrices cuadradas.
+    - Si $f:V \rightarrow V$, para dar la martriz de la aplicación lineal, hay que elegir una base del primer espacio (V) y una base del segundo. 
+    - Aunque los espacios sean los mismos, la base no tienen por qué coincidir.
+    - En este tema vamos a elegir siempre la misma base en el espacio de partida y de llegada
+- Si B es una base de V, denotaremos: $M_B(f)$ a la matriz $M_{B,B}(f)$ (La matriz de "f" para las bases "b" y "b". Siempre cuadrada
+- Si B y B' son bases de V, $A=M_B(f)$ y $C=M_{B'}(f)$ . Entonces $$C=P^{-1}*A*P$$Donde $P=M_{B \rightarrow B'}$ 
+- 
+- Matrices Semejantes→Dadas $A,C \in  M_n(K)$, decimos que son semejantes si: $\exist\ P$ regular tal que $C=P^{-1}*A*P$ 
+    - A y C son semejantes, y representan el mismo isomorfismo con distinta base
+- Tenemos el determinante de ambas matrices es el mismo. 
+- Determinante de un isomorismo→det($M_B(f)$)=det(f) donde B es una base cualquiera de V. Siempre coinciden. 
+- 
+- 
+- 
+- 

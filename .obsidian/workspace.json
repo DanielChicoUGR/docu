@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "1a1124d040315ca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7395021ec78b97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16b653df4246f633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e95d0f254b2d611",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a275aff260e0bfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d75ecb5ee7ff7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66064eb7075bc942",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e45098f81a53a1ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "46116a3e66ef7479",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "a1522b5916ae254a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d50898d4fe81922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88866c0f988f2ce8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3d5cdf3bc1d3225",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "656c37bcf5539e03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "222a4335e85ad1f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md"
+              }
+            }
+          },
+          {
+            "id": "de96addffcfe5fd5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b17d8f7c4cfc59e8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe574e96de21fdc2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "16b653df4246f633",
+  "lastOpenFiles": [
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Modelo cinemático inverso.md",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530191300.png",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530191254.png",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método Algebraico.md",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método geométrico.md",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530190300.png",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530190240.png",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530190026.png",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530181007.png",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Untitled.canvas",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Untitled.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/imagenes/Pasted image 20230513101758.png",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/imagenes",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Ilustración de Overfitting.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Deterministic Noise.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Actuadores.md",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Morfología de los Robots Industriales.md",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Untitled.canvas",
+    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/Sistemas de coordenadas y localización espacial.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T4 ->.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T2-> Modelo Lineal.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/T1 ⇒ Introducción Aprendiendo de los Datos (Machine Learning).md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
+    "Untitled.md",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Velocidad de respuesta y estabilidad.md",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Trasmisiones.md",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Sistemas de Control.md",
+    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/imagenes/Pasted image 20230425131556.png",
+    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/imagenes/Pasted image 20230425131449.png",
+    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/imagenes",
+    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones",
+    "imagenes",
+    "Apuntes/Universidad/Robotica Industrial/imagenes",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/imagenes",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

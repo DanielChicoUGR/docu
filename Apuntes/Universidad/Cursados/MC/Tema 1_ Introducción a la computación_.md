@@ -1,0 +1,46 @@
+- Definiciones
+    - **Alfabeto**→Conjunto finito de letras o símbolos
+        - $$A=\{0,1\}$$Alfabeto formado por los símbolos 0 y 1
+    - **Palabra**→Sucesión finíta de símbolos de un alfabeto dado
+    - $A^*$↔Conjunto de todas las palabras de un alfabeto dado A
+    - $|u|$→Longitud de una palabra
+    - $\epsilon$→Palabra vacía
+        - $|\epsilon|=0$
+    - $A^+$→Conjunto de palabras de un alfabeto dado A excluyendo la palabra vacía
+- Operaciones con palabras y lenguajes
+    - Operaciones con palabras:
+        - Concatenación
+            - **Definición**→Unión de dos palabras.
+            - ![](https://remnote-user-data.s3.amazonaws.com/K8NdrTDWt7SM_L65MhEIl7guhHkWFhBFDiO7bA5JEfmZcb6BlBsnbTrfd9-qSzvM15iUS4TEQau-ufpCPPlQAjeRB_tnT5Sht4mG0imZ8XY9MSpEsFYpvNmA7Vdzzbpx.png) 
+            - **Propiedades** ↓ 
+                - $|u*v|=|u|+|v|$
+                - $(u*v)*w \ = \ u*(v*w)$
+                - $u* \epsilon = u$ 
+    - Lenguajes
+        - **Lenguaje**→Es un subconjunto del conjunto de cadenas de un alfabeto concreto
+            - $A: L \subseteq A^*$ 
+        - **Clausula de Kleene**→Expresión lógica que caracteriza si una palabra dada pertenece a un lenguaje determinado. 
+- Gramáticas
+    - Una **gramática generativa **es una cuadrupla (V,T,P,S) ↓ 
+        1. V→Alfabeto de variables o símbolos no terminales (Letras en Mayuscula)
+        2. T→Alfabeto, de simbolos terminales, (Letras en minuscula)
+        3. P→Conjunto finito de pares o reglas de producción
+        4. S→Simbolo de partida
+    - **Lenguaje Generado**→Conjjunto henerado de palabras formadas por solo simbolos terminales y que se derivan de simbolos de partida gracias a las reglas de producción. 
+- Jerarquía de Chomsky
+    - ![](https://remnote-user-data.s3.amazonaws.com/LehWXrEeF-U-G92PrffruL1xjUwRQdR9pxGGGV_bfySInocYQLCzeRNJeCwRvkwSiA1wK88sIUnLZvD84QSdDdBMI54xbK7fsGrg8GMVRi_ZA_w8cal3EMUpNylTQR3-.png) 
+    - Tipo 0
+        - Definición→Cualquier tipo de gramática, sin restricciones.
+        - Lenguajes recusrsivamente enumerables.
+    - Tipo 1
+        - Definición→**Todas las reglas de producción **tienen la forma $\alpha_1A\alpha_2 \rightarrow \alpha_1 \beta\alpha_2$ con $\alpha_1,\alpha_2,\beta \in (V \cup T)^* , a \in V,$ y $\beta \ne \epsilon$. Salvo $S \rightarrow \epsilon$ en cuyo caso S no aparece a la derecha.
+        - Lenguajes dependientes del contexto
+    - Tipo 2
+        - Definición→Si cualquier producción tiene la forma $A \rightarrow \alpha$ donde $A \in V$ y $\alpha \in (V \cup T)^*$
+        - Lenguajes Independientes/libres del contexto.
+    - Tipo 3
+        - Definición→Si toda regla de producción tiene la forma $A \rightarrow uB$ o $A \rightarrow u$ donde $u \in T^*$ y $A,B \in V$
+        - Conjuntos regulares.
+        - Si el problema se puede representar con una gramática de este nivel, el problema se puede resolver con una expresión regular en un analizador léxico (mejor caso de todos).
+    - Para identificar el tipo de gramática, bastaría con ver sus reglas de producción y determinar si cumplen las condiciones, del tipo 0 en adelante, al ser, cada uno de los tipos de gramáticas mas restrictivos
+    - Se pueden entender las reglas de producción como las instrucciones para comprobar la validez de la solución.

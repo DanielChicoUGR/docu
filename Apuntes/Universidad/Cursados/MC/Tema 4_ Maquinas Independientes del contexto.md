@@ -1,0 +1,39 @@
+- [Tipo 2](../../Cursados/MC/Tema 1_ Introducción a la computación_/Jerarquía de Chomsky/Tipo 2.md) 
+- Arbol de derivación
+    - Sea:
+        - $S \rightarrow a|b|c$
+        - $S \rightarrow (S+S)$
+        - $S \rightarrow (S*S)$
+    - Es una gramática libre del contexto.
+    - La siguiente cadena perteneciente al lenguaje generado por la gramática: $$((a+b)*c)$$
+    - Derviación:
+        - ![](https://remnote-user-data.s3.amazonaws.com/6x5q5L24vtbFQskHH_X56UKTTnuxJiyNypeJ92mXDmLT1eCDia-Y6FvlrPPLOdmO-t4K7c0GJDs-twGyN-MnMqI81H53IX6UllVP65LXU6tdo7Pgzk8Jq2J3epZcKbOV.png)
+    - Árbol:
+        - ![](https://remnote-user-data.s3.amazonaws.com/rW08nWs-O5sAcaNbci3MVpR8OZIoRDCo-xh0-KbYEQA0e5KsRgp9hCEs34xgv6UttZtGiF0WUEegFXtFHM4OPBUW-7e3U2zRJxRNbcVHCvn2u-361lmP41gVQNl2asHu.png) 
+    - A recordar ↓ 
+        - Derivación por la Izquierda→Asociada a un árbol a aquella en la que siempre se deriva primero la primera variable que aparece en la palabra
+        - Derivación por la derecha→Asociada a un árbol a aquella en la que siempre se deriva primero la última variable que aparece la palabra
+        - Un Arbol de Derivación puede proceder de dos cadenas de derivación distintas
+- Ambigüedad
+    - Gramática Ambigua→Una gramática se dice ambigua si existe una palabra con dos árboles de derivación distintos
+    - Ejemplo:
+        - Gramatica:
+            - $S \rightarrow AA$
+            - $A \rightarrow aSa$
+            - $A \rightarrow a$ 
+        - Arboles de derivación para $a^5$ 
+            - ![](https://remnote-user-data.s3.amazonaws.com/EEfA6ssxDmu3v1krzTAU-xpttowRaRjJynfOPdCP_k18Rp55i0ooLI2BUgmkDwl0nFaUrhu4BDDQH5kRuIHvUpHK_5_a7cHlevSFjwQiImGrCuYC62nwlJvEVzTxYIDj.png) 
+    - Lenguaje Inerentemente Ambiguo→toda gramática que genera dicho lenguaje es ambigua. 
+- Algoritmos de simplificación de gramáticas
+    - Eliminación de símbolos y producciones inútiles
+        - Un simbolo $X \in (V \cup T)$ se dice ^^útil^^ si y solo si existe una cadena de derivaciones en G tal que: $S {\Rightarrow^*} \alpha X \beta {\Rightarrow^*} w \in T^*$
+        - Una producción se dice ^^útil^^** **si y solo si todos sus símbolos son útiles. Esto es equivalente a queda usarse en la derivación de alguna palabra de; ;enguaje asociado a la gramática 
+        - Algoritmo ↓ 
+            1. Eliminar las variables desde las que no se puede llegar a una palabra de $T^*$ y las producciones en las que aparezcan 
+            2. Eliminar aquellos símbolos que no sean alcanzbles desde el símbolo inicial, S, y las producciones en las que estos aparezcan.
+    - Eliminación de producciones nulas
+    - Eliminación de producciones unitarias
+- Formas Normales
+    - Formal Normal de Chomsky
+    - Forma Normal de Greibach
+- 
