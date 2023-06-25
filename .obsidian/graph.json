@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:/Apuntes/Apren",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6218578117434893,
-  "close": false
+  "scale": 0.25399367226979147,
+  "close": true
 }

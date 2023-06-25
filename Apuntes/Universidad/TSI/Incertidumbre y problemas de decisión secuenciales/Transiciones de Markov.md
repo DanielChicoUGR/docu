@@ -1,0 +1,7 @@
+Una transición de tipo Markov, o cadena de Markov, es un proceso estocástico que evoluciona a través de una secuencia de estados, en el cual la probabilidad de transición de un estado a otro solo depende del estado actual y no de los estados anteriores. Esta propiedad se conoce como la propiedad de Markov o la propiedad de la memoria corta.
+
+En una cadena de Markov, la transición de un estado a otro está determinada por una matriz de probabilidades de transición, también conocida como matriz de transición. Esta matriz especifica las probabilidades de pasar de un estado a otro estado en el siguiente paso. Las filas de la matriz representan los estados actuales y las columnas representan los estados siguientes.
+
+==**La propiedad de Markov implica que la probabilidad de transición solo depende del estado actual y no de cómo se llegó a ese estado. Esto hace que las cadenas de Markov sean especialmente útiles para modelar sistemas que exhiben propiedades de memoria corta o que son independientes del pasado más allá del estado actual.**==
+
+Las cadenas de Markov se utilizan en una amplia gama de aplicaciones, como procesamiento de señales, análisis de texto, pronóstico del clima, modelado de sistemas físicos, análisis financiero, entre otros. Se han desarrollado diversas técnicas y algoritmos para analizar y simular cadenas de Markov, lo que ha llevado a numerosas aplicaciones en diferentes campos.

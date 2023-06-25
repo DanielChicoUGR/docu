@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"file","file":"Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/imagenes/Pasted image 20230531165327.png","id":"2b3c5175b3bc6c14","x":-1124,"y":-1049,"width":400,"height":482},
+		{"type":"text","text":"## Matriz de Devanit_Hartemberg:\n\n| i   | $\\theta_i$ | $d_i$  | $a_i$ | $\\alpha_1$ |\n| --- | ---------- | ------ | ----- | ---------- |\n| 1   | $q_1$      | $l_1$  | $l_2$ | 0          |\n| 2   | $q_2$      | 0      | $l_3$ | 0          |\n| 3   | 0      | $q_3$ | 0     | 0      |\n| 4   | $q_4$      | $-l_4$ | 0     | $\\pi$      |\n\n","id":"a0b63e0dcb6dd188","x":-560,"y":-1049,"width":348,"height":355},
+		{"type":"text","text":"## Matriz de Transformada Homogenea\n$$\n^0T_4=\\begin{bmatrix}\nC_{124} & S_{124} & 0 & l_3C_{12}+l_2C_1 \\\\\nS_{124} & -C_{124} & 0 & l_3S_{12}+l_2S_1 \\\\\n0 & 0 & -1 & -l_4 + q_3+l_1 \\\\\n0 & 0 & 0& 1\\\\\n\\end{bmatrix}\n$$","id":"16e5b8c94a6c0fd2","x":-560,"y":-567,"width":437,"height":267},
+		{"type":"text","text":"## Ecuaciones\n- $x=l_3C_{12}+l_2C_1$\n- $y=l_3S_{12}+l_2S_1$\n- $z=-l_4 + q_3+l_1$\n- $\\alpha=q_1+q_2+q_4$\n- $\\beta=0$\n- $\\gamma=\\pi$ ","id":"cb197232ffbcf01d","x":-84,"y":-1068,"width":505,"height":260},
+		{"type":"text","text":"## Matriz Jacobiana analítica\n$$\nJ_a=\\begin{bmatrix}\n-(l_3S_{12}+l_2S_1) & -l_3S_{12} & 0 & 0 \\\\\nl_3C_{12}+l_2C_1 & l_3C_12 & 0 & 0 \\\\\n0 & 0 & 1 & 0 \\\\\n1 & 1 & 0 & 1 \\\\\n0 & 0 &0 & 0\\\\\n0 & 0 &0 & 0\\\\\n\\end{bmatrix}\n$$\n","id":"01442a4778c1dfb6","x":-44,"y":-592,"width":465,"height":267},
+		{"type":"file","file":"Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/imagenes/Ejemplo_Calculo_Jacobiana_SCARA.png","id":"b782c028f33b4316","x":-684,"y":-236,"width":666,"height":397}
+	],
+	"edges":[
+		{"id":"419df0cf8296c09a","fromNode":"2b3c5175b3bc6c14","fromSide":"right","toNode":"a0b63e0dcb6dd188","toSide":"left"},
+		{"id":"bf39b644a4218b6e","fromNode":"a0b63e0dcb6dd188","fromSide":"bottom","toNode":"16e5b8c94a6c0fd2","toSide":"top"},
+		{"id":"8eeedf790380b19e","fromNode":"cb197232ffbcf01d","fromSide":"bottom","toNode":"01442a4778c1dfb6","toSide":"top"},
+		{"id":"6aee367a07e98e98","fromNode":"16e5b8c94a6c0fd2","fromSide":"right","toNode":"cb197232ffbcf01d","toSide":"left"},
+		{"id":"d7c0ebf759260a9b","fromNode":"01442a4778c1dfb6","fromSide":"bottom","toNode":"b782c028f33b4316","toSide":"top"}
+	]
+}

@@ -1,0 +1,13 @@
+
+- Un nodo sucesor de otro nodo se representa como, dado $N_i$ y $N_j$ se dice que $N_j$ es sucesor de $N_i$ si $N_j \in suc(N_i)$ y esta conexión tiene un coste $C(N_i,N_j)>0$. 
+- Los nodos iniciales se representan como $S_1,\dots,S_n$, porque teóricamente puede haber más de uno pero se puede tener un nodo "virtual" que se conecte a todos los nodos con un coste 0 para tener siempre un único nodo inicial, sin importar el problema.
+- Los nodos objetivo se representan como $\gamma_1,\dots,\gamma_n$. El conjunto de todos se representan como $\Gamma$ y este conjunto no es lo mismo que S, no se conectan. Es solo la agrupación de todos.
+- Como en A* se explora por caminos, se representa un camino entre dos nodos cualesquiera que no tienen que ser sucesores directos uno del otro como $P_{N_i-N_j}$. También se pueden tener los caminos entre un nodo a un conjunto de nodos.
+- $P*_{N_i-N_j}$ indica el camino óptimo entre $N_i$ y $N_j$ .
+- $k(N_i,N_j)$ representa el coste óptimo del camino $P$ entre $N_i$ y $N_j$ .
+- $g*(N_i)$ es el coste del camino óptimo entre $S$ y $N_i$ . Equivalente a $k(S,N_i)$ . Se diferencia de la actual $g$ porque es el mejor camino teórico de todos aunque el no lo haya considerado, se puede pensar que A* lo que intenta es estimar la que desconoce.
+- $h^*(N_i)$ es el coste del camino óptimo $P^*$ entre $N_i$ y al mejor objetivo. Equivalente a $\min(k(N_i,\gamma)), \gamma \in \Gamma$.
+- $C^*$ es el coste del camino óptimo entre $S$ y el o los mejores objetivos, equivalente a $h^*(S)$. Es equivalente también a $g^*(\Gamma^*)$ .
+- $\Gamma^* \subseteq \Gamma$, es el subconjunto de los nodos objetivo a los que se puede llegar por un camino de coste $C^*$.
+- $f^*(N_i)=g^*(N_i)+h^*(N_i)$ es la función teórica del mejor camino que va de a sumado al mejor camino que va de $N_i$ a $\gamma$.
+	- El óptimo de es lo mismo que si es el nodo objetivo óptimo y también coincide con el coste asociado.

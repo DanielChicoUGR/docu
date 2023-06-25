@@ -7,5 +7,7 @@
   "obsidian-git",
   "obsidian-image-toolkit",
   "obsidian-admonition",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "open-vscode",
+  "pseudocode-in-obs"
 ]

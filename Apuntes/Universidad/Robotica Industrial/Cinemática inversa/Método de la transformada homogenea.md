@@ -4,6 +4,7 @@ Tiene su base en el [[Método Algebraico]] aprovechandose de las propiedades del
 ## Ejemplo Robot TRL
 ![[Pasted image 20230530191254.png]]![[Pasted image 20230530191300.png]]
 #### Tabla Devanit-Hartenberg del robot
+
 | i   | $\theta_i$ | $d_i$ | $a_i$ | $\alpha_1$ |
 | --- | ---------- | ----- | ----- | ---------- |
 | 1   | $q_1$      | $l_1$ |    0   | 90         |

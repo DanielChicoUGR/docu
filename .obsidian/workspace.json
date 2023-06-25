@@ -4,18 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "2b7395021ec78b97",
+        "id": "2ec26904a4b4226c",
         "type": "tabs",
         "children": [
           {
-            "id": "16b653df4246f633",
+            "id": "46200da7f5aa8ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
-                "mode": "preview",
-                "source": true
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91a5e55fb13c551a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de búsqueda con Profundidad Iterativa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8839c12b686348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Transiciones de Markov.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -77,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 679.5
   },
   "right": {
     "id": "a1522b5916ae254a",
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,25 +152,17 @@
             }
           },
           {
-            "id": "222a4335e85ad1f8",
+            "id": "b395a48e469157b9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md"
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md"
               }
             }
           },
           {
-            "id": "de96addffcfe5fd5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b17d8f7c4cfc59e8",
+            "id": "423f793332194588",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -154,18 +170,20 @@
             }
           },
           {
-            "id": "fe574e96de21fdc2",
+            "id": "5afaeffb3b77cd48",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,60 +197,64 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-vscode:VSCode": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "16b653df4246f633",
+  "active": "46200da7f5aa8ead",
   "lastOpenFiles": [
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Modelo cinemático inverso.md",
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530191300.png",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530191254.png",
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método Algebraico.md",
+    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Desacoplo Cinemático.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo IDA*.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de búsqueda con Profundidad Iterativa.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de Agendas.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo SMA*.md",
+    "Templates/Def_Alg.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Transiciones de Markov.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo A*.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Notación heurísticas.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Sistemas inteligentes.md",
+    "Templates",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Heurísticas.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Comportamiento bajo incertidumbre.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Problemas de decisión secuenciales.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611191054.png",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611190526.png",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611185833.png",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611175157.png",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Búsqueda primero mejor.md",
+    "Apuntes/Universidad/TSI/wuolah-free-Tema-1-Sistemas-Inteligentes-y-Busqueda-gulag-free-gulag-free.pdf",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Sistemas Lineales.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda",
+    "Apuntes/Universidad/TSI/P1",
+    "Apuntes/Universidad/TSI/Untitled.md",
+    "Apuntes/Universidad/TSI",
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método geométrico.md",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530190300.png",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530190240.png",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530190026.png",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes/Pasted image 20230530181007.png",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/imagenes",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Untitled.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Untitled.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje",
-    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/imagenes/Pasted image 20230513101758.png",
-    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/imagenes",
-    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Ilustración de Overfitting.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Deterministic Noise.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)",
-    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Actuadores.md",
-    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Morfología de los Robots Industriales.md",
-    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Untitled.canvas",
-    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/Sistemas de coordenadas y localización espacial.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T4 ->.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2-> Modelo Lineal.md",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Introducción.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Untitled.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/T1 ⇒ Introducción Aprendiendo de los Datos (Machine Learning).md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
-    "Untitled.md",
-    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Velocidad de respuesta y estabilidad.md",
-    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Trasmisiones.md",
-    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Sistemas de Control.md",
-    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/imagenes/Pasted image 20230425131556.png",
-    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/imagenes/Pasted image 20230425131449.png",
-    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones/imagenes",
-    "Apuntes/Universidad/Robotica Industrial/Localización espacial y transformaciones",
-    "imagenes",
-    "Apuntes/Universidad/Robotica Industrial/imagenes",
-    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/imagenes",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681893705536_gulag_free.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681832400602_gulag_free.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681832450601_gulag_free.pdf",
+    "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604130031.png",
+    "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604130020.png",
+    "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604130012.png",
+    "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604130002.png",
+    "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604125950.png",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Ejemplo SCARA Jacobiana Analitica.canvas",
     "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Untitled 1.canvas",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Untitled.canvas",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Untitled.canvas"
   ]
 }
