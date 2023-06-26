@@ -1,4 +1,5 @@
 El objetivo es aprender una función desconocida $f$ con:
+?
 	1. Muestras de datos
 	2. El valor de la función para cada uno de los datos (etiqueta)
 
@@ -25,3 +26,22 @@ p31 & p32-->p3
 ## Formalización:
 ![[Pasted image 20230419125947.png]]
 
+### 1. El Dataset
+?
+- Los datos vienen, desde el punto de vista matemático de una distribución de probabilidad $P(D)$
+- Se presupone que los datos están *idealmente idénticamente distribuidos* 
+
+### 2. Objetivo
+- Tareas de predicción:$$f:X \rightarrow Y \text{ (Labels)}$$
+ 
+### 3. El modelo
+?
+- Se escoge una clase de función, del conjunto de todas las funciones: $H$ 
+- Como caracterizamos cada elemento de $h \in H$ -> Parámetros, arquitectura ... 
+
+### 4. El algoritmo de aprendizaje -> Buscando dentro de $H$?
+?
+- Criterios óptimos para asegurar el aprendizaje $A$:
+	1. ERM -> [[Empirical Risk Minimization]]
+	2. SRM -> [[Structural Risk Minimization]]
+	3. Medida de Similaridad?
