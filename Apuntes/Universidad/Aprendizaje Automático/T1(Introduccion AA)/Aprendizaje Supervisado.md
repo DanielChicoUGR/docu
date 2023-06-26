@@ -29,7 +29,7 @@ p31 & p32-->p3
 ### 1. El Dataset
 ?
 - Los datos vienen, desde el punto de vista matemático de una distribución de probabilidad $P(D)$
-- Se presupone que los datos están *independientemente e identicamente distribuid
+- Se presupone que los datos están *independientemente e identicamente distribuidos*
 
 ### 2. Objetivo
 - Tareas de predicción:$$f:X \rightarrow Y \text{ (Labels)}$$
