@@ -11,24 +11,11 @@
             "id": "1a05c2e8488fd870",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
-              }
-            }
-          },
-          {
-            "id": "29b7398326776934",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
-          }
+          "state": {}
         }
       },
       {
@@ -162,10 +145,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29b7398326776934",
+  "active": "1a05c2e8488fd870",
   "lastOpenFiles": [
-    "2023-06-26.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
+    "2023-06-26.md",
     "Highlights for T1,2.md",
     "Templates/Def_Alg.md",
     "Templates",
