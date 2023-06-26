@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0383d8524cb512e0",
+        "id": "213f74480c62d6dd",
         "type": "tabs",
         "children": [
           {
-            "id": "1a05c2e8488fd870",
+            "id": "4dcdc3e8d36017ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Def_Alg.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Def_Alg.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Def_Alg.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Templates/Def_Alg.md"
-          }
+          "state": {}
         }
       },
       {
@@ -125,9 +117,17 @@
           "type": "review-queue-list-view",
           "state": {}
         }
+      },
+      {
+        "id": "572b98bf689acbcf",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,8 +145,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a05c2e8488fd870",
+  "active": "4dcdc3e8d36017ec",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
+    "Apuntes/Universidad/Cursados/ALEM/T3.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
+    "2023-06-26.md",
+    "Highlights for T1,2.md",
     "Templates/Def_Alg.md",
     "Templates",
     "Documentacióm/youtube/windows/windows-updates.md",
@@ -171,10 +177,6 @@
     "Documentacióm/youtube/tools/git.md",
     "Documentacióm/youtube/tools/direnv.md",
     "Documentacióm/youtube/tools/datree.md",
-    "Documentacióm/youtube/tools/bitwarden.md",
-    "Documentacióm/youtube/tools/ansible.md",
-    "Documentacióm/youtube/tools/ansible-playbook.md",
-    "Documentacióm/youtube/tools/1password.md",
     "Documentacióm/youtube/tools",
     "Documentacióm/youtube/networking",
     "Documentacióm/youtube/misc",
@@ -182,7 +184,6 @@
     "Documentacióm/youtube/linux/assets/awk.cheat.sheet.pdf",
     "Documentacióm/youtube/linux/distros",
     "Documentacióm/youtube/linux/assets",
-    "Documentacióm/youtube/linux",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/Pasted image 20230419125947.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/DiagramaInicialML.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
