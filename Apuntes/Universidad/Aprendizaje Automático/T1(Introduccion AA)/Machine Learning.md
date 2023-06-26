@@ -1,4 +1,4 @@
-**Definición**:: Un programa aprende de una experiencia $E$ con respecto a una clase de tareas $T$ con un desempeño $P$ <-> Al aumentar la cantidad de experiencias $E$, $P_T$ también aumenta
+*Definición*:: Un programa aprende de una experiencia $E$ con respecto a una clase de tareas $T$ con un desempeño $P$ <-> Al aumentar la cantidad de experiencias $E$, $P_T$ también aumenta
 	Cuantos mas datos tengamos, mayor experiencia.
 # Paradigmas
 ## [[Aprendizaje Supervisado]]
