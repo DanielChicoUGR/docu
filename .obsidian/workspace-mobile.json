@@ -15,9 +15,9 @@
               "state": {
                 "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
                 "viewState": {
-                  "x": 1488,
-                  "y": 778.5,
-                  "zoom": -0.9280946191913276
+                  "x": 165.40615037743373,
+                  "y": 563.6327497206313,
+                  "zoom": -1.6646834833507163
                 }
               }
             }
@@ -88,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
           }
         }
       },
