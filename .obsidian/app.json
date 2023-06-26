@@ -11,5 +11,6 @@
   },
   "showUnsupportedFiles": true,
   "readableLineLength": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "promptDelete": false
 }
