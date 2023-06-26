@@ -2,18 +2,11 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
-    {
-      "query": "path:Apuntes",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
     {
       "query": "path:Documentacióm",
       "color": {
@@ -22,10 +15,10 @@
       }
     },
     {
-      "query": "path:Apuntes/Universidad/Aprendizaje  ",
+      "query": "path:Apuntes/Universidad/Aprendizaje Automático ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 65280
       }
     }
   ],
@@ -39,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9057694191368357,
+  "scale": 1.4385249832885791,
   "close": false
 }
