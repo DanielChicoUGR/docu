@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md"
+                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es.md"
               }
             }
           },
@@ -204,11 +204,12 @@
   },
   "active": "46200da7f5aa8ead",
   "lastOpenFiles": [
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo SMA_STAR.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo IDA_STAR.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo A_STAR.md",
     "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-AATema7Paracetamol_gulag_free.pdf",
-    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es?.md",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es.md",
     "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681832450601_gulag_free.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681893705536_gulag_free.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Ilustración de Overfitting.md",
