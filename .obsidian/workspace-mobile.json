@@ -11,11 +11,9 @@
             "id": "1a05c2e8488fd870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Templates/Def_Alg.md",
-                "mode": "source",
-                "source": false
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Def_Alg.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Def_Alg.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Def_Alg.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
           }
         }
       },
