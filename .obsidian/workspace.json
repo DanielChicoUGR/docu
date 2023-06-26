@@ -6,46 +6,33 @@
       {
         "id": "2ec26904a4b4226c",
         "type": "tabs",
-        "dimension": 62.71929824561403,
         "children": [
           {
             "id": "46200da7f5aa8ead",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
-                "viewState": {
-                  "x": 1305.9348733693819,
-                  "y": -416.790356923614,
-                  "zoom": -0.15035645644258064
-                }
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
+                "mode": "source",
+                "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "95a02d31f6d3741e",
-        "type": "tabs",
-        "dimension": 37.280701754385966,
-        "children": [
+          },
           {
-            "id": "56bd896e1a4ffd75",
+            "id": "0b33d24325e3749f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
-                "viewState": {
-                  "x": 390,
-                  "y": -400,
-                  "zoom": -1.714004445722895
-                }
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas"
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md"
               }
             }
           },
@@ -204,19 +191,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "56bd896e1a4ffd75",
+  "active": "0b33d24325e3749f",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/T1 ⇒ Introducción Aprendiendo de los Datos (Machine Learning).md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/T1 ⇒ Introducción Aprendiendo de los Datos (Machine Learning).md",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Transiciones de Markov.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de búsqueda con Profundidad Iterativa.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T7.pdf",
@@ -237,9 +228,6 @@
     "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T4 ⇒ Sistemas de representación estructurados.md",
     "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T2 ⇒ Adquisición de conocimiento.md",
     "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T1 ⇒ Introducción al conocimiento_.md",
-    "Apuntes/Universidad/Metaheurísticas/Tema   1.md",
-    "Apuntes/Universidad/Metaheurísticas/Tema 2. Modelos de Búsqueda_ Entornos y trayectorias vs Poblaciones.md",
-    "Apuntes/Universidad/Metaheurísticas/Tema 3. Metaheurísticas basadas en poblaciones.md",
     "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
     "Templates",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611191054.png",
