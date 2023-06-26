@@ -1,6 +1,6 @@
 ### Definición:
 ?
-- Similar al [[Algoritmo A*]] con la diferencia de que el tamaño de abiertos esta fijo, cuando este se llena elimina el peor nodo en el (Puede joder la busqueda)
+- Similar al [[Algoritmo A_STAR]] con la diferencia de que el tamaño de abiertos esta fijo, cuando este se llena elimina el peor nodo en el (Puede joder la busqueda)
 - Al eliminar nodos, en el padre se almacena el valor del hijo para regenerarlo si el resto d e caminos son peores
 
 ### Características:
@@ -51,7 +51,7 @@
 ### Análisis:
 
 #### Ventajas:
-1. Las mismas que [[Algoritmo A*]]
+1. Las mismas que [[Algoritmo A_STAR]]
 2. Uso óptimo del espacio
 3. No expande muchas veces los mismos nodos
 

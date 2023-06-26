@@ -1,5 +1,5 @@
 ## Algoritmo A*
-![[Algoritmo A*]]
+![[Algoritmo A_STAR]]
 
 ## Algoritmo de Agendas
 ![[Algoritmo de Agendas]]

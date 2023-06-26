@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md",
+                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md",
+                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md",
+                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md"
+                "file": "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md"
               }
             }
           },
@@ -204,48 +204,47 @@
   },
   "active": "46200da7f5aa8ead",
   "lastOpenFiles": [
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo SMA_STAR.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo IDA_STAR.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo A_STAR.md",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-AATema7Paracetamol_gulag_free.pdf",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es?.md",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681832450601_gulag_free.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681893705536_gulag_free.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Ilustración de Overfitting.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T4 ⇒ Sistemas de representación estructurados.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T2 ⇒ Adquisición de conocimiento.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T1 ⇒ Introducción al conocimiento_.md",
+    "Apuntes/Universidad/Metaheurísticas/Tema   1.md",
+    "Apuntes/Universidad/Metaheurísticas/Tema 2. Modelos de Búsqueda_ Entornos y trayectorias vs Poblaciones.md",
+    "Apuntes/Universidad/Metaheurísticas/Tema 3. Metaheurísticas basadas en poblaciones.md",
+    "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
+    "Templates/Def_Alg.md",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Jacobiana analítica.md",
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Modelo cinemático inverso.md",
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método de la transformada homogenea.md",
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método Algebraico.md",
     "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Desacoplo Cinemático.md",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo IDA*.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de búsqueda con Profundidad Iterativa.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de Agendas.md",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo SMA*.md",
-    "Templates/Def_Alg.md",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Transiciones de Markov.md",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo A*.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Notación heurísticas.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Sistemas inteligentes.md",
     "Templates",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Heurísticas.md",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Comportamiento bajo incertidumbre.md",
-    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Problemas de decisión secuenciales.md",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611191054.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611190526.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611185833.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611175157.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Búsqueda primero mejor.md",
     "Apuntes/Universidad/TSI/wuolah-free-Tema-1-Sistemas-Inteligentes-y-Busqueda-gulag-free-gulag-free.pdf",
-    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Sistemas Lineales.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda",
     "Apuntes/Universidad/TSI/P1",
-    "Apuntes/Universidad/TSI/Untitled.md",
-    "Apuntes/Universidad/TSI",
-    "Apuntes/Universidad/Robotica Industrial/Cinemática inversa/Método geométrico.md",
-    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Introducción.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Untitled.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/T1 ⇒ Introducción Aprendiendo de los Datos (Machine Learning).md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681893705536_gulag_free.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681832400602_gulag_free.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-app-1681832450601_gulag_free.pdf",
     "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604130031.png",
     "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604130020.png",
     "Apuntes/Universidad/Robotica Industrial/Dinámica de manipuladores/imagenes/Pasted image 20230604130012.png",

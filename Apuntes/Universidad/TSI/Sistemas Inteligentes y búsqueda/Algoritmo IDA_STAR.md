@@ -1,6 +1,6 @@
 ### Definición:
 ?
--  Combina el [[Algoritmo A*]] con el [[Algoritmo de búsqueda con Profundidad Iterativa]]
+-  Combina el [[Algoritmo A_STAR]] con el [[Algoritmo de búsqueda con Profundidad Iterativa]]
 - El límite lo establece la función de evaluación
 	- En cada iteración, el límite es el menor de los valores devuelto por la función de evaluación de los nodos que excedieron el límite en la iteración anterior.
 
@@ -9,7 +9,7 @@
 
 **Completo**-> Si existe solución la encuentra
 
-**Óptimo** -> Con las mismas características que el [[Algoritmo A*]]
+**Óptimo** -> Con las mismas características que el [[Algoritmo A_STAR]]
 
 **Complejidad temporal** $\rightarrow$ Exponencial 
 
@@ -72,7 +72,7 @@
 ### Análisis:
 
 #### Ventajas:
-1. Las mismas que el [[Algoritmo A*]]
+1. Las mismas que el [[Algoritmo A_STAR]]
 2. Ocupa muy poco espacio en memoria
 
 #### Desventajas:
