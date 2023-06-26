@@ -11,8 +11,15 @@
             "id": "4dcdc3e8d36017ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
+                "viewState": {
+                  "x": 1488,
+                  "y": 778.5,
+                  "zoom": -0.9280946191913276
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +116,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md"
+          }
         }
       },
       {
@@ -125,9 +136,17 @@
           "type": "advanced-tables-toolbar",
           "state": {}
         }
+      },
+      {
+        "id": "03b841d31c4bbf80",
+        "type": "leaf",
+        "state": {
+          "type": "mermaid-toolbar-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {

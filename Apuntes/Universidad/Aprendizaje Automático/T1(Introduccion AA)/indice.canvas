@@ -9,7 +9,7 @@
 		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md","id":"b1debd4521330939","x":1000,"y":360,"width":976,"height":837,"color":"1"},
 		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md","id":"b556cca4a1ca3b59","x":1000,"y":-480,"width":976,"height":620,"color":"1"},
 		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md","id":"4bf69337fe188820","x":1000,"y":-1480,"width":992,"height":837,"color":"1"},
-		{"id":"226006b277aba8f4","x":-960,"y":480,"width":1900,"height":820,"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf","subpath":"#page=1"}
+		{"type":"file","file":"Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf","subpath":"#page=1","id":"226006b277aba8f4","x":-960,"y":480,"width":1900,"height":820}
 	],
 	"edges":[
 		{"id":"278541085bea53e5","fromNode":"b556cca4a1ca3b59","fromSide":"top","toNode":"4bf69337fe188820","toSide":"bottom"},
