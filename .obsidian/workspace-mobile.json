@@ -11,8 +11,12 @@
             "id": "4dcdc3e8d36017ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md"
+          }
         }
       },
       {
@@ -145,7 +153,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62f92f769436c039",
+  "active": "4dcdc3e8d36017ec",
   "lastOpenFiles": [
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
     "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
