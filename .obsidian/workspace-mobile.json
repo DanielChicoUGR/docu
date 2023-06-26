@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0383d8524cb512e0",
+        "id": "213f74480c62d6dd",
         "type": "tabs",
         "children": [
           {
-            "id": "1a05c2e8488fd870",
+            "id": "4dcdc3e8d36017ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -145,8 +145,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a05c2e8488fd870",
+  "active": "4dcdc3e8d36017ec",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
+    "Apuntes/Universidad/Cursados/ALEM/T3.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
     "2023-06-26.md",
@@ -175,7 +177,6 @@
     "Documentacióm/youtube/tools/git.md",
     "Documentacióm/youtube/tools/direnv.md",
     "Documentacióm/youtube/tools/datree.md",
-    "Documentacióm/youtube/tools/bitwarden.md",
     "Documentacióm/youtube/tools",
     "Documentacióm/youtube/networking",
     "Documentacióm/youtube/misc",
