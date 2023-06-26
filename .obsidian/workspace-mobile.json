@@ -11,12 +11,8 @@
             "id": "4dcdc3e8d36017ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md"
-          }
+          "state": {}
         }
       },
       {
@@ -155,12 +147,14 @@
   },
   "active": "4dcdc3e8d36017ec",
   "lastOpenFiles": [
+    "imagenes/Recording 20230626181147.webm",
+    "imagenes",
+    "2023-06-26.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
     "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
     "Apuntes/Universidad/Cursados/ALEM/T3.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
-    "2023-06-26.md",
     "Highlights for T1,2.md",
     "Templates/Def_Alg.md",
     "Templates",
@@ -184,14 +178,12 @@
     "Documentacióm/youtube/tools/iterm2.md",
     "Documentacióm/youtube/tools/helm.md",
     "Documentacióm/youtube/tools/git.md",
-    "Documentacióm/youtube/tools/direnv.md",
     "Documentacióm/youtube/tools",
     "Documentacióm/youtube/networking",
     "Documentacióm/youtube/misc",
     "Documentacióm/youtube/macos",
     "Documentacióm/youtube/linux/assets/awk.cheat.sheet.pdf",
     "Documentacióm/youtube/linux/distros",
-    "Documentacióm/youtube/linux/assets",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/Pasted image 20230419125947.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/DiagramaInicialML.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
