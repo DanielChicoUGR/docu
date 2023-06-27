@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md"
           }
         }
       },
@@ -202,8 +202,8 @@
   },
   "active": "bd01b395ff364e3c",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
     "Documentacióm/youtube/linux/awk.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",

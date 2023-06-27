@@ -10,3 +10,5 @@ El error empírico y riesgo empírico (empirical error and empirical risk) son t
 # ERM
 Entrenar con una muestra es como tomar una foto del mundo e intentar aprender de la misma. Es una buena estrategia buscar soluciones que funcionen bien con los datos. 
 Este paradigma: **Buscar una hipótesis $h$ que minimice $L_{S}(h)$ se denomina *Empirical Risk Minimization***.
+
+# Cuando funciona ERM?

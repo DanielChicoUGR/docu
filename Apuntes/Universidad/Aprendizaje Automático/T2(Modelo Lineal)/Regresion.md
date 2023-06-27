@@ -16,4 +16,5 @@ Traducido a un problema de aprendizaje, $X \subset{R^{d}}, \forall d \in \mathbb
 	- $\mathbb{E} \rightarrow$ Esperanza o media al elegir un elemento de manera aleatoria de la poblaión
 - $$\hat{h}=h(X):min(E_{out}(h))$$ $\hat{h}\rightarrow$ hipótesis que minimiza el **error out of sample**
 - Para obtener $\hat{h} \rightarrow$ [[Regla ERM]]
-- 
+- Error Cuadrático:$$E_{in}(w)=\text{media}[(w^Tx_{i}-y_{i})^2]$$
+	- En su forma matricial:$$E_{in}(w)=\frac{1}{N}\mid \mid Xw-Y \mid\mid^2$$
