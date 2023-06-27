@@ -1,3 +1,4 @@
+
 ```ad-hint
 title: Leyenda
 - D -> Data Domain
@@ -10,7 +11,7 @@ title: Leyenda
 ?
 - Trasnsformación de los datos de entrada: $T:D \rightarrow R$
 - Minimizar el error en el mapeo de etiquetas $f:D \rightarrow R\rightarrow L$ (GT-Labels)
-
+\
 
 # No Supervisado (unsupervised)
 ?

@@ -1,5 +1,13 @@
+## Qué es?
 
-```ad-example
+*Regresión lineal*::Herramienta estadística que intenta modelar la relación entre varias variables y una valor real.
 
-![[Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png]]
-```
+Traducido a un problema de aprendizaje, $X \subset{R^{d}}, \forall d \in \mathbb{N}$, Y sería el conjunto de etiquetas que en este caso es un valor real.  
+
+## Elementos de un problema de Regresión
+?
+- $h(x)=w^Tx$ será la predicción de la regresión
+- Se usa el error cuadrático médio para medir la pérdida de $h_{w}(x)$ con $f$.
+	- Error($x$)= $(h_{w}(x)-f(x))^2$ -> Error para un punto del dataset
+	- $E_{in}(h_{w})=\frac{1}{N} \Sigma^{N_{i=1}}(h_{w}(x_{i})-y_{i})$ -> Error dentro de la muestra.
+- 

@@ -23,17 +23,18 @@
 # Salida del algoritmo
 ?
 - Los algoritmos de aprendizaje devuelven una regla de predicción: ==$h:X \rightarrow Y$== 
-- A esta función $h$ se le denomína ==predictor, clasificador o **hipótesis**== 
-- Esta función será usada para predecir el label de nuevos puntos del dominio que no hab sido vistos antes.
+- A esta función $h$ se le denomina ==predictor, clasificador o **hipótesis**== 
+- Esta función será usada para predecir el label de nuevos puntos del dominio que no han sido vistos antes.
 
 # Como se genera un modelo.
 ?
-- Suponemos que los datos son geerados bajo una distribución de probabilidad (en este caso representa el entorno donde se generan estos datos)
+- Suponemos que los datos son generados bajo una distribución de probabilidad (en este caso representa el entorno donde se generan estos datos)
 - Denominamos a esta distribución de probabilidad sobre $X$ como $D$.
-- El algoritmo no asume ni conoce en ningun momento nada sobre esta distribución de probabilidad.
+- El algoritmo no asume ni conoce en ningún momento nada sobre esta distribución de probabilidad.
 - Asumimos que existe una función hipótesis tal que $f:X \rightarrow Y : y_{i}=f(x_{i}) \forall x_{i} \in X$ 
 
 # Medida del error
-- *Error del clasificador*::probabilidad de que la función $h$ no predice de manera correcta un data-point aleatório generado bajo la distribución de probabilidad $D$
-- Matemáticamente se puede expresar como: 
+- *Error del clasificador*::probabilidad de que la función $h$ no prediga de manera correcta un data-point aleatorio generado bajo la distribución de probabilidad $D$ 
+- Matemáticamente se expresa como: ![[Pasted image 20230627121902.png]] La medida del error se mide en función de la distribución de probabilidad $D$ y la función objetivo $f$
+- A este error se le llama: *generalization-error, riesgo(risk), true error de h*. Se usa la letra L para designar el error ya que se ve como una **perdida (Loss)** del algoritmo.
 - 
