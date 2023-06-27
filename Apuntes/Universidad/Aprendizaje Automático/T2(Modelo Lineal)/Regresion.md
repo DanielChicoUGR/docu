@@ -13,4 +13,5 @@ Traducido a un problema de aprendizaje, $X \subset{R^{d}}, \forall d \in \mathbb
 	- $E_{in}(h_{w})=\frac{1}{N} \Sigma^{N_{i=1}}(h_{w}(x_{i})-y_{i})$ -> Error dentro de la muestra.
 - Eligiremos un $h_{w}$ tal que $\downarrow\downarrow\downarrow E_{in}$, aunque el objetivo es $\downarrow\downarrow E_{out}$
 - $E_{out}(h)=\mathbb{E}(x,y)\thicksim p[(h(x)-y)^{2}]$
-	- $\mathbb{E} \rightarrow$
+	- $\mathbb{E} \rightarrow$ Esperanza o media al elegir un elemento de manera aleatoria de la poblaión
+- 
