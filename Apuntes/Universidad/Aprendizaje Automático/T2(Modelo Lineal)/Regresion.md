@@ -14,5 +14,6 @@ Traducido a un problema de aprendizaje, $X \subset{R^{d}}, \forall d \in \mathbb
 - Eligiremos un $h_{w}$ tal que $\downarrow\downarrow\downarrow E_{in}$, aunque el objetivo es $\downarrow\downarrow E_{out}$
 - $E_{out}(h)=\mathbb{E}(x,y)\thicksim p[(h(x)-y)^{2}]$
 	- $\mathbb{E} \rightarrow$ Esperanza o media al elegir un elemento de manera aleatoria de la poblaión
-- $$\hat{h}=h(X):min(E_{out}(h))$$ $\hat{h}\rightarrow$ 
+- $$\hat{h}=h(X):min(E_{out}(h))$$ $\hat{h}\rightarrow$ hipótesis que minimiza el **error out of sample**
+- Para obtener $\hat{h} \rightarrow$ [[Regla ERM]]
 - 
