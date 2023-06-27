@@ -7,7 +7,7 @@ Traducido a un problema de aprendizaje, $X \subset{R^{d}}, \forall d \in \mathbb
 ## Elementos de un problema de Regresión
 ?
 - $h(x)=w^Tx$ será la predicción de la regresión
-	- Su expresión matemática 
+	- Su expresión matemática sería: $$H_{reg} = \{x \\}$$
 - Se usa el error cuadrático médio para medir la pérdida de $h_{w}(x)$ con $f$.
 	- Error($x$)= $(h_{w}(x)-f(x))^2$ -> Error para un punto del dataset
 	- $E_{in}(h_{w})=\frac{1}{N} \Sigma^{N_{i=1}}(h_{w}(x_{i})-y_{i})$ -> Error dentro de la muestra.
