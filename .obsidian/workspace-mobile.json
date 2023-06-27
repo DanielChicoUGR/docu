@@ -4,57 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "213f74480c62d6dd",
+        "id": "d324805341369e67",
         "type": "tabs",
         "children": [
           {
-            "id": "a0c2bd32d14904bd",
+            "id": "ace6eb0cbf6bcca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bd01b395ff364e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3790cd899ad699",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "86d1f55ec6600737",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "03e67a6844d7408c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
               }
             }
           }
@@ -124,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md"
           }
         }
       },
@@ -200,10 +161,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd01b395ff364e3c",
+  "active": "ace6eb0cbf6bcca2",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje 1.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/PseudoInversa.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
     "Documentacióm/youtube/linux/awk.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",
@@ -229,13 +197,7 @@
     "Documentacióm/youtube/windows/windows-terminal.md",
     "Documentacióm/youtube/windows/windows-dns-server.md",
     "Documentacióm/youtube/windows/powershell.md",
-    "Documentacióm/youtube/windows/powershell-remote.md",
-    "Documentacióm/youtube/windows/environment-variables-in-windows.md",
-    "Documentacióm/youtube/windows/chocolatey.md",
-    "Documentacióm/youtube/windows/certutil.md",
     "Documentacióm/youtube/windows",
-    "Documentacióm/youtube/tools/wsl.md",
-    "Documentacióm/youtube/tools/vscode.md",
     "Documentacióm/youtube/tools",
     "Documentacióm/youtube/networking",
     "Documentacióm/youtube/misc",
