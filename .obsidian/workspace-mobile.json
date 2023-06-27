@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a3790cd899ad699",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
           }
         }
       },
@@ -174,12 +184,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd01b395ff364e3c",
+  "active": "0a3790cd899ad699",
   "lastOpenFiles": [
-    "Documentacióm/youtube/linux/awk.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
+    "Documentacióm/youtube/linux/awk.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png",
     "imagenes.md",
     "imagenes 1.md",
