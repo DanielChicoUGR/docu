@@ -42,7 +42,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "86d1f55ec6600737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03e67a6844d7408c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md"
           }
         }
       },
@@ -184,8 +200,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a3790cd899ad699",
+  "active": "bd01b395ff364e3c",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
     "Documentacióm/youtube/linux/awk.md",
@@ -204,7 +221,6 @@
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
     "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
     "Apuntes/Universidad/Cursados/ALEM/T3.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
     "Highlights for T1,2.md",
     "Templates/Def_Alg.md",
@@ -220,7 +236,6 @@
     "Documentacióm/youtube/windows",
     "Documentacióm/youtube/tools/wsl.md",
     "Documentacióm/youtube/tools/vscode.md",
-    "Documentacióm/youtube/tools/vagrant.md",
     "Documentacióm/youtube/tools",
     "Documentacióm/youtube/networking",
     "Documentacióm/youtube/misc",
