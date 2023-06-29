@@ -13,13 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c110bbf569e0ac96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Normalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6a8ce91d6e1fea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "526f576757891672",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf"
           }
         }
       },
@@ -161,15 +196,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ace6eb0cbf6bcca2",
+  "active": "526f576757891672",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Aclaración de los datos.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Normalization.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
     "Apuntes/Universidad/Aprendizaje 1.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/PseudoInversa.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
@@ -193,15 +233,10 @@
     "Highlights for T1,2.md",
     "Templates/Def_Alg.md",
     "Templates",
-    "Documentacióm/youtube/windows/windows-updates.md",
-    "Documentacióm/youtube/windows/windows-terminal.md",
-    "Documentacióm/youtube/windows/windows-dns-server.md",
-    "Documentacióm/youtube/windows/powershell.md",
     "Documentacióm/youtube/windows",
     "Documentacióm/youtube/tools",
     "Documentacióm/youtube/networking",
     "Documentacióm/youtube/misc",
-    "Documentacióm/youtube/macos",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/Pasted image 20230419125947.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/DiagramaInicialML.png",
     "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Untitled.canvas"

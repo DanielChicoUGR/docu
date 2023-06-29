@@ -10,3 +10,4 @@
 	-  $\forall$ algoritmo A , $\exists$  una distribución $P$ con el que falla
 
 [La historia del pavo Inductivo de Bertrand Russell's](https://mashimo.wordpress.com/2013/03/12/bertrand-russells-inductivist-turkey/) indica el principal problema a resolver. En resumen, no se pueden extraer conclusiones a priori solo de los datos de la muestra.
+
