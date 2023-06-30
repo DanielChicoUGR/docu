@@ -23,11 +23,9 @@
             "id": "c110bbf569e0ac96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Normalization.md",
-                "mode": "source",
-                "source": false
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T4.pdf"
               }
             }
           },
@@ -42,19 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "526f576757891672",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T4.pdf"
           }
         }
       },
@@ -196,13 +184,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "526f576757891672",
+  "active": "c110bbf569e0ac96",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/T5.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Normalization.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Aclaración de los datos.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Normalization.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
@@ -231,12 +222,9 @@
     "Apuntes/Universidad/Cursados/ALEM/T3.md",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
     "Highlights for T1,2.md",
-    "Templates/Def_Alg.md",
     "Templates",
     "Documentacióm/youtube/windows",
     "Documentacióm/youtube/tools",
-    "Documentacióm/youtube/networking",
-    "Documentacióm/youtube/misc",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/Pasted image 20230419125947.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/DiagramaInicialML.png",
     "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Untitled.canvas"
