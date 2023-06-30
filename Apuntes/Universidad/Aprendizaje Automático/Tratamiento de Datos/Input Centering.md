@@ -7,4 +7,9 @@ Sea $\overline x$ el vector medio de los datos de entrada
 
 Para obtener la transformada a cada elemento del dataset le restamos este $\overline x$.
 
-*kwjfvsd* **ckdjgcda**
+| dghedkhge | dkqgd    | kdgqwkgd |
+| --------- | -------- | -------- |
+| jhdgeqwj  | jchgedhc | djfcg    |
+| xgdkg     |          |          |
+	| jfcjdhc
+	          |          |          |
