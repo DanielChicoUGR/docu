@@ -8,5 +8,5 @@ Sea $\overline x$ el vector medio de los datos de entrada
 Para obtener la transformada a cada elemento del dataset le restamos este $\overline x$.
 
 # Pepito me la mama
-peiro erjkhgvmlkhfskjh'
-- kjvehf
+```
+```
