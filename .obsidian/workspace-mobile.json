@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf"
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
           }
         }
       },
@@ -160,6 +160,7 @@
   },
   "active": "b8d7c7362e945e05",
   "lastOpenFiles": [
+    "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
     "2023-06-30.md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Untitled.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
@@ -190,7 +191,6 @@
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
-    "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
     "imagenes/Recording 20230626181147.webm",
     "imagenes",
