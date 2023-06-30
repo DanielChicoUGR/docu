@@ -11,8 +11,10 @@
             "id": "b8d7c7362e945e05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Documentacióm/OpenMPRef-5.0-111802-web.pdf"
+          }
         }
       },
       {
