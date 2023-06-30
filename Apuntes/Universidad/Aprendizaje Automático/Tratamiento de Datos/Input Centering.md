@@ -6,9 +6,3 @@ Sea $\overline x$ el vector medio de los datos de entrada
 - Notación matriz: $\overline x=\frac{1}{N}X^{T}1$ donde 1 es un vector columna de N 1s.
 
 Para obtener la transformada a cada elemento del dataset le restamos este $\overline x$.
-
-| dghedkhge | dkqgd    | kdgqwkgd |
-| --------- | -------- | -------- |
-| jhdgeqwj  | jchgedhc | djfcg    |
-| xgdkg     |          |          |
-          |          |          |
