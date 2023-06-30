@@ -11,5 +11,4 @@ Para obtener la transformada a cada elemento del dataset le restamos este $\over
 | --------- | -------- | -------- |
 | jhdgeqwj  | jchgedhc | djfcg    |
 | xgdkg     |          |          |
-	| jfcjdhc
-	          |          |          |
+          |          |          |
