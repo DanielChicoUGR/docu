@@ -43,8 +43,8 @@ p31 & p32-->p3
 ### 4. El algoritmo de aprendizaje -> Buscando dentro de $H$?
 ?
 - Criterios óptimos para asegurar el aprendizaje $A$:
-	1. ERM -> [[Empirical Risk Minimization]]
-	2. SRM -> [[Structural Risk Minimization]]
+	1. ERM -> [[Regla ERM]]
+	2. SRM -> [[Regla SRM]]
 	3. Medida de Similaridad?
 
 ## Proceso del Aprendizaje Supervisado
