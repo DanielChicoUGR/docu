@@ -3,7 +3,7 @@ El objetivo es aprender una función desconocida $f$ con:
 	1. Muestras de datos
 	2. El valor de la función para cada uno de los datos (etiqueta)
 
-
+Me cago en falete
 **Asume**:
 	1. La única información disponible es la de la muestra
 	2. Se puede aproximar a $f$ a través de algún criterio de aprendizaje
