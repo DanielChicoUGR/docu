@@ -29,8 +29,8 @@ p31 & p32-->p3
 ### 1. El Dataset
 ?
 - Los datos vienen, desde el punto de vista matemático de una distribución de probabilidad $P(D)$
-- Se presupone que los datos están *independientemente e identicamente distribuidos*.
-- Hola manolo
+- Se presupone que los datos están *independientemente e idénticamente distribuidos*.
+
 
 ### 2. Objetivo
 - Tareas de predicción:$$f:X \rightarrow Y \text{ (Labels)}$$
@@ -48,9 +48,9 @@ p31 & p32-->p3
 	3. Medida de Similaridad?
 
 ## Proceso del Aprendizaje Supervisado
-
+?
 1. Recibimos la descripción del Dominio del dataset y de las etiquetas así como el dataset.
-2. Elegimos el Conjunto hipótesis con los tipos de funciones que probablemente representen a f
+2. Elegimos el Conjunto hipótesis con los tipos de funciones que probablemente representen a $f$
 3. Extraemos una muestra del dataset
 4. Elegimos un algoritmo de aprendizaje A, le pasamos la muestra para que nos devuelva una hipótesis $g \in H$
 5. Comprobamos que $g \approx f$

@@ -1,7 +1,7 @@
-1. Es imposible aprender $f$ siendo solo una muestra, Sin embargo se pueden extraer propiedades que la **estimen** asumiendo un % de error.
+1. Es imposible aprender $f$ viendo solo una muestra, Sin embargo se pueden extraer propiedades que la **estimen** asumiendo un % de error.
 
-2. Si los elementos de una muestra $D$ son independientes/idénticamente Distribuidos 
-	Hay dependencia probabilística entre la variable aleatoria y la población
+2. Si los elementos de una muestra $D$ son independientes e idénticamente Distribuidos (i.i.d) 
+	Hay dependencia probabilista entre la variable aleatoria y la población
 	
 3. **Teorema de No-Free-Lunch**
 ?
