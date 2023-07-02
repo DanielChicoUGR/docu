@@ -1,7 +1,7 @@
 Son aquellos en los que la utilidad para el agente depende de la secuencia de acciones
 
 Podemos entenderlos como una generalización de la búsqueda y la planificación que hace uso de la interacción con el entorno y la incertidumbre.
-	- Incertidumbre asociada a los efectos de las acciones.
+ 	- Incertidumbre asociada a los efectos de las acciones.
 	- Incertidumbre asociada a un conocimiento parcial del entorno.
 
 

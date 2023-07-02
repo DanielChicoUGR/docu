@@ -4,61 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ec26904a4b4226c",
+        "id": "8dc088334f4323e9",
         "type": "tabs",
-        "dimension": 52.63157894736842,
         "children": [
           {
-            "id": "46200da7f5aa8ead",
+            "id": "31f8561938ca3248",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b33d24325e3749f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ebb4bbc493aa817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "589c70a71e7768fb",
-        "type": "tabs",
-        "dimension": 47.368421052631575,
-        "children": [
-          {
-            "id": "8bee02d9a540fee0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
+                "viewState": {
+                  "x": 620.1978146441359,
+                  "y": 724.481029769401,
+                  "zoom": -0.8411677022550781
+                }
               }
             }
           }
@@ -136,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas"
               }
             }
           },
@@ -215,20 +175,30 @@
       "markdown-importer:Open format converter": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "open-vscode:VSCode": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8bee02d9a540fee0",
+  "active": "31f8561938ca3248",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
+    "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T1 ⇒ Introducción al conocimiento_.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T4 ⇒ Sistemas de representación estructurados.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T3 ⇒ Técnicas automatizadas de adquisición de conocimientos.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T2 ⇒ Adquisición de conocimiento.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Prácticas_/P1 ⇒ Reglas y Sistemas basados en reglas.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Minimos Cuadrados.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Minimos-Cuadrados (1).pdf",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs",
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
@@ -240,14 +210,9 @@
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Pasted image 20230627121902.png",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
     "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/T1 ⇒ Introducción Aprendiendo de los Datos (Machine Learning).md",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Transiciones de Markov.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de búsqueda con Profundidad Iterativa.md",
@@ -257,11 +222,6 @@
     "Apuntes/Universidad/Aprendizaje Automático/T6.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T5.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Repaso AA/Estadistica.md",
-    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Untitled.md",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo SMA_STAR.md",
-    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo IDA_STAR.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611191054.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611190526.png",

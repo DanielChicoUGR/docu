@@ -7,4 +7,4 @@ Cada canica es un ejemplo de la población, con sus características, están ser
 Traducidos al ML los parametros seríán:
 - $\%\text{verdes}_{muestra} \rightarrow E_{in}$  
 - $\%\text{verdes}_{bolsa} \rightarrow E_{out}$
-Esta incecuación es valida sólo para una hipótesis, es decir $|H|=1$ y con una hipotesis h elegida sin ver los datos.
+Esta incecuación es valida sólo para una hipótesis, es decir $|H|=1$ y con una hipótesis $h$ elegida sin ver los datos.

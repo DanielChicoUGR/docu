@@ -10,7 +10,7 @@
             - ![](https://remnote-user-data.s3.amazonaws.com/XO3Sn7WT7uMeM53ZIERP8GPmWeOocfeN6H6LF2QS1Fzo1BXnooWqNlfDDKLai3FGmRAt1f6jbQyCEGZOaq09Yp-MunEbQm4DYMdTnseKD_JxH72sfLiRx2ru2lFEkq_A.png) 
 - Uso de reglas en la IA
     - Newel y Simon (No los conocen ni en su casa) proponen las **Reglas** como modelo para describir comportamiento inteligente.
-    - Comportamiento inteligente→Conjunto de reglas que indiquen en cada momento **como actuar en función de la información disponible. ** 
+    - Comportamiento inteligente→Conjunto de reglas que indiquen en cada momento **como actuar en función de la información disponible.** 
     - 
     - Cómo actuar
         - Deducir nuevos ¨hechos¨
