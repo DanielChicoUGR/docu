@@ -10,12 +10,40 @@
           {
             "id": "31f8561938ca3248",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "fd4e93da747a53bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2fb3f9ceba0c25",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
+              }
+            }
+          },
+          {
+            "id": "9bc362b5aecec498",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T4.pdf"
               }
             }
           }
@@ -93,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md"
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
               }
             }
           },
@@ -177,15 +205,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "31f8561938ca3248",
+  "active": "2b2fb3f9ceba0c25",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Empirical Risk Minimization.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Empirical Risk Minimization.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
     "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T1 ⇒ Introducción al conocimiento_.md",
@@ -204,22 +236,17 @@
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Pasted image 20230627121902.png",
     "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/T1 ⇒ Introducción Aprendiendo de los Datos (Machine Learning).md",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Transiciones de Markov.md",
     "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de búsqueda con Profundidad Iterativa.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T7.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T6.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T5.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/Repaso AA/Estadistica.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611191054.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611190526.png",
