@@ -8,3 +8,5 @@ Traducidos al ML los parámetros serian:
 - $\%\text{rojas}_{muestra} \rightarrow E_{in}$  
 - $\%\text{rojas}_{bolsa} \rightarrow E_{out}$
 Esta incecuación es valida sólo para una hipótesis, es decir $|H|=1$ y con una hipótesis $h$ elegida sin ver los datos.
+
+

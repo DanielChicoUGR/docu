@@ -4,47 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc088334f4323e9",
+        "id": "f1cac7e5965aaa99",
         "type": "tabs",
         "children": [
           {
-            "id": "31f8561938ca3248",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "fd4e93da747a53bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b2fb3f9ceba0c25",
+            "id": "bf49bc2b380839b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
-              }
-            }
-          },
-          {
-            "id": "9bc362b5aecec498",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T4.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -205,11 +169,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2b2fb3f9ceba0c25",
+  "active": "bf49bc2b380839b1",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
