@@ -11,11 +11,9 @@
             "id": "b8d7c7362e945e05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
-                "mode": "source",
-                "source": false
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
           }
         }
       },
@@ -160,8 +158,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8d7c7362e945e05",
+  "active": "62f92f769436c039",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/T7.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-07. Optimal Linear Classifiers.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-09.Arboles_ensembles.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-08. Neural Netwoks.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-10.LearningSimilarity.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Data Snooping.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Sesgo de muestreo.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T6.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
     "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
@@ -170,14 +187,9 @@
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T5.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Normalization.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Algb_lin.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Aclaración de los datos.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
     "Apuntes/Universidad/Aprendizaje 1.md",
@@ -186,22 +198,9 @@
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
     "Documentacióm/youtube/linux/awk.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png",
-    "imagenes.md",
-    "imagenes 1.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
-    "imagenes/Recording 20230626181147.webm",
-    "imagenes",
-    "2023-06-26.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
-    "Apuntes/Universidad/Cursados/ALEM/Algoritmo RSA/Untitled.md",
-    "Apuntes/Universidad/Cursados/ALEM/T3.md",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
-    "Templates",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/Pasted image 20230419125947.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/DiagramaInicialML.png",
     "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Untitled.canvas"

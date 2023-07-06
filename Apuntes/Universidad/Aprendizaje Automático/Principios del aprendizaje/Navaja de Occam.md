@@ -37,4 +37,6 @@ Esto no quiere decir que si la solución parece compleja no sea la mejor. posibl
  
 
 ### ¿Como sabemos que mas simple es mejor?
+A parte de reducir la dimensión VC, empiricamente se puede ver como al existir mas posibles configuraciones en un modelo complejo, este puede adaptarse a mas posibles hipótesis -> Generando overfitting y no generalizando bien.
+
 
