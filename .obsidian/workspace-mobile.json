@@ -11,9 +11,63 @@
             "id": "b8d7c7362e945e05",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10d9bd33e40865cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "986f5d8d62603b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f72394ac0398179c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Mahalanobis Distance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b1b7e3749aecf75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38ce53e4585bf6ef",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
+                "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-10.LearningSimilarity.pdf"
               }
             }
           }
@@ -83,7 +137,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +154,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md"
           }
         }
       },
@@ -160,19 +214,37 @@
   },
   "active": "62f92f769436c039",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Aprendizaje Automático/T7.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-07. Optimal Linear Classifiers.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-09.Arboles_ensembles.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-08. Neural Netwoks.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-P3regresion-gulag-free.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-P3clasificacion-gulag-free.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/imagenes/Screenshot_2023-07-07-20-13-30-452_md.obsidian.png",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/imagenes",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-10.LearningSimilarity.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
+    "Templates/Def_Alg.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/pepe.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Medidas de Similitud.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Mahalanobis Distance.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Distacia Euclidea.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/a.com.md",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Distancia de Hamming_Wikipedia.pdf",
+    "2023-07-07.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Clasificación.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)",
+    "Apuntes/Universidad/Aprendizaje Automático/Regresión.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/imagenes/Pasted image 20230419163258.png",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/imagenes",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Data Snooping.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Sesgo de muestreo.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T6.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
@@ -180,24 +252,8 @@
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
-    "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
-    "2023-06-30.md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Untitled.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Centering.md",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Input Normalization.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
-    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Aclaración de los datos.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Analogia de la papelera.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
-    "Apuntes/Universidad/Aprendizaje 1.md",
-    "Apuntes/Universidad/Aprendizaje.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/PseudoInversa.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
-    "Documentacióm/youtube/linux/awk.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
