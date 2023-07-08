@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "578d9afe0fe455b5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf"
+              }
+            }
+          },
+          {
             "id": "10d9bd33e40865cf",
             "type": "leaf",
             "state": {
@@ -55,23 +65,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "2b1b7e3749aecf75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "38ce53e4585bf6ef",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-10.LearningSimilarity.pdf"
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
+            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -166,7 +161,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md"
+            "file": "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf"
           }
         }
       },
@@ -212,14 +207,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62f92f769436c039",
+  "active": "578d9afe0fe455b5",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-09.Arboles_ensembles.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Servicio Citas Tatuajes.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
+    "ideas",
+    "Ideas",
     "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-P3regresion-gulag-free.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-P3clasificacion-gulag-free.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/imagenes/Screenshot_2023-07-07-20-13-30-452_md.obsidian.png",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/imagenes",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-10.LearningSimilarity.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
     "Templates/Def_Alg.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/pepe.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Medidas de Similitud.md",
@@ -233,13 +232,10 @@
     "Apuntes/Universidad/Aprendizaje Automático/Clasificación.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)",
     "Apuntes/Universidad/Aprendizaje Automático/Regresión.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/imagenes/Pasted image 20230419163258.png",
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/imagenes",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Data Snooping.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Sesgo de muestreo.md",
@@ -251,7 +247,6 @@
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Regla ERM.md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Untitled.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png",
