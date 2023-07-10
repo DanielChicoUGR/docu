@@ -11,8 +11,12 @@
             "id": "9a6ab9e6e0d1ac60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md"
+          }
         }
       },
       {
@@ -154,10 +162,10 @@
   },
   "active": "9a6ab9e6e0d1ac60",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Mahalanobis Distance.md",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-09.Arboles_ensembles.pdf",
     "ideas/Servicio Citas Tatuajes.md",
