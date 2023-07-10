@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c102e59ee58875a4",
+        "id": "35bf9a18fde843cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9a6ab9e6e0d1ac60",
+            "id": "8b251b7a359e9e53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md"
-          }
+          "state": {}
         }
       },
       {
@@ -160,10 +152,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a6ab9e6e0d1ac60",
+  "active": "62f92f769436c039",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
+    "Apuntes/Universidad/Cursados/ED",
+    "Apuntes/Universidad/Cursados/IA/Tema 1 ⇒ Introducción.md",
+    "Apuntes/Universidad/Cursados/MC/Tema 3_ Propiedades de los conjuntos regulares.md",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Examen2.md",
+    "Apuntes/Universidad/Cursados/IA/Tema 4 ⇒ Busqueda con adversario _ Juegos.md",
+    "Apuntes/Universidad/Cursados/IG/Tema 2.md",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/wuolah-free-app-1688978117698.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Distancia de Hamming_Wikipedia.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Mahalanobis Distance.md",
@@ -181,9 +181,7 @@
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Medidas de Similitud.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Distacia Euclidea.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/a.com.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Distancia de Hamming_Wikipedia.pdf",
     "2023-07-07.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Clasificación.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/imagenes/Pasted image 20230419163258.png",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
@@ -194,11 +192,6 @@
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
     "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje No Supervisado.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Principales Métodos de aprendizaje.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Untitled.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png",
