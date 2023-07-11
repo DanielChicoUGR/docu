@@ -11,8 +11,20 @@
             "id": "8b251b7a359e9e53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T7.pdf"
+              }
+            }
+          },
+          {
+            "id": "78f48cea0ebaaa8b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
+              }
             }
           }
         ]
@@ -40,7 +52,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#Easy",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -81,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T7.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T7.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Apuntes/Universidad/Aprendizaje Automático/T7.pdf"
+          }
         }
       },
       {
@@ -152,33 +168,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62f92f769436c039",
+  "active": "8b251b7a359e9e53",
   "lastOpenFiles": [
-    "Apuntes/Universidad/Cursados/ED",
+    "Apuntes/Universidad/Aprendizaje Automático/T6.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T5.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Resumen.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Medidas de Similitud.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Deterministic Noise.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Ilustración de Overfitting.md",
+    "Untitled",
+    "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGrafica_T5.pdf",
+    "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGrafica_T4.pdf",
+    "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGráfica_T3.pdf",
+    "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGráfica_T2.pdf",
+    "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGráfica_Geometria.pdf",
+    "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGráfica_T1.pdf",
     "Apuntes/Universidad/Cursados/IA/Tema 1 ⇒ Introducción.md",
     "Apuntes/Universidad/Cursados/MC/Tema 3_ Propiedades de los conjuntos regulares.md",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Examen2.md",
     "Apuntes/Universidad/Cursados/IA/Tema 4 ⇒ Busqueda con adversario _ Juegos.md",
     "Apuntes/Universidad/Cursados/IG/Tema 2.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/wuolah-free-app-1688978117698.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Distancia de Hamming_Wikipedia.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-11.Boosting.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Mahalanobis Distance.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-09.Arboles_ensembles.pdf",
     "ideas/Servicio Citas Tatuajes.md",
-    "ideas",
-    "Ideas",
-    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-P3regresion-gulag-free.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/wuolah-free-P3clasificacion-gulag-free.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/imagenes/Screenshot_2023-07-07-20-13-30-452_md.obsidian.png",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/imagenes",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-10.LearningSimilarity.pdf",
     "Templates/Def_Alg.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/pepe.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Medidas de Similitud.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Distacia Euclidea.md",
     "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/a.com.md",
     "2023-07-07.md",
@@ -188,10 +208,6 @@
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Resumen.md",
     "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Data Snooping.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Sesgo de muestreo.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Untitled.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png",
