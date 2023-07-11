@@ -1,11 +1,11 @@
 - 
 - Definiciones:
-    - Hechos→Afirmaciones que en un caso concretos serán verdad o mentira (lógica clásica)
-    - Reglas→Construcciones con el formato: ''**Si **antecedente 1, ... , y antecendenteN **Entonces ** consecuente1,... y consecuente n'' donde los antecentes y los consecuentes son  hechos
+    - Hechos::Afirmaciones que en un caso concretos serán verdad o mentira (lógica clásica)
+    - Reglas::Construcciones con el formato: ''Si **antecedente 1, ... , y antecendenteN** Entonces consecuente1,... y consecuente n'' donde los antecentes y los consecuentes son  hechos
     - Componentes del conocimiento:
         - Base de conocimiento→Contiene las reglas y, a veces, también algunas afirmaciones iniciales (los hechos que son validos en cualquier caso). La base de Conocimiento es específica del dominio en que el sistema puede considerarse experto.
-        - Base de hechos actuales→También conocida como **memoria de trabajo. **Contiene las afirmaciones que se consideran ciertas para el caso actual en el momento actual
-        - Base de datos→Contiene información acerca a variables que se utilizan en la resolución del problema. Pueden contener información relativa al histórico de casos. 
+        - Base de hechos actuales::También conocida como **memoria de trabajo.** Contiene las afirmaciones que se consideran ciertas para el caso actual en el momento actual
+        - Base de datos::Contiene información acerca a variables que se utilizan en la resolución del problema. Pueden contener información relativa al histórico de casos. 
         - Ejemplo:
             - ![](https://remnote-user-data.s3.amazonaws.com/XO3Sn7WT7uMeM53ZIERP8GPmWeOocfeN6H6LF2QS1Fzo1BXnooWqNlfDDKLai3FGmRAt1f6jbQyCEGZOaq09Yp-MunEbQm4DYMdTnseKD_JxH72sfLiRx2ru2lFEkq_A.png) 
 - Uso de reglas en la IA
@@ -38,8 +38,8 @@
     - Una regla consta de dos partes ↓ 
         - Antecedente
         - Consecuente
-    - Antecedente→o parte izquierda. Contiene las cláusulas que deben cumplirse para que la regla pueda evaluarse o ejecutarse
-    - Consecuentes→o parte derecha. Indica las conclusiones que se deducen de las premisas (declarativo) o las acciones que el sistema debe realizar cuando ejecuta la regla  (imperativo)
+    - Antecedente::o parte izquierda. Contiene las cláusulas que deben cumplirse para que la regla pueda evaluarse o ejecutarse
+    - Consecuentes::o parte derecha. Indica las conclusiones que se deducen de las premisas (declarativo) o las acciones que el sistema debe realizar cuando ejecuta la regla  (imperativo)
     - El antecedente
         - Es la condición para que la regla pueda dispararse. Es la parte del "Si" o la parte izquierda
         - Eta formado normalmente por una conjunción de literales.
@@ -50,7 +50,7 @@
             - Afirmar
             - Retractar
             - Actuar
-        - **Afirmar**→se establece algún tipo de afirmación
-        - **Retractar**→se modifica una afirmación anterior
-        - **Actuar**→se envía una orden a los actuadores con los que está conectado el sistema 
+        - **Afirmar**::se establece algún tipo de afirmación
+        - **Retractar**::se modifica una afirmación anterior
+        - **Actuar**::se envía una orden a los actuadores con los que está conectado el sistema 
 - 

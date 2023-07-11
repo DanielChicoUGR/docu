@@ -14,17 +14,3 @@ $$\Sigma=\frac{1}{N}\sum^{N}_{n=1}x_{n}x_{n}^{T}=\frac{1}{N}X^{T} \times X$$
 ### Transformación:
 $$z_{n}=\Sigma^{-\frac{1}{2}}x_{n}$$
 A cada característica de los datos ha de multiplicarla por la inversa de la raiz cuadrada de la matriz de Varianza
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[]]

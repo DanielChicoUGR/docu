@@ -14,7 +14,7 @@
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": true,
     "convertHighlightsToClozes": true,
-    "convertBoldTextToClozes": true,
+    "convertBoldTextToClozes": false,
     "convertCurlyBracketsToClozes": true,
     "singleLineCardSeparator": "::",
     "singleLineReversedCardSeparator": ":::",
@@ -40,7 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2023-06-04",
+  "buryDate": "2023-07-11",
   "buryList": [],
   "historyDeck": "Apuntes"
 }
