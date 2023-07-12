@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md"
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md"
               }
             }
           },
@@ -153,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,8 +176,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5d33d790f34edba5",
+  "active": "03d75ecb5ee7ff7d",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-01. Introduction.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-05. Overfitting regularization.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-04. Theory of generalization.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-06. Validation Model selection.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-03. Fundamental of Learning.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-02.Linear Models I.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Examenes/Hoeffding.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E1.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Resumen.md",
+    "Documentacióm/youtube/apps/rancher.md",
+    "Documentacióm/youtube/apps/portainer.md",
+    "Documentacióm/youtube/apps/passbolt.md",
+    "Documentacióm/OpenMPRef-5.0-111802-web.pdf",
+    "Documentacióm/youtube/README.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Principal Component Analisis (PCA).md",
     "Apuntes/Universidad/Aprendizaje Automático/Regresión.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/Clasificación.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
@@ -189,36 +208,16 @@
     "Apuntes/Universidad/Cursados/DDSI/T1 Introducción a los sistemas de información.md",
     "Apuntes/Universidad/Cursados/IA/Tema 2 ⇒ Agentes.md",
     "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGráfica_T1.pdf",
-    "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGráfica_Geometria.pdf",
     "Apuntes/Universidad/Cursados/IA/Tema 6 ⇒ Introducción al aprendizaje automático.md",
     "Apuntes/Universidad/Cursados/IA/Tema 1 ⇒ Introducción.md",
-    "Apuntes/Universidad/Cursados/ED/Libro/cap5.pdf",
-    "Apuntes/Universidad/Cursados/ED/Libro/cap2.pdf",
-    "Apuntes/Universidad/Cursados/ED/Libro/cap1.pdf",
-    "Apuntes/Universidad/Cursados/ED/Libro/cap0.pdf",
-    "Apuntes/Universidad/Cursados/ED/Apuntes/Templates/leccion8_a.pdf",
-    "Apuntes/Universidad/Cursados/ED/Apuntes/Templates/Leccion7_2.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E1.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Empirical Risk Minimization.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Elementos de un problema de Aprendizaje.md",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
-    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T1 ⇒ Introducción al conocimiento_.md",
-    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T4 ⇒ Sistemas de representación estructurados.md",
-    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T3 ⇒ Técnicas automatizadas de adquisición de conocimientos.md",
-    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T2 ⇒ Adquisición de conocimiento.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Regresion.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Introducción.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/Principios del aprendizaje/Navaja de Occam.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Pasted image 20230627121902.png",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
     "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611191054.png",
