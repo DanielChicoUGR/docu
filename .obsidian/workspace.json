@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md",
+=======
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md",
+=======
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md",
+=======
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/Recuperación.md"
+=======
+                "file": "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -178,6 +194,7 @@
   },
   "active": "03d75ecb5ee7ff7d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-01. Introduction.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-05. Overfitting regularization.pdf",
     "Apuntes/Universidad/Aprendizaje Automático/pdfs/Tema-04. Theory of generalization.pdf",
@@ -192,6 +209,8 @@
     "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
     "Apuntes/Universidad/Aprendizaje Automático/Examenes/E1.md",
     "Apuntes/Universidad/Aprendizaje Automático/Resumen.md",
+=======
+>>>>>>> Stashed changes
     "Documentacióm/youtube/apps/rancher.md",
     "Documentacióm/youtube/apps/portainer.md",
     "Documentacióm/youtube/apps/passbolt.md",
@@ -210,6 +229,18 @@
     "Apuntes/Universidad/Cursados/IG/PDFs/GuiaInformaticaGráfica_T1.pdf",
     "Apuntes/Universidad/Cursados/IA/Tema 6 ⇒ Introducción al aprendizaje automático.md",
     "Apuntes/Universidad/Cursados/IA/Tema 1 ⇒ Introducción.md",
+<<<<<<< Updated upstream
+=======
+    "Apuntes/Universidad/Cursados/ED/Libro/cap5.pdf",
+    "Apuntes/Universidad/Cursados/ED/Libro/cap2.pdf",
+    "Apuntes/Universidad/Cursados/ED/Libro/cap1.pdf",
+    "Apuntes/Universidad/Cursados/ED/Libro/cap0.pdf",
+    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E1.md",
+    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Analogia de la papelera.md",
+    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Fundamentos del Aprendizaje Automático.md",
+>>>>>>> Stashed changes
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Machine Learning.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje vs Diseño.md",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Aprendizaje Supervisado.md",
@@ -217,6 +248,12 @@
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
+<<<<<<< Updated upstream
+=======
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T1 ⇒ Introducción al conocimiento_.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T4 ⇒ Sistemas de representación estructurados.md",
+    "Apuntes/Universidad/Ingenieria Conocimiento/Teoría/T3 ⇒ Técnicas automatizadas de adquisición de conocimientos.md",
+>>>>>>> Stashed changes
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Pasted image 20230627121902.png",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/ejemploCredito.png",
