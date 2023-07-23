@@ -16,7 +16,7 @@ Define los elementos y reglas para diseñar diferentes tipos de diagramas en fun
 	- Diagrama de casos de uso 
 	- Diagrama de estados
 - **Diagramas de estructura**: Se utilizan para representar los componentes que deben existir en el sistema
-	- Diagrama de clases 
+	- Diagrama de clases
 	- Diagrama de componentes
 	- Diagrama de despliegue
 - **Diagramas de interacción**: Se utilizan para representar el flujo de la información del sistema
