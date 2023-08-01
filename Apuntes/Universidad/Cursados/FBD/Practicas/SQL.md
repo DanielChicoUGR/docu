@@ -73,18 +73,20 @@ select * from <nombre tabla>
 select atrb1,atrb2... from <nombre tabla>
 ```
         - Instruccion completa
-        - ```sql
-SELECT [ DISTINCT | ALL]
-expresion [alias_columna_expresion]
-{,expresion [alias_columna_expresion]}
-FROM [esquema.]tabla|vista [alias_tabla_vista]
-[WHERE <condicion>]
-[GROUP BY expresion {,expresion}]
-[HAVING <condicion>]
-[{UNION | UNION ALL | INTERSECT | MINUS} <SELECT instruccion>]
-[ORDER BY {expresion} [ASC | DESC]]
+
+```sql
+	SELECT [ DISTINCT | ALL]
+	expresion [alias_columna_expresion]
+	{,expresion [alias_columna_expresion]}
+	FROM [esquema.]tabla|vista [alias_tabla_vista]
+	[WHERE <condicion>]
+	[GROUP BY expresion {,expresion}]
+	[HAVING <condicion>]
+	[{UNION | UNION ALL | INTERSECT | MINUS} <SELECT instruccion>]
+	[ORDER BY {expresion} [ASC | DESC]]
 ``` 
-    - Modificar Contenido de una tabla
+
+- Modificar Contenido de una tabla
         - ```sql
 update nombre_tabla set  
 --La parte del set se puede convertir en una consulta
