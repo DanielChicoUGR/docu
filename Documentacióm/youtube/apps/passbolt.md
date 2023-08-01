@@ -7,7 +7,7 @@ Project Homepage: https://passbolt.com/
 ---
 ## Set Up
 
-### Create admin user
+### Create Admin User
 
 ```sh
 docker-compose exec passbolt su -m -c "/usr/share/php/passbolt/bin/cake \
@@ -18,7 +18,7 @@ docker-compose exec passbolt su -m -c "/usr/share/php/passbolt/bin/cake \
                                 -r admin" -s /bin/sh www-data
 ```
 
-### Backup options
+### Backup Options
 
 Backup database container
 change database-container to the name of your passbolt database container
@@ -30,7 +30,7 @@ docker exec -i database-container bash -c \
   > /path/to/backup.sql
 ```
 
-### Backup server public and private keys
+### Backup Server Public and Private Keys
 change passbolt-container to the name of your passbolt container
 and change the backup location
 
@@ -41,7 +41,7 @@ docker cp passbolt-container:/etc/passbolt/gpg/serverkey.asc \
     /path/to/backup/serverkey.asc
 ```
 
-### Backup The avatars
+### Backup The Avatars
 
    ```
 docker exec -i passbolt-container \

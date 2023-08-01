@@ -1,4 +1,4 @@
-La **matriz Jacobiana**  permite relacionar las velocidades de las coordenadas articulares y las de la posición y orientación del extremo del robot
+La **matriz Jacobiana** permite relacionar las velocidades de las coordenadas articulares y las de la posición y orientación del extremo del robot
 - Es un modelo diferencial $\rightarrow$ Estudia el efecto que un movimiento diferencial de las variables articulares tiene sobre las variables en el espacio de la tarea
 - Forma parte del análisis cinemático del manipulador
 - El Sistema de control del robot usa la *matriz Jacobiana* para determinar qué velocidades debe asignar a cada articulación (a través de sus respectivos actuadores) para que el extremo se mueva en una trayectoria concreta a la velocidad deseada.

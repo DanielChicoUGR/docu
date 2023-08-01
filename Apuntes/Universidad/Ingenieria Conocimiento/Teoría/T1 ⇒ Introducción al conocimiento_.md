@@ -4,7 +4,7 @@
 - Conocimiento→Se puede ver como la experiencia, valores, información y knwo-how que sirve para incorporar nuevos hechos e información, resultan útiles para realizar una decisión. Con el conocimiento de un cierto tema se pueden realizar comparación entre informaciones predecir un resultado o encontrar relaciones entre los propios datos o conceptos. 
 
 
-# Sistemas expertos
+# Sistemas Expertos
 - En general la Ingeniería del Conocimiento produce Sistemas Basados en Conocimiento, de los cuales , los Sistemas Expertos son una parte y una de las primeras implementaciones
 - Definición Sistema experto→es un sistema que utiliza conociminento experto (proporcionado por un humano) para resolver un problema complejo, es decir, aquillos problemas que son no computables, o que no son computables de manera eficiente.
 - Un **Sistema Experto** pretende simular el experto humano razonando de la misma manera que él lo hace, se caracteriza porque:↓ ↓ 
@@ -14,7 +14,7 @@
 - Lo [SE](../../../SE/SE ⇒ Sistema Expert.md)s son utilizados para tareas que requieren, naturalmente, de razonamiento humano.
 
 
-# Sistemas Basados en Conocimiento
+# Sistemas Basados En Conocimiento
 - Definición Sistemas Basados en Conocimiento→Es un sistema que utiliza conocimiento específico del dominio del problema, los cuales no se limitan solamente al conocimiento o el razonamiento de un experto humano a diferencia de los SEs 
 - Los conocimientos están representados de manera explícita de forma separada, se encuentran en una **Base de Conocimientos**
 - Poseen **Funcionamiento no algorítmico**
@@ -27,11 +27,11 @@
 		- No pueden ser resueltos aplicando algoritmos clásicos o [investigación operativa](https://www.questionpro.com/blog/es/investigacion-operativa/) 
 		- Se dispone de fuentes de conocimiento
 
-## Esquema de un SBC
+## Esquema De Un SBC
 ![](https://remnote-user-data.s3.amazonaws.com/CnUucdG6ZPFdo1cmA4_xZ-6_hfuxOk3G76qTjiID9kwpS9aOqjOuAz9-qJdjKxcme6P6zjeY2m8ncCo5GPoXz4sSxePxXZZqmqbevi2rkvkIkGqNdmjx2lQo4tj8wFGv.png)
  Como se ha mencionado, el razonador y los conocimientos son independientes, utiliza la base de conocimientos de un problema concreto, la cual se puede luego cambiar por otra BC diferente y obviamente tiene que interaccionar con el usuario o experto por una interfaz E/S desacoplada de los otros componentes del sistema.
     - Ventajas:
-        1. Disponibilidad  ⇒ Está disponible para cualquier Hardware de cómputo adecuado y de coste reducido: es mas barato que un experto humano.
+        1. Disponibilidad ⇒ Está disponible para cualquier Hardware de cómputo adecuado y de coste reducido: es mas barato que un experto humano.
         2. Permanencia⇒ Al ser una maquina puede estar funcionando 24/7.
         3. Experiencia Multiple:
             1. Se puede tener conocimiento de varios expertos disponible para trabajar sobre él simultáneamente y continuamente sobre un problema.

@@ -2,7 +2,7 @@
 Es una generalización del algoritmo A*, aunque surgió como un algoritmo propio de teoría de números.
 
 
-### Características:
+# Características:
 ?
 1. El algoritmo explora tareas no estados, el algoritmo realiza una tarea:
 	1. Una tarea consiste en una descripción de la misma , una lista de justificaciones (los padres del nodo, el como se llega a ese estado) y una valoración heurística

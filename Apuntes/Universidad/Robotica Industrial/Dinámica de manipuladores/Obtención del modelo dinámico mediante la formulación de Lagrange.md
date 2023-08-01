@@ -14,7 +14,7 @@ No es apropiado para robots complejos (>6GDL) debido a la imposibilidad de reali
 
 Conduce a ecuaciones finales bien estructuradas
 
-## Algoritmo de Lagrange
+# Algoritmo De Lagrange
 1. Asignar a cada eslabón un SC de acuerdo al algoritmo de D-H
 2. Obtener las matrices de transformación $^0T_i (i=0,\dots,n)$ 
 3. Obtener las matrices $U_{ij}$ como:

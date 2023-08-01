@@ -69,7 +69,7 @@
         - Los árboles pueden tener en las hojas diferentes casos e inclusive casos en lo que la regla no se cumple→**Certeza **de la regla?
         - Es posible que in nodo hoja posea un solo caso esto no es muy representativo, esa regla no está bien respaldada. Se conocde como el "soporte" y en el árbol se descartan aquellas reglas que tengan un soporte mínimo.
     - Es necesario que los árboles tengan un grado de profundidad {{bajo }} para que sean entendibles por una persona
-    - Lo que se obtiene e  un árbol de decisión es un "pre-conocimiento" el cual luego debe ser validado por el experto, el experto luego añade excepciones a la reglas o bien existan reglas que no tengan sentido, lo cual luego debe modificarse.
+    - Lo que se obtiene e un árbol de decisión es un "pre-conocimiento" el cual luego debe ser validado por el experto, el experto luego añade excepciones a la reglas o bien existan reglas que no tengan sentido, lo cual luego debe modificarse.
     - Existe la posibilidad en que dado un grupo de entrenamiento no sea posible generarse un árbol de decisión, se puede aproximar con un cierto grado de **certeza** 
     - Ejemplos positivos y negativos:
         - Ejemplos positivos→Aquellos los cuales la meta es positiva?

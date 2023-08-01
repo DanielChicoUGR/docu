@@ -38,7 +38,7 @@ sudo install -o root -g root -m 0755 k9s /usr/local/bin/k9s
 ---
 ## Commands
 
-### Cluster selection
+### Cluster Selection
 As soon as you've started k9s, you can use a bunch of commands to interact with your selected
 cluster (which is the context you have selected in you current shell environment).
 
@@ -46,7 +46,7 @@ You can everytime change the cluster you want to work with by typing `:context`.
 available cluster configurations appear, you can select the cluster to connect to with the
 arrow keys and select the context to be used by pressing enter.
 
-### General command structure
+### General Command Structure
 
 **Menu**
 You can switch between resource types to show using a text menu selection. You need to press `:`
@@ -65,7 +65,7 @@ the filter / search.
 Also in some screens, there are shortcuts for namespace filters bound to the number keys. Where `0`
 always shows all namespaces.
 
-### Useful shortcuts and commands
+### Useful Shortcuts and Commands
 
 | Command     | Comment                                                                        | Compareable kubectl command                                               |
 |-------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------|

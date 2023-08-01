@@ -6,7 +6,7 @@ Documentation & Project Homepage: [Cert-Manager Docs](https://cert-manager.io/do
 ---
 ## Self-Signed Certificates
 
-### Upload existing CA.key and CA.crt files (Option 1)
+### Upload Existing CA.key and CA.crt Files (Option 1)
 
 1. Create a self-signed CA ([[ssl-certs]]) creating a ca.key (private-key) and ca.crt (certificate)
 

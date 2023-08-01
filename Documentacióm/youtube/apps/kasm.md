@@ -2,7 +2,7 @@
 Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.
 
 ---
-## Add self-signed SSL Certificates
+## Add Self-signed SSL Certificates
 ...
 
 1. Stop the kasm services
@@ -61,7 +61,7 @@ https://index.docker.io/v1/
 sudo docker exec -it kasm_db psql -U kasmapp -d kasm
 ```
 
-### Delete invalid users from user_groups table
+### Delete Invalid Users from user_groups Table
 ...
 
 1. Check table for invalid entries

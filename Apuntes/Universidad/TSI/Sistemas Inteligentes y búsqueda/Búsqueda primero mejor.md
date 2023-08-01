@@ -1,11 +1,11 @@
-## Algoritmo A*
+# Algoritmo A*
 ![[Algoritmo A_STAR]]
 
-## Algoritmo de Agendas
+# Algoritmo De Agendas
 ![[Algoritmo de Agendas]]
 
-## Búsqueda con memoria acotada
+# Búsqueda Con Memoria Acotada
 
-## Búsqueda heurística en tiempo real
+# Búsqueda Heurística En Tiempo Real
 
-## Cambio en el modelo re representación para planificación de caminos
+# Cambio En El Modelo re Representación Para Planificación De Caminos

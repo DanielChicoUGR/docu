@@ -17,7 +17,7 @@ your-prod.your-service.your-namespace.svc.cluster.local
 ---
 ## Custom DNS Settings
 
-### Edit coredns config map
+### Edit Coredns Config Map
 
 Add entry to the `Corefile: |` section of the `configmap/coredns` in section **kube-system**.
 
@@ -28,7 +28,7 @@ Add entry to the `Corefile: |` section of the `configmap/coredns` in section **k
 import /etc/coredns/custom/*.server
 ```
 
-### Add new config map
+### Add New Config Map
 
 Example for local DNS server using the **clcreative.home** zone.
 

@@ -25,5 +25,5 @@ To install k3s, you can follow different approaches.
 
 ## Database Backups
 
-### etcd snapshots
+### Etcd Snapshots
 Stored in `/var/lib/rancher/k3s/server/db/snapshots`.

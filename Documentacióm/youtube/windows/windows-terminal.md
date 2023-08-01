@@ -1,7 +1,7 @@
-## Windows Terminal.
-### Install Windows Terminal
+# Windows Terminal.
+## Install Windows Terminal
 Windows Store: [Windows Terminal](https://aka.ms/terminal)
-### Keyboard Shortcuts
+## Keyboard Shortcuts
 
 1. Applic­ation commands
     - ALT - F4: Close window
@@ -20,7 +20,7 @@ Windows Store: [Windows Terminal](https://aka.ms/terminal)
 
 3. Pane commands
     - ALT - SH­IFT - D: Split pane optimally. Active profile
-    - ALT - SH­IFT -  -: Split pane horizontally. Default profile
+    - ALT - SH­IFT - -: Split pane horizontally. Default profile
     - ALT - SH­IFT - +: Split pane vertically. Default profile
     - ALT - SHIFT - ARROWS: Resize pane
     - ALT - ARROWS: Move pane focus
@@ -37,5 +37,5 @@ Windows Store: [Windows Terminal](https://aka.ms/terminal)
     - CTRL - S­HIF­T - PGDN: Scroll page down
 6. Visual adjustment commands
     - CTRL - =: Increase font size
-    - CTRL -  -: Decrease font size
+    - CTRL - -: Decrease font size
     - CTRL - 0: Reset font size

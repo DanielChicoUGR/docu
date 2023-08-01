@@ -15,7 +15,7 @@ By default, server nodes will be schedulable and thus your workloads can get lau
 ### SSL Certificates
 To avoid certificate errors in such a configuration, you should install the server with the `--tls-san YOUR_IP_OR_HOSTNAME_HERE` option. This option adds an additional hostname or IP as a Subject Alternative Name in the TLS cert, and it can be specified multiple times if you would like to access via both the IP and the hostname.
 
-## Get a registered Address
+## Get a Registered Address
 
 ## Install Agents
   

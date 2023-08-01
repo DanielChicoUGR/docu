@@ -5,7 +5,7 @@ Project Homepage: [Nginx Homepage](https://www.nginx.com/)
 Documentation: [Nginx Unit Docs](https://unit.nginx.org/)
 
 ---
-## Basic configuration arguments and examples
+## Basic Configuration Arguments and Examples
 
 Logging and debugging:
 
@@ -76,7 +76,7 @@ location <url> {
 }
 ```
 ## Reverse Proxy
-### Show Client's real IP
+### Show Client's Real IP
 ```nginx
 server {
 	server_name example.com;

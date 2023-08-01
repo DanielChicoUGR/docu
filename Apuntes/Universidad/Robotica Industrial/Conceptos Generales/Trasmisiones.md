@@ -16,11 +16,11 @@ No existe un sistema de trasmisión específico para los robots. los mas usados 
 Las trasmisiones más habituales son aquellas que cuentan con movimiento circular tanto a la entrada como a la salida
 ```
 
-## Reductores
+# Reductores
 - Junto con las trasmisiones es frecuente el uso de sistemas reductores que adaptan la velocidad del motor a la del movimiento del robot
 - Son bastantes específicos $\rightarrow$ Altas exigencias sobre toddo en cuanto a precisión y velocidad de posicionamiento
 
-### Requisitos:
+## Requisitos:
 1. Elevada reducción de velocidad
 2. Elevada precisión
 3. Gran velocidad de posicionamiento

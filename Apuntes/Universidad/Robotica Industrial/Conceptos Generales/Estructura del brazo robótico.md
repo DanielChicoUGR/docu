@@ -1,20 +1,20 @@
-## Robot Cartesiano
+# Robot Cartesiano
 ![[Robot Cartesiano]]
-## Robot Cilindrico
+# Robot Cilindrico
 ![[Robot Cilindrico]]
 
-## Robot Esférico
+# Robot Esférico
 
 ![[Robot Esférico]]
 
-## Robot Angular
+# Robot Angular
 
 ![[Robot angular-antropomorfico]]
 
-## Robot SCARA
+# Robot SCARA
 
 ![[Robot SCARA]]
 
-## Configuración paralela
+# Configuración Paralela
 ![[Configuración paralela]]
 

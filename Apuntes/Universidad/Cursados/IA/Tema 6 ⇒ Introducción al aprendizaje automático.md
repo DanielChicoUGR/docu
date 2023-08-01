@@ -45,7 +45,7 @@
     - Estratégias de aprendizaje
         - Aprendizaje a través de descubrimiento
         - Aprendizaje basado en explicaciones
-        - Aprendizaje  por analogía
+        - Aprendizaje por analogía
         - Aprendizaje a partir de ejemplos : inducción
         - Aprendizaje en la resolución de problemas
         - Aprendizaje a través de consejos

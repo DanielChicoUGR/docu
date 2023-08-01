@@ -7,7 +7,7 @@
 ```powershell
 Install-Module -Name PSWindowsUpdate
 ```
-### List all Commands
+### List All Commands
 ```powershell
 Get-Command -module PSWindowsUpdate
 ```

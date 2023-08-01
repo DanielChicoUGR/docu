@@ -1,7 +1,7 @@
 - Conceptos básicos
     - Una BD sirve para ⇒ almacenar de forma permanente grandes cantidades de datos
     - Con el proposito de ⇒ gestionar de forma efiicente los datos y su alamacenamiento.
-    - [Nivel interno ](../../FBD/Teoria/Tema 2 ⇒ Arquitectura de un SGBD (DBMS)/Una arquitectura de 3 niveles/La percepción de los datos en un SGDB puede hacerse siguiendo 3 niveles de abstracción_/Nivel interno.md)  ↓ 
+    - [Nivel interno ](../../FBD/Teoria/Tema 2 ⇒ Arquitectura de un SGBD (DBMS)/Una arquitectura de 3 niveles/La percepción de los datos en un SGDB puede hacerse siguiendo 3 niveles de abstracción_/Nivel interno.md) ↓ 
         - Expresa en última instancia, las operaciones sobre los datos (CRUD) en términos de actuacón sobre [paginas/bloques](../Teoria/Tema 4 ⇒ Nivel interno/Conceptos básicos/Pagina_Bloque.md) 
         - Provee al administrador mecanismos para optimizar el almacenamiento y el acceso a los datos
         - Se encuentra implementado en el SGBD
@@ -41,21 +41,21 @@ Cada vez que se hace una petición de acceso a un dato, se devuelve el archivo a
             - Devolver el bloque b del conjunto de bloques c
             - reemplazar el bloque b dentro del conjunto de bloques c
     - Gestor de archivos del SGBD
-        - Componente del SGBD que se encarga de  ↓ 
+        - Componente del SGBD que se encarga de ↓ 
             1. Hacer la trtansformacion entre {Campos,registros,archivos almacenados} a Bloques y conjustos de bloques que pueda entender el gestor de discos
             2. Organizar los datos de manera que se minimice el tiempo de recuperación de datos.
         - Funciones específicas ↓ 
             1. Crear un nuevo archivo almacenado y asociarlo con un conjunto de páginas o bloques de la BD
             2. Eliminar un archivo
-            3. No recuperar el registro almacenado  __r__  del archivo almacenado  __a__  
+            3. No recuperar el registro almacenado __r__ del archivo almacenado __a__  
                 - Normalmente, el SGBD proporciona el RID
                 - Solo hay que oobtener en memoria la página que contiene el registro para extraerlo
-            4. Añadir un nuevo registro almacenado al archivo almacenado  __a__ . Hay que localizar la página de BD más apropiada de las pertenecientes al archivo almacenado. 
+            4. Añadir un nuevo registro almacenado al archivo almacenado __a__ . Hay que localizar la página de BD más apropiada de las pertenecientes al archivo almacenado. 
                 - Si no se pudiera, se solicita una nueva página
                 - Se devuelve al SGBD el RID nuevo
-            5. Eliminar el registro  __r__  del archivo almacenado  __a__  
+            5. Eliminar el registro __r__ del archivo almacenado __a__  
                 - Hay que recuperar la página de BD que contiene dicho registro y marcar el espacio ocupado por el registro en dicha página como disponible.
-            6. Actualizar el registro  __r__  en el archivo almacenado  __a__ 
+            6. Actualizar el registro __r__ en el archivo almacenado __a__ 
                 - Recupera la página de la BD que contiene el registro que se desea actualizar.
                 - Trata de sustituir la información. Si no puede, se intenta ubicar en otra página
 1. Representación de la BD en el nivel interno
@@ -198,7 +198,7 @@ Cada vez que se hace una petición de acceso a un dato, se devuelve el archivo a
     - ![](https://remnote-user-data.s3.amazonaws.com/VtzNjRQySMGGwNS2dmCLB7GLOgmER0vCQ9fcs0tBSDgud2-31MBuC8l-QeH_rFcs9huT5XOz2QoKbFbbu_4GHTRMQj_UmCqRHPmicpH594-35CpeKfmLhLgxH7zaB6xr.png)  
     - Tablas organizadas por Índices (IOT)
         - Tablas Organizadas por índices→Estructura comparada con la de los índices que devuleve la tupla a consultar en vez de su RID
-        - ![](https://remnote-user-data.s3.amazonaws.com/vbF08sPl2Gw6FrJyMd2YleZPM903hyhEnRe44VeHWyNXPrQyNAm4FqpvIqoBpkukcRncZru0yGXHpf6Gz4QA2fGDRTeoXmHzlvdsV-jh5c3Zj8nFHy13A8Hgopty3lhH.png)  ![](https://remnote-user-data.s3.amazonaws.com/ky82AUsODTnf0_Y4ffQMyRil3-C40aR_wJAGntCOicUxkRvhtLD5-DCYToIMHCbhyFtA2bhVOYew6xeOXMX8x3S5fUYUOIpH_5bSzdZngOJdCR7dSqkE5sDvWBtGBGo4.png) 
+        - ![](https://remnote-user-data.s3.amazonaws.com/vbF08sPl2Gw6FrJyMd2YleZPM903hyhEnRe44VeHWyNXPrQyNAm4FqpvIqoBpkukcRncZru0yGXHpf6Gz4QA2fGDRTeoXmHzlvdsV-jh5c3Zj8nFHy13A8Hgopty3lhH.png) ![](https://remnote-user-data.s3.amazonaws.com/ky82AUsODTnf0_Y4ffQMyRil3-C40aR_wJAGntCOicUxkRvhtLD5-DCYToIMHCbhyFtA2bhVOYew6xeOXMX8x3S5fUYUOIpH_5bSzdZngOJdCR7dSqkE5sDvWBtGBGo4.png) 
         - Comparativa entre Tablas y IOT 
             - ![](https://remnote-user-data.s3.amazonaws.com/usj7XWHPdhurIdQKnTNegkhJCxo-hU3FBFSOYPrLf5OmUv3_ORp1aSSXdE5I8HvkORHI2MW8GOtcs52_RKDqHt8BDBJIhlysLw6ODdziL8t-CBj_47j9j03PcBOq-cD5.png) 
     - Indice por clave invertida (reverse index)

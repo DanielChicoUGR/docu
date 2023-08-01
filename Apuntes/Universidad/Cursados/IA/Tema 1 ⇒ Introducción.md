@@ -14,7 +14,7 @@
         - Teroria de las Inteligencias Múltiples⇒
             - Señala que no existe una inteligencia única en el ser humano, sino una diversidad de inteligencias que marcan las potencialidades y acentos significativos de cada individuo, trazados por las fortalezas y debilidades en toda una serie de escenarios de expansión de la inteligencia.
             - Tipos de inteligencia:
-                1. Inteligencia  lingüística
+                1. Inteligencia lingüística
                 2. Inteligencia Lógica-Matemática
                 3. Inteligencia Corporal y Cinética
                 4. Inteligencia visual y espacial
@@ -50,7 +50,7 @@
             - Características ↓ 
                 - El modelo es el ser humano
                 - El objetivo es construir un sistema que se haga pasar por humano
-                - Se dice que un sistema es inteligente si es capaz de superar el  [Test De Turing](../../../Test De Turing.md) 
+                - Se dice que un sistema es inteligente si es capaz de superar el [Test De Turing](../../../Test De Turing.md) 
                 - Capacidades necesarias:
                     1. Representación del conocimiento
                     2. Razonamiento

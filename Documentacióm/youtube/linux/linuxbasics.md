@@ -25,7 +25,7 @@ network:
 netplay apply
 ```
 ## Change IP Address in Ubuntu 22.04 LTS
-### gateway4 has been depricated in ubuntu 22.04 release and routes is used instead!
+### Gateway4 Has Been Depricated in Ubuntu 22.04 Release and Routes is Used Instead!
 1. Create a new file `/etc/netplan/01-netcfg.yaml`
 ```yaml
 network:

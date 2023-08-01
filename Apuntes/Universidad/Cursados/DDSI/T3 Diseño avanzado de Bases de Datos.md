@@ -61,7 +61,7 @@
                 - Todos sus atributos no primos dependen de forma completa de las claves candidatas.
             - Un buen diseño conceptual debería arrojar tablas que estan en segunda forma normal.
         - Teorema de HEATH
-            - Teorema→Sea R una relación cin atributos A,B y C, donde se verifica $B \rightarrow C$. Entonces, la descomposición de R en dos relaciones: $R_1(A,B)$,  $R_2(B,C)$ es una descomposición sin perdidas.
+            - Teorema→Sea R una relación cin atributos A,B y C, donde se verifica $B \rightarrow C$. Entonces, la descomposición de R en dos relaciones: $R_1(A,B)$, $R_2(B,C)$ es una descomposición sin perdidas.
             - **Preservación de dependencias:**
                 1. Reflexiva
                     - $\forall \alpha,\beta \ |\ \beta \subseteq \alpha$ se verifica $\alpha \rightarrow \beta$ 

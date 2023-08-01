@@ -1,6 +1,6 @@
-## Regulador P ($q_p(s)$)
+# Regulador P ($q_p(s)$)
 - Regulador proporcional: $R(s)=K_p$ 
-### En ausencia de perturbaciones, $\tau_p=0$, ante una petición $q_d=1$ (escalón unitario) 
+## En Ausencia De Perturbaciones, $\tau_p=0$, Ante Una Petición $q_d=1$ (escalón unitario)
 $$
   q(s)=q_c(s)=\frac{KK_p}{(Js+B)s+KK_p}=\frac{KK_p}{KK_p}=1
   $$
@@ -10,7 +10,7 @@ $$
 - Tras el tiempo suficiente: q(s)=$q_d$=1
 ![[Pasted image 20230603191359.png]] Tras el tiempo suficiente, si no hay perturbaciones, se corrigen los pequeños fallos a la hora de ajustar la posición con los motores
 
-### Perturbación del tipo $\tau_p(s)=\frac{1}{s}$ 
+## Perturbación Del Tipo $\tau_p(s)=\frac{1}{s}$
 $$
   q_p(s)=\frac{-\tau_p}{(Js+B)s+KK_p}=\frac{-\frac{1}{s}}{KK_p}
   $$

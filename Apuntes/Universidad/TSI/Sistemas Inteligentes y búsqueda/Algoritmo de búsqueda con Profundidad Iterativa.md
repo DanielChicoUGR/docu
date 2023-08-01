@@ -1,8 +1,8 @@
-### Definición:
+# Definición:
 ?
 
 
-### Características:
+# Características:
 
 **Completo**-> 
 
@@ -12,7 +12,7 @@
 
 **Complejidad espacial** $\rightarrow$
 
-### Algoritmo
+# Algoritmo
 ```pseudo
 \begin{algorithm} 
 \caption{A\_Star} 
@@ -26,10 +26,10 @@
 \end{algorithm}
 ```
 
-### Análisis:
+# Análisis:
 
-#### Ventajas:
+## Ventajas:
 1. 
 
-#### Desventajas:
+## Desventajas:
 1. 

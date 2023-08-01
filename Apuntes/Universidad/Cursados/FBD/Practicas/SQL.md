@@ -3,7 +3,7 @@
     - Tipo de dato Fecha:
         - Sirve para almacenar datos relativos a fechas. Se almacena representando un valor del calendario juliano desde el 1/1/4712 AC al 13/12/9999 DC. Se almacena como un numero que representa el dia.
         - Oracle permite operaciones aritmeticas basicas con fechas.
-        - El termino  __**SYSDATE **__ devuelve la fecha y hora del sistema
+        - El termino __**SYSDATE **__ devuelve la fecha y hora del sistema
         - Funciones especiales:
             1. **TO_DATE**
                 - se genera un valor de tipo date a partir de la cadena suministrada como primer parametro con el formato de la cadena del segundo parametro

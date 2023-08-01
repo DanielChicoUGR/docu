@@ -69,8 +69,8 @@ $w_{n}$ se demuestra deste $\triangle$ mediante las reglas de inferencia $R$
         - La noción de consecuencia lógica nos proporciona cierto mecanismos para demostrar que si ciertas proposiciones son ciertas entonces otras deben serlo también.
         - $$\triangle \vDash_R w$$ 
     - Solidez y completitud:
-        - Solidez→Un conjunto de [FBF](../../../FBF.md)s $\triangle$ es solido ⇔ $\exists w$ |  $\triangle \vdash_{R} w_{n}$  y $\triangle \vDash w$  
-        - Completo→Si para el conjunto de [FBF](../../../FBF.md)s $\triangle$ y para la [FBF](../../../FBF.md) w, tenemos que siempre que  $\triangle \vDash w$, existe una demostración de w a partir de $\triangle$ utilizando el conjunto de reglas de inferencia R, decimos que R es completo. 
+        - Solidez→Un conjunto de [FBF](../../../FBF.md)s $\triangle$ es solido ⇔ $\exists w$ | $\triangle \vdash_{R} w_{n}$ y $\triangle \vDash w$  
+        - Completo→Si para el conjunto de [FBF](../../../FBF.md)s $\triangle$ y para la [FBF](../../../FBF.md) w, tenemos que siempre que $\triangle \vDash w$, existe una demostración de w a partir de $\triangle$ utilizando el conjunto de reglas de inferencia R, decimos que R es completo. 
 - Cálculo de predicados
     - El cálculo proposicional impone una serie de limitaciones debido a su construcción. Que acaban implicando en tener que tener un literal por cada posible estado a tener en cuenta. Este problema lo solucionó el lenguaje natural hace tiempo al hacer uso de la definición de objetos y de las relaciones entre ellos.
     - El cálculo de predicados usa esta configuración, absorviendo al calculo proposicional para que se exprese como un caso particular del calculo de predicados.

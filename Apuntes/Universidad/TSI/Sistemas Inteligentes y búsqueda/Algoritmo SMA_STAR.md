@@ -1,9 +1,9 @@
-### Definición:
+# Definición:
 ?
 - Similar al [[Algoritmo A_STAR]] con la diferencia de que el tamaño de abiertos esta fijo, cuando este se llena elimina el peor nodo en el (Puede joder la busqueda)
 - Al eliminar nodos, en el padre se almacena el valor del hijo para regenerarlo si el resto d e caminos son peores
 
-### Características:
+# Características:
 
 **Completo**-> Si, siempre que se pueda alcanzar una solución con la memoria disponible
 
@@ -13,7 +13,7 @@
 
 **Complejidad espacial** $\rightarrow$ constante dependiente de la memoria
 
-### Algoritmo
+# Algoritmo
 ```pseudo
 \begin{algorithm} 
 \caption{A\_Star} 
@@ -48,12 +48,12 @@
 \end{algorithm}
 ```
 
-### Análisis:
+# Análisis:
 
-#### Ventajas:
+## Ventajas:
 1. Las mismas que [[Algoritmo A_STAR]]
 2. Uso óptimo del espacio
 3. No expande muchas veces los mismos nodos
 
-#### Desventajas:
+## Desventajas:
 1. Obtener la solución y que sea óptima depende de si se puede alcanzar con la memoria disponible

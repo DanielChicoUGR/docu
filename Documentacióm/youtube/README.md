@@ -21,7 +21,7 @@ If you’d like to contribute to this project, reach out to me on social media o
 - [Boilerplates](https://github.com/christianlempa/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
 - [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
 
-## Support me
+## Support Me
 
 [Becoming a Patreon](https://www.patreon.com/christianlempa) will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
 

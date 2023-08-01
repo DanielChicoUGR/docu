@@ -36,7 +36,7 @@ Acepta el conjunto de las palabras que tienen a 010010 como subcadena: palabras 
             - Puede haber estados que para una entrada tenga dos transiciones. Por ejemplo:
                 - $q_0$ cuando lee 0 puede pasar a 0 o a 1
             - Puede haber estados que para una entrada no tengan ninguna transición: desde $q_1$ no se puede leer un 0
-            - Se puede transformar en un  Automata Finito determinista añádiendo transiciones necesarias para manejar las lecturas indeseadas, pasando a un nodo "sumidero"
+            - Se puede transformar en un Automata Finito determinista añádiendo transiciones necesarias para manejar las lecturas indeseadas, pasando a un nodo "sumidero"
 - Equivalencias entre autómatas finitos Deterministas/No deterministas ↓ 
     - Un lenguaje puede ser aceptado por un AFD si es aceptado por un AFND
         - Los AFD son tambien AFND
@@ -60,7 +60,7 @@ Acepta el conjunto de las palabras que tienen a 010010 como subcadena: palabras 
             - 0 ⇒ es una expresion regular que denota el lenguaje vacio
             - $\epsilon$ es una expresión regular que denota el lenguaje $\{\epsilon\}$ 
             - Si $a \in A$, a es una expresion regular que denota el lenguaje $\{a\}$ 
-        - Si **r** y **s **son expresiones regulares denotando los lenguajes **R **y **S**  entonces definimos las siguientes operaciones ↓ 
+        - Si **r** y **s **son expresiones regulares denotando los lenguajes **R **y **S** entonces definimos las siguientes operaciones ↓ 
             - **Union⇒** $(r+s)$ es una expresión regular que denota el lenguaje $R \cup S$
             - **Concatenación ⇒ **$(rs)$ es una expresión regular que denota el lenguaje RS
             - **Clausura ⇒ **r* es una expresión regular que denota el lenguaje  

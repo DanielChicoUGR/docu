@@ -1,4 +1,4 @@
-# Transformada de Laplace
+# Transformada De Laplace
 
 Herramienta que sirve para el estudio de sistemas lineales en el dominio del tiempo, cuyo comportamiento se modela mediante ecuaciones diferenciales.
 
@@ -23,7 +23,7 @@ $$ donde $j=\sqrt{-1}$ y c es un numero real que deja a su izquierda todas las s
 
 ## Ejemplos
 
-### Función escalón unitario
+### Función Escalón Unitario
 
 ![[Pasted image 20230603122337.png]]$$u(t)= \left \{ \begin{array}{lcc}  
 1 & t \ge 0 \\  
@@ -36,7 +36,7 @@ $$
 U(s)=\int_{0}^{\infty}u(t)e^{-st}dt=\frac{1}{s}
 $$
 
-## Sistema LTI (Lineal invariante en el tiempo)
+## Sistema LTI (Lineal Invariante En El tiempo)
 
 - Es un sistema que se mantiene inmutable en el tiempo
 - Son una buena aproximación a los sistemas físicos reales
@@ -46,7 +46,7 @@ $$
 	- Causalidad $\rightarrow$ Un sistema es causal si la respuesta se produce siempre después de la entrada
 	- Estabilidad $\rightarrow$ Un sistema es estable si para una entrada finita se produce siempre una respuesta finita
 
-### Función de transferencia de un sistema LTI
+### Función De Transferencia De Un Sistema LTI
 $$H(s)=\frac{Y(s)}{X(s)}$$ El cociente entre la transformada de salida y la de entrada, bajo la suposición de que las condiciones iniciales son nulas
 
 Raices numerador -> ceros

@@ -23,7 +23,7 @@ choco -?
 ```
 
 ---
-## Install software package
+## Install Software Package
 
 ```powershell
 choco install <package>

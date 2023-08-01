@@ -13,7 +13,7 @@ Este procedimiento calcula por separado la i-ésima columna de la jacobiana geom
 - La jacobiana se obtiene concatenando todas las columnas.
 
 
-### Ejemplo Scara
+# Ejemplo Scara
 
 ![[Pasted image 20230531174506.png]]
 ![[Pasted image 20230531174517.png]]

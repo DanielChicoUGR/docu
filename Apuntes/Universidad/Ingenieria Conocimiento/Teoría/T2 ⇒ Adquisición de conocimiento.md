@@ -72,12 +72,12 @@
                     - Ante un determinado texto se establece una serie de terminos que deben ser buscados en el texto
                     - Terminos a buscar **preestablecidos** por la técnica y **dependientes** del dominio.
                     - Los terminos a buscar están preestablecidos pero son independientes del dominio
-                        - **Ejemplo ⇒ **X se define como Y,  X está relacionado con Y
+                        - **Ejemplo ⇒ **X se define como Y, X está relacionado con Y
                     - **Terminos independientes del dominio**
                         - Los terminos independientes del dominio son→Conceptos y relaciones
                         - Se deben buscar ↓ 
                             - Estructuras tipo Definicion ⇒ Conceptos y estructuras
-                            - Estructuras tipo  Afirmación Relacional ⇒ Relaciones
+                            - Estructuras tipo Afirmación Relacional ⇒ Relaciones
                         - Permite extraer conocimiento sin entender el tema por completo
                         - Para realizar el analisis se necesita ↓ 
                             - Estructuras a buscar y tipo de conocimiento que se obtendrá de cada una independientemente de que sea un concepto, característica, relación o valor.
@@ -157,7 +157,7 @@
                     - **Ventajas**
                         1. Proporciona al IC una primera idea de conocimientos y habilidades implicadas en el dominio
                         2. PRoporciona conocimientos básicos del dominio y ayuda al IC a comprender la tarea del experto
-                        3. Es  útil para captar conocimientos procedimientales o para entender características peculiares de los usuarios del SBC
+                        3. Es útil para captar conocimientos procedimientales o para entender características peculiares de los usuarios del SBC
                     - **Inconvenientes:**
                         1. Si las tareas habituales son poco informativas acerca el razonamiento del experto este méþodo sum8inistra poco conocimiento
                         2. Consume muxcho tiempo y puede llegar a ser inoportuno y fastidioso

@@ -16,9 +16,9 @@ chmod +x ./kind
 sudo mv ./kind /usr/local/bin/kind
 ```
 
-## Cluster management
+## Cluster Management
 
-### Cluster creation
+### Cluster Creation
 
 You have to provide a configuration file which tells Kind how you want your Kubernetes cluster to be deployed. Find an example configuration file below:
 
@@ -66,7 +66,7 @@ ac14d8c7a3c9 kindest/node:v1.25.2 "/usr/local/bin/entr..." 2 minutes ago Up Abou
 e1ae2d701394 kindest/node:v1.25.2 "/usr/local/bin/entr..." 2 minutes ago Up About a minute testcluster-worker
 ```
 
-### Interacting with your cluster
+### Interacting with Your Cluster
 
 You may have multiple Kind clusters deployed at the same time. To get a list of running clusters, you can use the following command:
 
@@ -78,7 +78,7 @@ kind-2
 
 After cluster creation, the Kubernetes context is set automatically to the newly created cluster. In order to set the currently used kubeconfig, you may use some tooling like [kubectx](https://github.com/ahmetb/kubectx). You may also set the current context used by `kubectl` with the `--context` option, which refers to the Kind cluster name.
 
-### Cluster deletion
+### Cluster Deletion
 
 To delete a Kind cluster, you can use the following command. Kind will also delete the kubeconfig of the deleted cluster. So you don't need to do this on your own.
 
@@ -87,7 +87,7 @@ kind delete cluster -n testcluster
 Deleting cluster "testcluster" ...
 ```
 
-## Further information
+## Further Information
 
 More examples and tutorials regarding Proxmox can be found in the link list below:
 

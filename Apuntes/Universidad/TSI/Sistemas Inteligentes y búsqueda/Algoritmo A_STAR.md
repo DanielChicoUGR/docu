@@ -1,4 +1,4 @@
-### Definición:
+# Definición:
 ?
 1. Método mas conocido de búsqueda por el mejor nodo
 2. La idea es evitar explorar caminos que ya sabemos que no son interesantes por su costo
@@ -8,7 +8,7 @@
 	- $f(n) \rightarrow$ costo total estimado de pasar por ese nodo
 4. Intenta expandir el nodo con mejor función de evaluación
 
-### Características:
+# Características:
 
 **Completo**-> Encuentra solución <-> El grafo es localmente finito y h sea monótona
 	Todos los nodos tienen un numero finito de hijos.
@@ -19,7 +19,7 @@
 
 **Complejidad espacial** Exponencial
 
-### Algoritmo
+# Algoritmo
 ```pseudo
 \begin{algorithm} 
 \caption{A\_Star} 
@@ -65,13 +65,13 @@
 		- Si está en CERRADOS, insertarlo manteniendo la información del mejor padre y actualizar la información de los descendientes. 
 		- En otro caso insertarlo como un nodo nuevo
 
-### Análisis:
+# Análisis:
 
-#### Ventajas:
+## Ventajas:
 1. Admite costes variables de acciones
 2. Evita caminos inútiles
 3. Reduce su complejidad con una buena heurística
 4. Es completo y óptimo de manera eficiente
 
-#### Desventajas:
+## Desventajas:
 1. Complejidad espacial y temporal exponenicial.

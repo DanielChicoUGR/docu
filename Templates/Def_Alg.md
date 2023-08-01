@@ -1,8 +1,8 @@
-### Definición:
+# Definición:
 ?
 
 
-### Características:
+# Características:
 
 **Completo**-> 
 
@@ -12,7 +12,7 @@
 
 **Complejidad espacial** $\rightarrow$
 
-### Algoritmo
+# Algoritmo
 ```pseudo
 \begin{algorithm} 
 \caption{PSEUDOCODIGO} 
@@ -27,11 +27,15 @@
 
 ```
 
+<<<<<<< Updated upstream
 
 ### Análisis:
+=======
+# Análisis:
+>>>>>>> Stashed changes
 
-#### Ventajas:
+## Ventajas:
 1. 
 
-#### Desventajas:
+## Desventajas:
 1. 

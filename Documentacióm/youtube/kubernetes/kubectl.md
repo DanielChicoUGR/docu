@@ -25,7 +25,7 @@ curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stabl
 sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 ```
 
-### On mac OS
+### On Mac OS
 Install Kubectl with **Homebrew ([[homebrew]])**:
 ```zsh
 brew install kubernetes-cli
@@ -149,14 +149,14 @@ Short Name | Long Name
 ### Logs
 ...
 
-### MySQL 
+### MySQL
 `kubectl run -it --rm --image=mysql:5.7 --restart=Never mysql-client -- mysql -u USERNAME -h HOSTNAME -p`
 
 ### Networking
 `kubectl run -it --rm --image=nicolaka/netshoot netshoot -- /bin/bash`
 
 ---
-## Resources stuck in Terminating state
+## Resources Stuck in Terminating State
 ...
 
 ```sh

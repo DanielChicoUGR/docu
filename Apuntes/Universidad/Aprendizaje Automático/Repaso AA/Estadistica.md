@@ -4,3 +4,6 @@ Espacio de probabilidad::Tripleta $(\Omega,F,P)$ donde:
 	- $F \subseteq 2^\Omega \rightarrow$ espacio de eventos
 	- P $\rightarrow$ Probabilidad medible (*Distribución de probabilidad*) que mapea cada evento $E \in F$ con un valor real $[0,1]$
 
+
+
+

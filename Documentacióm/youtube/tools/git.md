@@ -44,7 +44,7 @@ The following commands can be helpful for working with `git`.
 | `git push`                         | Push commited changes to the remote repository                                                                                                 |
 | `git pull`                         | Pull current state from the remote repository to your local repo                                                                               |
 
-### Working with git-flow
+### Working with Git-flow
 
 Git-flow assists you by combining multiple steps of `git` commands to one `git-flow` command
 which will do a workflow of steps. Although `git-flow` makes live easier in some cases,
@@ -63,7 +63,7 @@ As an example, here is the comparison between the regular `git` commands and the
 
 Another `git-flow` cheat sheet can be found [here](https://danielkummer.github.io/git-flow-cheatsheet/).
 
-## Using git-crypt
+## Using Git-crypt
 
 Having secret or sensitive information in your git repository is never a good choice. But
 sometimes it's necessary. Never push unencrypted data to your remote repository.

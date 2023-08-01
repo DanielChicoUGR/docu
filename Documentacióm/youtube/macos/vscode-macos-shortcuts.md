@@ -1,4 +1,4 @@
-# VSCode shortcuts
+# VSCode Shortcuts
 
 - [MacOS vscode keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 - [Howto vscode custom shortcuts](https://code.visualstudio.com/docs/getstarted/keybindings)
@@ -23,12 +23,12 @@
 | ⌥ + Click | add a new cursor at the mouse click           |
 | ⌘ + ⇧ + L | add new cursor behind all instances of a word |
 
-## Split editor
+## Split Editor
 | shortcut | description |
 | :------- | :---------- |
 | ⌘ + \    | split       |
 
-## Split Window focusing
+## Split Window Focusing
 | shortcut | description                           |
 | :------- | :------------------------------------ |
 | ⌘ + 0    | explorer panel                        |
@@ -64,7 +64,7 @@
 | ⇧ + ⌥ + F     | format entire document |
 | ⌘ + K and ⌘ F | format selected text   |
 
-## Transform selected
+## Transform Selected
 | shortcut      | description                     |
 | :------------ | :------------------------------ |
 | ^ + ⇧ + ⌥ + L | transform selected to lower     |

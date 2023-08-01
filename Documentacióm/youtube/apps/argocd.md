@@ -48,7 +48,7 @@ spec:
 Edit the `--insecure` flag in the `argocd-server` command of the argocd-server deployment, or simply set `server.insecure: "true"` in the `argocd-cmd-params-cm` ConfigMap.
 
 ---
-## Get the admin password
+## Get the Admin Password
 
 For Argo CD v1.8 and earlier, the initial password is set to the name of the server pod, for Argo CD v1.9 and later, the initial password is available from a secret named `argocd-initial-admin-secret`.
 
@@ -59,7 +59,7 @@ kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.pas
 ---
 ## Configuration
 
-### Add private GitHub Repositories
+### Add Private GitHub Repositories
 
 1. Create a github token: https://github.com/settings/tokens
 
@@ -146,7 +146,7 @@ spec:
         namespace: default
 ```
 
-## Further information
+## Further Information
 
 More examples and tutorials regarding ArgoCD can be found in the link list below:
 

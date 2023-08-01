@@ -70,7 +70,7 @@ Install with providing Datree token. The Datree token is optional, and can be en
 DATREE_TOKEN=[your-token] bash <(curl https://get.datree.io/admission-webhook)
 ```
 
-### Ignore a namespace
+### Ignore a Namespace
 
 Add the label "admission.datree/validate=skip" to the configuration of the namespace you would like to ignore:
 

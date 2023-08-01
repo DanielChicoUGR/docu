@@ -8,7 +8,7 @@ Generalmente, el usuario especifica la posición y orientación inicial y final 
 
 Definir una trayectoria implica definir una función (matemática) para cada dimensión del espacio y cuya variable independiente sea temporal.
 
-#### Restricciones a especificar por el usuario:
+# Restricciones a Especificar Por El Usuario:
 - Espaciales:
 	- En caso de requerir especificar con detalle el movimiento. En estos casos se usan puntos vía
 - Temporales:
@@ -16,11 +16,11 @@ Definir una trayectoria implica definir una función (matemática) para cada dim
 - De uniformidad:
 	- Se refiere a que la trayectoria no tenga ni giros ni cambios de velocidad bruscos con el objetivo de reducir no solo los daños externos sino la durabilidad del los componentes del robot
 
-#### Función uniforme:
+# Función Uniforme:
 ?
 función continua y cuya primera derivada es continua. Algunas veces es conveniente que la segunda derivada también sea continua.
 
-#### Espacios de las trayectorias
+# Espacios De Las Trayectorias
 - ==Espacio Cartesiano(tarea)==:
 	- Se refiere a los ejes de coordenadas como los conocemos
 	- Genera trayectorias más "lógicas" para el usuario

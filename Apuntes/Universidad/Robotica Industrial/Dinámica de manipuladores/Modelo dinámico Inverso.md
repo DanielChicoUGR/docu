@@ -1,4 +1,4 @@
-# Se define como: 
+# Se Define Como:
 $$\tau=D\ddot{q}+H+C$$
 - Donde:
 	- $q$ es el vector de coordenadas articulares

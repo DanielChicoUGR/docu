@@ -27,7 +27,7 @@
         - ![](https://remnote-user-data.s3.amazonaws.com/qB2gegsa-WKbw9FeNgK1hbi2Yn-Gfok28y9Mr7x7zpw-fEvgHhM-e1kpkX808oCN83XQTDMgIuaTta79Au_aQ9qy7BfbbuWA-IVkh02oYlmufR1g_b25k-eMkl8uzBEC.png) ⇒ Espacio de estados del mundo de los bloques.
     - PLAN→Secuencia de acciones que llevan al agente desde un estado inicial hasta un estado destino.
     - PLANIFICACIÓN→Proceso de generar un plan. Este proceso se puede realizar sobre grafos implícitos o explícitos.
-        - **Elementos a tener en cuenta en el proceso de planificación **  ↓ 
+        - **Elementos a tener en cuenta en el proceso de planificación ** ↓ 
             - Factor de ramificación (Cuantos nodos hijo tiene cada estado)
             - Profundidad del árbol de busqueda.
         - **EJEMPLO ⇒ El mundo de los bloques:**

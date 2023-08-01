@@ -37,6 +37,6 @@ Set up a PowerShell Profile by opening the profile script :
 code $PROFILE
 ```
 
-## (Optional) Set up starship Prompt
+## (Optional) Set up Starship Prompt
 You can customize the look and feel of PowerShell with the Starship Prompt ([[starship]]).
 

@@ -1,9 +1,9 @@
 Tiene su base en el [[Método Algebraico]] aprovechandose de las propiedades del producto de transformadas es posible reducir la complejidad.
 
 
-## Ejemplo Robot TRL
+# Ejemplo Robot TRL
 ![[Pasted image 20230530191254.png]]![[Pasted image 20230530191300.png]]
-#### Tabla Devanit-Hartenberg del robot
+## Tabla Devanit-Hartenberg Del Robot
 
 | i   | $\theta_i$ | $d_i$ | $a_i$ | $\alpha_1$ |
 | --- | ---------- | ----- | ----- | ---------- |
@@ -11,7 +11,7 @@ Tiene su base en el [[Método Algebraico]] aprovechandose de las propiedades del
 | 2   | $q_2$      | 0     | 0     | -90        |
 | 3   | 0          | $q_3$ | 0     | 0           |
 
-#### Matrices de Transformada homogenea:
+## Matrices De Transformada Homogenea:
 - $^0T_1=\begin{bmatrix} C_1 & 0 & S_1 & 0 \\ S_1 & 0 & -C_1 & 0\\ 0 & 1 & 0 & l_1 \\ 0 & 0& 0& 1\\ \end{bmatrix}$ 
 - $^1T_2=\begin{bmatrix} C_2 & 0 & -S_2 & 0 \\ S_2 & 0 & C_2 & 0\\ 0 & -1 & 0 & 0 \\ 0 & 0& 0& 1\\ \end{bmatrix}$
 - $^2T_3=\begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0\\ 0 & 0 & 1 & q_3 \\ 0 & 0& 0& 1\\ \end{bmatrix}$ 

@@ -15,13 +15,13 @@ WIP
 ## Resize Disk
 WIP
 
-### Increase disk size
+### Increase Disk Size
 Increase disk size in the GUI or with the following command
 ```
 qm resize 100 virtio0 +5G
 ```
 
-### Decrease disk size
+### Decrease Disk Size
 > Before decreasing disk sizes in Proxmox, you should take a backup!
 1. Convert qcow2 to raw
 ```
@@ -37,7 +37,7 @@ qemu-img convert -p -O qcow2 vm-100.raw vm-100.qcow2
 ```
 
 ---
-## Further information
+## Further Information
 
 More examples and tutorials regarding Proxmox can be found in the link list below:
 

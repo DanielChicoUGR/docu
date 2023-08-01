@@ -1,4 +1,4 @@
-- Existen varios metodos a traves de los cuales se pueden  representar de manera interna
+- Existen varios metodos a traves de los cuales se pueden representar de manera interna
 - Modelado basado en fronteras
     - Se necesitan para representar estos elementos ↓ 
         - Geometría→Localización del conjunto de los puntos en el espacio de los elementos a representar

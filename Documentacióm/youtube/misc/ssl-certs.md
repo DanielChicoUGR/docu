@@ -56,7 +56,7 @@ COMMAND | CONVERSION
 ## Verify Certificates
 `openssl verify -CAfile ca.pem -verbose cert.pem`
 
-## Install the CA Cert as a trusted root CA
+## Install the CA Cert as a Trusted Root CA
 
 ### On Debian & Derivatives
 - Move the CA certificate (`ca.pem`) into `/usr/local/share/ca-certificates/ca.crt`.
@@ -89,7 +89,7 @@ trust anchor --store myCA.crt
 ```bash 
 update-ca-trust
 ```
-wiki page  [here](https://wiki.archlinux.org/title/User:Grawity/Adding_a_trusted_CA_certificate)
+wiki page [here](https://wiki.archlinux.org/title/User:Grawity/Adding_a_trusted_CA_certificate)
 
 ### On Windows
 

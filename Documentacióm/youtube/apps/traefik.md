@@ -22,7 +22,7 @@ entryPoints:
           scheme: https
 ```
 
-### HTTPS 
+### HTTPS
 WIP
 ```yaml
 entryPoints:
@@ -117,7 +117,7 @@ tls:
         keyFile: /your-traefik-key.key
 ```
 
-### options
+### Options
 Define TLS Options like disabling insecure TLS1.0 and TLS 1.1.
 ```yaml
 tls:

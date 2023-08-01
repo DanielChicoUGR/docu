@@ -14,7 +14,7 @@
             - Atributo↔Cualquier elemento de la información subsceptible de tomar valores
             - Dominio↔Rango de valores donde toma sus datos un atributo. A priori se considera finito.
             - Relación↔Dados los atributos Ai (i=1,2...n) con los dominios Di (i=1,2...n), Definimos relacion asociada a A1,A2...An a cualquier subconjunto del producto Cartesiano D1xD2x...xDn
-                - Propiedades  ↓ 
+                - Propiedades ↓ 
                     - No hay orden en las tuplas
                     - No hay orden en los atributos
                     - No hay tuplas duplicadas
@@ -40,8 +40,8 @@
                 - No hay valores de tipo registro.
                 - No hay valores de tipo tabla.
             - **Clave Candidata (CC) y primaria (CP) (formal)**
-                - $R[A1,A2,...,An], PK ⊆ {A1,A2,...An}$  Se denomina Clave Candidata ⇔ Se cumplen ↓ 
-                    - Unicidad:  No existen dos tuplas de la misma relacion con la misma Clave primaria
+                - $R[A1,A2,...,An], PK ⊆ {A1,A2,...An}$ Se denomina Clave Candidata ⇔ Se cumplen ↓ 
+                    - Unicidad: No existen dos tuplas de la misma relacion con la misma Clave primaria
                     - Minimalidad: No existe un subconjunto de la clave primaria que cumpla la condición de unicidad.
     - Restricciones o reglas de integridad
         - **Condiciones de integridad **→Normas que mantienen la corrección semántica de una base de datos.
@@ -52,7 +52,7 @@
             - Podemos ver una clave externa como un conjunto de atributos de una relación cuyos valores en las tuplas deben coincidir con valores de la clave primaria de las tuplas de otra relación.
         - Integridad Referencial: 
             - Definición:→Si una relación incluye una clave externa conectada a una clave primaria, el valor de la clave externa debe ser, bien igual a un valor ya existente en el dominio activo de la clave primaria, o bien completamente nulo.
-            - Indica que las claves externas han de tener el valor de una clave ya introducida en la base de datos o un  valor nulo.
+            - Indica que las claves externas han de tener el valor de una clave ya introducida en la base de datos o un valor nulo.
             - **Tareas del SGDB** ↓ 
                 - Mantener unicidad de las claves primarias y de las claves candidatas.
                 - Mantener la restricción de integridad e identidad frente a operaciones de inserción y actualización de datos.

@@ -5,7 +5,7 @@
 ```powershell
 wsl --list --verbose
 ```
-### Starting/Restarting a Distro
+### Starting/Restarting A Distro
 ```powershell
 wsl --distribution DISTRO-NAME
 ```
@@ -15,7 +15,7 @@ wsl --distribution DISTRO-NAME
 wsl --t DISTRO-NAME
 ```
 
-### Terminate All Running Distros and WSL process
+### Terminate All Running Distros and WSL Process
 ```powershell
 wsl --shutdown
 ```
@@ -30,12 +30,12 @@ wsl --import (distribution) (install location) (file location and filename)
 ```
 
 ## Symbolic Links
-### Link .ssh folder
+### Link .ssh Folder
 ```bash
 sudo ln -s /mnt/c/Users/lempa/.ssh ~/.ssh
 ```
 
-### Link .kube folder
+### Link .kube Folder
 ```bash
 sudo ln -s /mnt/c/Users/lempa/.ssh ~/.ssh
 ```
@@ -86,7 +86,7 @@ netsh advfirewall firewall delete rule name=$port
 netsh interface portproxy show v4tov4
 ```
 
-## Linux desktop in WSL2
+## Linux Desktop in WSL2
 
 With WSL2 it's possible to install and run a Linux desktop environment (XFCE). A tutorial on how
 to implement that, can be found [here](https://thedatabaseme.de/2022/05/15/shorty-running-xfce-linux-desktop-on-wsl2/).

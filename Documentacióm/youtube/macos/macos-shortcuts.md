@@ -1,6 +1,6 @@
-# MacOS keyboard shortcuts
+# MacOS Keyboard Shortcuts
 
-# Table of contents
+# Table of Contents
 - [MacOS keyboard shortcuts](#macos-keyboard-shortcuts)
 - [Table of contents](#table-of-contents)
   - [Mac Keyboard Modifier keys](#mac-keyboard-modifier-keys)
@@ -9,7 +9,7 @@
   - [Finder and system shortcuts](#finder-and-system-shortcuts)
   - [Document shortcuts](#document-shortcuts)
 
-## Mac Keyboard Modifier keys
+## Mac Keyboard Modifier Keys
 | key  | description    |
 | :--- | :------------- |
 | ⌘    | ⌘ +  / Cmd     |
@@ -23,7 +23,7 @@ _- On Windows keyboards use the Alt key instead of ⌥ + , and the Windows logo 
 
 
 
-## Cut, copy, paste, and other common shortcuts
+## Cut, Copy, Paste, and other Common Shortcuts
 
 | keys          | description                                                                                                   |
 | :------------ | :------------------------------------------------------------------------------------------------------------ |
@@ -60,7 +60,7 @@ _- On Windows keyboards use the Alt key instead of ⌥ + , and the Windows logo 
 | ⌘ + ,         | Open preferences for the front app                                                                            |
 
 
-## Sleep, log out, and shut down shortcuts
+## Sleep, Log Out, and Shut down Shortcuts
 _* You might need to press and hold some of these shortcuts for slightly longer than other shortcuts. This helps you to avoid using them unintentionally._
 
 | keys              | description                                                                         |
@@ -83,7 +83,7 @@ _* You might need to press and hold some of these shortcuts for slightly longer 
 | ⌥ + ⇧ + ⌘ + q     | Log out immediately without confirming                                              |
 
 
-## Finder and system shortcuts
+## Finder and System Shortcuts
 | keys                            | description                                                                                |
 | :------------------------------ | :----------------------------------------------------------------------------------------- |
 | ⌘ + d                           | Duplicate the selected files                                                               |
@@ -158,7 +158,7 @@ _* You might need to press and hold some of these shortcuts for slightly longer 
 | ⌘ + click a window title        | See the folders that contain the current folder                                            |
 
 
-## Document shortcuts
+## Document Shortcuts
 _*The behavior of these shortcuts may vary with the app you're using_
 
 | keys          | description                                                                                                                        |

@@ -15,7 +15,7 @@ Shortcut | Description
 `[⌘ Command] + [↵ Enter]` | Toggle Fullscreen
 `[⇧ Shift] + [⌘ Command] + [↵ Enter]` | Maximize
 
-## Cursor and selection
+## Cursor and Selection
 Shortcut | Description
 ---|---
 `[˄ Control] + [B]` | Move back one character

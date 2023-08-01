@@ -1,11 +1,11 @@
-### Definición:
+# Definición:
 ?
--  Combina el [[Algoritmo A_STAR]] con el [[Algoritmo de búsqueda con Profundidad Iterativa]]
+- Combina el [[Algoritmo A_STAR]] con el [[Algoritmo de búsqueda con Profundidad Iterativa]]
 - El límite lo establece la función de evaluación
 	- En cada iteración, el límite es el menor de los valores devuelto por la función de evaluación de los nodos que excedieron el límite en la iteración anterior.
 
 
-### Características:
+# Características:
 
 **Completo**-> Si existe solución la encuentra
 
@@ -15,7 +15,7 @@
 
 **Complejidad espacial** $\rightarrow$ Lineal
 
-### Algoritmo
+# Algoritmo
 ```pseudo
 \begin{algorithm} 
 \caption{IDA*} 
@@ -69,13 +69,13 @@
 \end{algorithm}
 ```
 
-### Análisis:
+# Análisis:
 
-#### Ventajas:
+## Ventajas:
 1. Las mismas que el [[Algoritmo A_STAR]]
 2. Ocupa muy poco espacio en memoria
 
-#### Desventajas:
+## Desventajas:
 1. Complejidad en tiempo exponencial
 2. Maneja mal los numero decimales???? WTF
 3. Se expanden muchas veces los mismos nodos -> Problema

@@ -1,13 +1,13 @@
-### ¿Qué es?
+# ¿Qué Es?
 Matemáticamente consiste en ecuaciones (normalmente diferenciales de segundo orden) que permite conocer:
 1. Qué movimientos surge al aplicar unas fuerzas ([[Modelo dinámico Directo]])
 2. Qué fuerzas hay que aplicar para obtener un movimiento determinado ([[Modelo dinámico Inverso]])
 
-### Es imprescindible para:
+# Es Imprescindible Para:
 1. Simulación del movimiento del robot
 2. Diseño y evaluación de la estructura mecánica del robot
 3. Dimensionamiento de los actuadores
-4. Diseño y evaluación  del control dinámico del robot
+4. Diseño y evaluación del control dinámico del robot
 
 
 No es demasiado complejo para robots con pocos GDL pero a medida que crece los GDLs, el modelo se complica enormemente

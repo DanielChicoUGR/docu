@@ -38,7 +38,7 @@ be doubled `(%%)` to yield a single percent sign visible to awk.
 To conserve space, use `'1'` instead of `'{print}'` to print each line.
 Either one will work.
 
-## Handy one-line Awk scripts
+## Handy One-line Awk Scripts
 
 ### File Spacing
 
@@ -329,5 +329,5 @@ The info and manual ("man") pages on Unix systems may be helpful (try
 regular expressions in "man ed").
 
 USE OF '\t' IN awk SCRIPTS: For clarity in documentation, I have used
-'\t' to indicate a tab character (0x09) in the scripts.  All versions of
+'\t' to indicate a tab character (0x09) in the scripts. All versions of
 awk should recognize this abbreviation.

@@ -1,10 +1,10 @@
 # HTTP Status Codes
 ## Categories
--   **1XX** status codes: Informational Requests
--   **2XX** status codes: Successful Requests
--   **3XX** status codes: Redirects
--   **4XX** status codes: Client Errors
--   **5XX** status codes: Server Errors
+- **1XX** status codes: Informational Requests
+- **2XX** status codes: Successful Requests
+- **3XX** status codes: Redirects
+- **4XX** status codes: Client Errors
+- **5XX** status codes: Server Errors
 
 ## Complete List
 Code | Name | Description

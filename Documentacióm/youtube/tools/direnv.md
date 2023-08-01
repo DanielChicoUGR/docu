@@ -20,7 +20,7 @@ eval "$(direnv hook zsh)"
 ```
 
 ---
-## Getting started
+## Getting Started
 
 Create a new `.envrc` file with your environment variables.
 

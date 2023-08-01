@@ -2,7 +2,7 @@
 
 Usado en operaciones especialmente que se realizan en un plano
 
-### Características:
+# Características:
 1. Menor dificultad de control
 2. Amplio volumen de trabajo
 3. Es un robot con 3 o 4 grados de libertad con posicionamietno horizontal

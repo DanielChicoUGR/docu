@@ -1,5 +1,5 @@
-## Cloudflare Tunnel
-##### Protect your web servers from direct attack
+# Cloudflare Tunnel
+## Protect Your Web Servers from Direct Attack
 
 From the moment an application is deployed, developers and IT spend time locking it down — configuring ACLs, rotating IP addresses, and using clunky solutions like GRE tunnels.
 
@@ -7,7 +7,7 @@ There’s a simpler and more secure way to protect your applications and web ser
 
 Ensure your server is safe, no matter where it’s running: public cloud, private cloud, Kubernetes cluster, or even a Mac mini under your TV.
 
-### I do everthing in the cli
+# I Do Everthing in the Cli
 
 
 install the cloudflare tunnel service.

@@ -21,7 +21,7 @@ $$
 	- $\vec{v}$ y  $\dot{\vec{v}}$ son la velocidad y la aceleración lineal del centro de masas de la articulación i
 	- $w$ y  $\dot{w}$ son la velocidad y aceleración angular de la articulación i
 
-### Algoritmo de Newton-Euler
+### Algoritmo De Newton-Euler
 1. Asignar a cada eslabón un sistema de coordenadas de acuerdo con las normas de D-H
 2. Establecer las condiciones iniciales
 	-  Para el SC de la base (Suponiendo base fija):
@@ -59,7 +59,7 @@ $$
 		- Si i es de traslación: $\tau_i=\ ^if_j^T\ ^iR_{i-1}z_0$
 
 
-### Ejemplo algoritmo sobre Robot TL
+### Ejemplo Algoritmo Sobre Robot TL
 
 ![[Pasted image 20230604125845.png]]
 ![[Pasted image 20230604125907.png]]

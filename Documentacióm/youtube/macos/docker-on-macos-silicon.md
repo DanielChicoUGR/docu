@@ -9,6 +9,6 @@ docker run --platform linux/arm/v7
 docker run --platform linux/amd64
 ```
 
-## Shared volumes
+## Shared Volumes
 Shared volumes can be configured in the Docker Desktop Settings `Docker -> Preferences... -> Resources -> File Sharing`
 

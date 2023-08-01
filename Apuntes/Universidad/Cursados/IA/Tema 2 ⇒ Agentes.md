@@ -15,7 +15,7 @@
                     - Percibe el entorno y lo modifican en tiempo real.
                 2. Pro-Activo
                     - los agentes no deben simplemente actuar en respuesta a su entorno, deben de ser capaces de exhibir comportamientos dirigidos a lograr objetivos que sean oportunos, y tomar la iniciativa cuando sea apropiado.
-                    - Es capaz de alcanzar objetivos  y se los propone
+                    - Es capaz de alcanzar objetivos y se los propone
                 3. Social
                     - Los agentes deben ser capaces de interactuar, cuando sea apropiado, con otros agentes artificiales o humanos para completar su propio proceso de resolución del problema y ayudar a otros con sus actividades.
                     - No es una característica indispensable.

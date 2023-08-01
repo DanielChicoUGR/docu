@@ -9,7 +9,7 @@ sudo apt install -y postgresql postgresql-contrib postgresql-client
 sudo systemctl status postgresql.service
 ```
 
-### Install / deploy Postgres on Kubernetes with Zalando Postgres Operator
+### Install / Deploy Postgres on Kubernetes with Zalando Postgres Operator
 
 Postgres is probably the database which is most common on Cloud platforms and also, running
 on Kubernetes environments. There are several so called "Kubernetes Operators" which handle
@@ -22,7 +22,7 @@ in the link list below:
 - [Configure Zalando Postgres Operator Backup with WAL-G](https://thedatabaseme.de/2022/03/26/backup-to-s3-configure-zalando-postgres-operator-backup-with-wal-g/)
 - [Configure Zalando Postgres Operator Restore with WAL-G](https://thedatabaseme.de/2022/05/03/restore-and-clone-from-s3-configure-zalando-postgres-operator-restore-with-wal-g/)
 
-## Initial database connection
+## Initial Database Connection
 
 A local connection (from the database server) can be done by the following command:
 
@@ -35,13 +35,13 @@ Type "help" for help.
 postgres=#
 ```
 
-## Set password for postgres database user
+## Set Password for Postgres Database User
 
 The password for the `postgres` database user can be set the the quickcommand `\password`
 or by `alter user postgres password 'Supersecret'`. A connection using the `postgres` user
 is still not possible from the "outside" hence to the default settings in the `pg_hba.conf`.
 
-### Update pg_hba.conf to allow postgres user connections with password
+### Update pg_hba.conf to Allow Postgres User Connections with Password
 
 In order to allow connections of the `postgres` database user not using OS user
 authentication, you have to update the `pg_hba.conf` which can be found under
@@ -73,7 +73,7 @@ Now a connection from outside the database host is possible e.g.
 psql -U postgres -d postgres -h databasehostname
 ```
 
-## Creation of additional database users
+## Creation of Additional Database Users
 
 A database user can be created by the following command:
 
@@ -89,7 +89,7 @@ postgres=# \du
  postgres  | Superuser, Create role, Create DB, Replication, Bypass RLS | {}
 ```
 
-## Creation of additional databases
+## Creation of Additional Databases
 
 One can create new Postgres databases within an instance. Therefore you can use the `psql`
 command to login (see above).

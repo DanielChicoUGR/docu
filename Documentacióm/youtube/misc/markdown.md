@@ -103,7 +103,7 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 | col1 | col2 | col3 |
 ```
 
-### Task list
+### Task List
 
 To create a task list start line with square brackets with an empty space.
 Ex: [ <space> ] and add text for task.

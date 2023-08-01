@@ -9,7 +9,7 @@
         - **MAX⇒ **primer jugador
         - **MIN⇒ **segundo jugador
         - **Nodos MAX y nodos MIN**
-        - Los nodos **TERMINALES **se etiquetan con **V, D o E **desde el punto de vista de  **MAX**
+        - Los nodos **TERMINALES **se etiquetan con **V, D o E **desde el punto de vista de **MAX**
             - V⇒ Victoria
             - D⇒ Derrota
             - E⇒ Empate

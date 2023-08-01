@@ -27,7 +27,7 @@
 	 - Cloud computing technology generally includes analytics and reporting, which helps track usage
 	 - This feature allows you to indentify areas of improvement, meet your business goals, and increase organizational efficiency 
 7. Collaboration
-	-  Cloud computing allows users from different geographic locations to work as a team and collaborate easily and effectively
+	- Cloud computing allows users from different geographic locations to work as a team and collaborate easily and effectively
 	- This speeds delivery of applications to market
 8. Data Recovery
 	 - Cloud computing provides features and technologies that help companies recover data lost during natural disasters, power outages, and other unforeseen emergencies.
@@ -51,7 +51,7 @@ It has all the functionality of a non cloud based application with the added adv
 
 Cloud computing reduces capital expenditures ( CapEx ) by eliminating the need to run and maintain your own infrastructure
 Your costs shift to operating expenses ( OpEx ), which are generally lower as you only pay for the resources you consume
-# Operational Efficiencies 
+# Operational Efficiencies
 
 - Reduces Capital Expenses
 - Reduces Staffing Costs
@@ -59,10 +59,10 @@ Your costs shift to operating expenses ( OpEx ), which are generally lower as yo
 
 # What is a Distributed System?
 
-A distriuted computing system consists of multiple independent software components. These independent software components are located on different systems that communicate in such a way that they appear as a single system to  the end user
-Note - Cloud computing is based on the  distributed systems model
+A distriuted computing system consists of multiple independent software components. These independent software components are located on different systems that communicate in such a way that they appear as a single system to the end user
+Note - Cloud computing is based on the distributed systems model
 
-### Types of Distributed Systems
+## Types of Distributed Systems
 1. Peer-to-Peer -> in the peer-to-peer architectural model, responsibilities are uniformly distributed among machines in the system.
 2. Client-Server -> In the client-server model, data on the server is accessed by clients.
 3. Three-tier -> The three-tier architectural model enables information about the client to be stored in the middle tier.
@@ -77,13 +77,13 @@ Note - Cloud computing is based on the  distributed systems model
 - The amount of work allocated to a defined computing task at any given time
 - An isolated computing task that is executed indepenedently without any support from external programs or applications 
 
-### Edge Computing :
+## Edge Computing :
 
 - Is a distributed computing model that brings compute and storage workloads closer to the user
 - Decreases latency and saves bandwidth
 - Processes information close to the edge and decentralizes a network
 
-### Workloads in distributed systems :
+## Workloads in Distributed Systems :
 
 - Are distributed among the available IT resources based on the utilization of each resource
 - Uses an algorithm that consumes runtime logic and distributes the workload among the available IT resouces evenly
@@ -92,9 +92,9 @@ Note - Cloud computing is based on the  distributed systems model
 # Bare Metal Server
 
 - A physical server assigned to a single tenant 
-- Can be modified based on  the  need for performance and security 
+- Can be modified based on the need for performance and security 
 - Isolates resources from other tenants and provides security to your business
-- Can be configured for  different cloud  setups
+- Can be configured for different cloud setups
 
 
 

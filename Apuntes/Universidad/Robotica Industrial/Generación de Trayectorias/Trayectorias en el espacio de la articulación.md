@@ -1,4 +1,4 @@
-### Que se necesita:
+# Que Se Necesita:
 1. Convertir los puntos de la ruta (origen, destino y puntos vía) en coordenadas de articulaciones ([[Modelo cinemático inverso]]). Para la ruta con m puntos en un manipulador con n articulaciones $\{q_{1_1},q_{2_1},\dots,q_{n_1}\},\{q_{1_2},q_{2_2},\dots,q_{n_2}\},\dots,\{q_{1_m},q_{2_m},\dots,q_{n_m}\}$ 
 2. Para cada articulación, se interpolan untos obtenidos en el paso anterior:
 	```

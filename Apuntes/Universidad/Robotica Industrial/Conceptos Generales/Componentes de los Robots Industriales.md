@@ -13,9 +13,9 @@ Si miramos dentro de la caja negra un robot está formado por los siguientes ele
 
 ![[Pasted image 20230421191757.png]]
 
-## Actuadores
+# Actuadores
 Link a la nota particular de los [[Actuadores]] 
-### Tabla resumen
+## Tabla Resumen
 |             | Neumáticos                                                    | Hidráulicos                                                                                                           | Eléctricos                                                           |
 | ----------- | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Energía     | Aire a presion (5-10bar)                                      | Aceite mineral (50-100bar)                                                                                            | Corriente eléctrica                                                  |
@@ -23,11 +23,11 @@ Link a la nota particular de los [[Actuadores]]
 | Ventajas    | Barátos,rápidos,Sencillos,Robustos                            | Rápidos, Alta relación potencia/peso, autolubricantes, alta capacidad de carga, estabilidad frente a cargas estáticas | Precisos, fiables, control fácil, instalación fácil, Silencioso      |
 | Desventajas | Dificultad de control continuo, instalación especial, Ruidoso | Dificil mantenimiento, instalación especial, Fugas frecuentes, Caros                                                  | Potencia Limitada                                                    | 
 
-## Transmisiones
+# Transmisiones
 Link a la nota particular de las [[Trasmisiones]]
 
 ![[Pasted image 20230421194121.png]]
 
-## Sensores
+# Sensores
 Link a la nota particular de los [[Sensores]]
 ![[Pasted image 20230421195352.png]] Cuadro resumen de los sensores 

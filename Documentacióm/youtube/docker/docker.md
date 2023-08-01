@@ -126,7 +126,7 @@ COMMAND | DESCRIPTION
 `docker volume ls --filter="dangling=true"` | List all dangling volumes (not referenced by any container)
 `docker volume prune` | Delete all volumes (not referenced by any container)
 
-### Backup a container
+### Backup a Container
 Backup docker data from inside container volumes and package it in a tarball archive.
 `docker run --rm --volumes-from CONTAINER -v $(pwd):/backup busybox tar cvfz /backup/backup.tar CONTAINERPATH`
 
@@ -138,7 +138,7 @@ To also create and backup the container configuration itself, you can use `docke
 the entire container, you can recreate it with the export from `docker-replay`.
 A more detailed tutorial on how to use docker-replay can be found [here](https://thedatabaseme.de/2022/03/18/shorty-generate-docker-run-commands-using-docker-replay/).
 
-### Restore container from backup
+### Restore Container from Backup
 Restore the volume with a tarball archive.
 `docker run --rm --volumes-from CONTAINER -v $(pwd):/backup busybox sh -c "cd CONTAINERPATH && tar xvf /backup/backup.tar --strip 1"`
 ## Networks

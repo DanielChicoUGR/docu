@@ -3,7 +3,7 @@
 
 - Permiten automatizar procesos de manufactura. Motivados por una reducción en el costo de producir un bien aprovechando las economias de escala.
 
-### Factores para la aplicación de robots industriales:
+# Factores Para la Aplicación De Robots Industriales:
 1. Flexibilidad en los programas de fabricación.
 2. Incremento de la productividad.
 3. Homogeneización e incremento de la calidad.

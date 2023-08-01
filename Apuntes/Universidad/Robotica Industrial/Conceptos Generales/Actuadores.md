@@ -4,25 +4,25 @@ Los actuadores mueven los elementos del robot de acuerdo a las órdenes de la un
 ```
 Principalmente son Cilindros (pistones) o motores
 
-## Cilindros:
+# Cilindros:
 
-### Cilindro de Accionamiento Simple
+## Cilindro De Accionamiento Simple
 ![[Pasted image 20230421192200.png]]
 
-### Cilindro de doble accionamiento
+## Cilindro De Doble Accionamiento
 ![[Pasted image 20230421192215.png]]
 
-## Motores
+# Motores
 
-### Motores electricos
+## Motores Electricos
 
-#### Motores de corriente continua
+### Motores De Corriente Continua
 ![[Pasted image 20230421192351.png]]
 
-#### Motores de paso a paso
+### Motores De Paso a Paso
 ![[Pasted image 20230421192403.png]]
 
 [Mas Información sobre motores paso a paso](https://www.tme.eu/es/news/library-articles/page/41861/Motor-paso-a-paso-tipos-y-ejemplos-del-uso-de-motores-paso-a-paso/#:~:text=El%20motor%20paso%20a%20paso,eje%20cada%201%2C8%C2%B0) 
 
-### Motores neumáticos
+## Motores Neumáticos
 ![[Pasted image 20230421192658.png]]

@@ -1,4 +1,5 @@
 [
+<<<<<<< Updated upstream
   "pseudocode-in-obs",
   "obsidian-admonition",
   "table-editor-obsidian",
@@ -13,4 +14,17 @@
   "url-into-selection",
   "obsidian-spaced-repetition",
   "open-vscode"
+=======
+  "mermaid-tools",
+  "obsidian-spaced-repetition",
+  "obsidian-dictionary-plugin",
+  "obsidian-icon-folder",
+  "obsidian-git",
+  "obsidian-admonition",
+  "table-editor-obsidian",
+  "pseudocode-in-obs",
+  "quick-latex",
+  "url-into-selection",
+  "obsidian-linter"
+>>>>>>> Stashed changes
 ]

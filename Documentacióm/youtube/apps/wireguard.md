@@ -2,13 +2,13 @@
 WireGuard® is an extremely simple yet fast and modern **VPN ([[vpn]])** that utilizes state-of-the-art. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general purpose VPN for running on embedded interfaces and super computers alike, fit for many different circumstances.
 
 ---
-#### Create Wireguard keys (private & publickey)
+## Create Wireguard Keys (private & publickey)
 
 ```
 wg genkey | tee privatekey | wg pubkey > publickey
 ```
 
-#### Example of server config
+## Example of Server Config
 
 for example:
 ```
@@ -41,7 +41,7 @@ AllowedIPs = 192.168.8.2/32 # change ip in your range
 PersistentKeepalive = 25
 ```
 
-#### Example of the client config
+## Example of the Client Config
 
 ```
 [Interface]
@@ -68,7 +68,7 @@ PersistentKeepalive = 15
 
 
 
-## Troubleshooting
+# Troubleshooting
 
 With this command you can enable the debug logging in WireGuard:
 

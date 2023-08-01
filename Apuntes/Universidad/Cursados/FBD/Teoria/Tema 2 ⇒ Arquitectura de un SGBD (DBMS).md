@@ -10,7 +10,7 @@
         - ![](https://remnote-user-data.s3.amazonaws.com/DXWycexOoOcvMvpjjyhHbjn6wRKFkKADs30zkmK4_SwWndwdzRXv3eM5LBEjndsjijls04uURCCbiDVXvEj32nTybeY4ICL6udG4qYm3zgW0hjmZ49v-QRexow_V5i_v.png)  
 - Correspondencia entre niveles
     - La transformación o correspondencia entre niveles son un conjunto de normas que definen los datos de un nivel en términos de otro.
-    - Transformación conceptual/interna  ↓ 
+    - Transformación conceptual/interna ↓ 
         - Establece como se organizan las entidades lógicas del nivel conceptual en términos de registros y campos almacenados a nivel interno.
         - Tiene independencia física. 
     - Transformación externa conceptual ↓ 
@@ -22,13 +22,13 @@
         - Tiene independencia lógica
     - ![](https://remnote-user-data.s3.amazonaws.com/89vp22Ld9tZtnAHCsjJYFw5vLdwfDoP0M4bLk9R5qqRZp6Pr7YgBO5mZdCwY5EfNFGh5HaYM8fO4tx97eBDMomFVGeR1THj2aVHKZh_Moe_y6YQLs0XuMe7QqQ49Dsk2.png) 
 - Lenguajes de una BD
-    - Se recomienda disponer de un  [DSL](../../../../DSL.md) implementado en el propio SGDB 
+    - Se recomienda disponer de un [DSL](../../../../DSL.md) implementado en el propio SGDB 
     - [DSL](../../../../DSL.md) 
         - En la actualidad se presentan bajo una sola implementación con el objetivo de favorecer la adopción de estándares adaptables a varios fabricantes de SGDB
         - Clasificación subpartes:
         - Se compone de 3 sublenguajes.
         - DDL→Data Definition Language
-            - Definición→Sublenguaje de definición de datos. Subconjunto del [DSL](../../../../DSL.md)  destinado a la definición de de estructuras de datos y esquemas de la BD
+            - Definición→Sublenguaje de definición de datos. Subconjunto del [DSL](../../../../DSL.md) destinado a la definición de de estructuras de datos y esquemas de la BD
         - DML→Data Manipulation Language 
             - Definición→Sublenguaje de manipulación de datos. Subconjunto del [DSL](../../../../DSL.md) mediante el que podemos:
                 1. introducir datos en los esquemas, 
@@ -41,17 +41,17 @@
     - Lenguaje anfitrión/aplicación
         - Definición→Son lenguajes de programación para aplicaciones en el SO que trabajen sobre la BD
         - Estos lenguajes deben disponer de herramientas para trasladar la estructura de datos proporcionada por el [DSL](../../../../DSL.md) 
-        - Acoplamiento→Cantidad de operaciones de/sobre una base de datos  que tiene implementado un lenguaje anfitrión. 
+        - Acoplamiento→Cantidad de operaciones de/sobre una base de datos que tiene implementado un lenguaje anfitrión. 
         - Clasificación según el acoplamiento:
-            - Fuertemente acoplados  ↓ 
+            - Fuertemente acoplados ↓ 
                 - Constituidos por lenguajes y herramientas de propósito especifico
                 - Se parte del DSL como elemento central del lenguaje en el que incluyen todas las características necesarias para el desarrollo de apps de gestión de BDs.
                 - Seria una extensión del [DSL](../../../../DSL.md) dotándolo de características extras. 
-            - Débilmente acoplados  ↓ 
+            - Débilmente acoplados ↓ 
                 - Constituido por lenguajes de propósito general
                 - El programador distingue entre las sentencias nativas del lenguaje y las que se usan para acceder a la BD a través del [DSL](../../../../DSL.md). 
                 - Se dota al lenguaje de mecanismos para interactuar con el [DSL](../../../../DSL.md) 
-            - Métodos de implementar acoplamiento Débil.  ↓ 
+            - Métodos de implementar acoplamiento Débil. ↓ 
                 - APIs de acceso a la BD
                 - Mezclar [DSL](../../../../DSL.md) y Lenguaje anfitrión.
                     1. El programador escribe un código híbrido mezclando [DSL](../../../../DSL.md) y lenguaje anfitrión

@@ -16,11 +16,11 @@
         - Características de los problemas que resuelven estas técnicas ↓ 
             - Gran complejidad computacional (Problemas de tipo NP-Duros)
             - los algoritmos exactos (programación dinámica, Backtracking, B&B,...) son ineficientes o simplemente no se pueden aplicar
-            - Se encuentran  en múltiples áreas de aplicación
+            - Se encuentran en múltiples áreas de aplicación
             - En la práctica se resuelven mediante algoritmos aproximados que proporcionan buenas soluciones (no necesariamente la óptima) al problema en un tiempo razonable
     - Elementos de un algoritmo de Búsqueda
         - **Función objetivo**→una función con variables de restricción. Rstricciones del tipo $x =\  <\ >\ \leq \ \ge \beta$
-        - **Espacio de Búsqueda**→Valores de las variables de decisión que serán evaluados durante el proceso de optimización.  Puede ser discreto/continuo contable/incontable
+        - **Espacio de Búsqueda**→Valores de las variables de decisión que serán evaluados durante el proceso de optimización. Puede ser discreto/continuo contable/incontable
     - Representación del espacio de Busqueda:
         - ![](https://remnote-user-data.s3.amazonaws.com/M9ngQ0yt7yP0-VGmwHLBifOX2rkOn4hfXFJLPZkuVBJBKuqXyZy49ZRuP8-YAaxgNRV301p_uzO6rmJVgSSSKzRWKSYciUqwmAaNDeFRbP2Rd8Gt_NhBaLiHty7kHq8p.png) 
 - Algoritmos aproximados
@@ -35,7 +35,7 @@
             - **Solución**→Representación de la solución del problema
             - **Entorno**→Soluciones cercanas en el espacio de soluciones
             - **Movimiento**→Transformación de la solución actual en otro (normalmente una solución vecina)
-            - **Evaluación**→Se evalúa la factibilidad  de la solución y la función objetivo 
+            - **Evaluación**→Se evalúa la factibilidad de la solución y la función objetivo 
         - ![](https://remnote-user-data.s3.amazonaws.com/TFgqfsozaZuCpr1I0195w4ZOhd_xNAX0IbsHhWWhYu7o83K2Hoov5Xcg3eD5GuyefSKbzEgAqwdkYTj452QdCUUdWRLOouDUVBN5TR9I0oxBXMyffNVxZeLKE0yatRwi.png) 
 - Metaheurísticas: Definición y clasificación
     - **Definición de Metaheurística**→Son una familia de algoritmos aproximados de propósito general. Suelen ser procedimientos iterativos que guían una heurística subordinada de búsqueda, combinando de forma inteligente distintos conceptos para explorar y explotar adecuadamente el espacio de búsqueda

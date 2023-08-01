@@ -6,7 +6,7 @@ Se representa como **$J_a$** y se obtiene derivando las ecuaciones correspondien
 
 ![[Pasted image 20230531164912.png]]
 
-### Ejemplo en Robot SCARA
+# Ejemplo En Robot SCARA
 
 [[Ejemplo SCARA Jacobiana Analitica.canvas|Ejemplo SCARA Jacobiana Analitica]]
 ![[Ejemplo SCARA Jacobiana Analitica.png]]

@@ -1,6 +1,6 @@
-# Clasificación de las articulaciones
+# Clasificación De Las Articulaciones
 
-## Segun el movimiento de cada articulación
+## Segun El Movimiento De Cada Articulación
 ?
 1. De desplazamiento
 2. De giro
@@ -9,7 +9,7 @@
 
 De aqui se extraen 6 articulaciones:
 ![[Pasted image 20230421130956.png]]Ejemplos arquetípicos de las distintas articulaciones
-## Segun el tipo de rotación
+## Segun El Tipo De Rotación
 ?
 1. ![[Pasted image 20230421131142.png]]
 2. ![[Pasted image 20230421131158.png]]

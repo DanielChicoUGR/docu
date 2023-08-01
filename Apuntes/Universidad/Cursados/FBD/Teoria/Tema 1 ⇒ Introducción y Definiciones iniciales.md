@@ -1,12 +1,12 @@
 - Concepto de Base de Datos
-    - Base de Datos  ↓ 
+    - Base de Datos ↓ 
         - Es un conjunto de **d****atos **relacionados almacenados sin redundancia para ser utiles a diferentes aplicaciones.
         - Operaciones sobre los datos:
             1. **Insertar **Datos
             2. **Obtener **datos ya existentes en la BD.
             3. **Modificar** datos existentes
             4. **Borrar** datos existentes. 
-    - Sistema de Gestión de Bases de Datos  ↓ 
+    - Sistema de Gestión de Bases de Datos ↓ 
         - Conjunto de elementos software con capacidad para definir,mantener y utilizar una base de datos.
         - Debe permitir:
             1. Definir estructuras de almacenamiento
@@ -16,7 +16,7 @@
     - Elementos involucrados en una BD:
         1. **Datos**
             - Dato operativo↔Pieza de información básica que necesita una organización para funcionar.
-                - Pueden ser:  ↓ 
+                - Pueden ser: ↓ 
                     - Ítem básico
                     - Atributo
                     - Relaciones
@@ -27,7 +27,7 @@
             2. Programadores de aplicaciones→Aquellos que programan las apps que usara el usuario final. Interqactua con la BD a traves de su esquema logico.
             3. Administrador (BDA/BDM)→Administra el SGDB para que la BD cumpla con todos los requisitos que necesiten las apps y los usuarios.
 - Concepto de independencia
-    - Los datos se organizan independientemente de las aplicaciones que las vayan a usar o de los  archivos que se guarden en ella.
+    - Los datos se organizan independientemente de las aplicaciones que las vayan a usar o de los archivos que se guarden en ella.
     - Independencia Fisica
         - Definición→El diseño lógico de la BD, a todos los niveles, debe ser independiente del almacenamiento físico de los datos.
         - Ventajas:

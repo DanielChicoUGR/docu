@@ -1,5 +1,5 @@
-# Install K3S in High Availability Mode with an embedded Database
-## Install first Server
+# Install K3S in High Availability Mode with an Embedded Database
+## Install First Server
 ```bash
 curl -sfL https://get.k3s.io | sh -s - server \
 --token=YOUR-SECRET \
@@ -10,7 +10,7 @@ curl -sfL https://get.k3s.io | sh -s - server \
 ### SSL Certificates
 To avoid certificate errors in such a configuration, you should install the server with the `--tls-san YOUR_IP_OR_HOSTNAME_HERE` option. This option adds an additional hostname or IP as a Subject Alternative Name in the TLS cert, and it can be specified multiple times if you would like to access via both the IP and the hostname.
 
-## Install additional Servers
+## Install Additional Servers
 ```bash
 curl -sfL https://get.k3s.io | sh -s - server \
 --token=YOUR-SECRET \
@@ -31,7 +31,7 @@ Total Number of nodes | Failed Node Tolerance
 6|2
 ...|...
 
-## Get a registered Address
+## Get a Registered Address
 To achieve a high-available scenario you also need to load balance incoming connections between the server nodes.
 ### Sophos XG NAT Rule
 You can do this by creating a Load-Balance NAT Rule on the Sophos XG Firewall.

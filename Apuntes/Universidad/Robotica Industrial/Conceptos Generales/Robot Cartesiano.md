@@ -2,8 +2,8 @@
 
 Usados en tareas de paletización, movimiento y clasificación de productos envasados.
 
-### Características:
-1.  Articculaciones sencillas en ejes cartesianos
+# Características:
+1. Articculaciones sencillas en ejes cartesianos
 2. Sencillez de uso
 3. Ocupan mucho espacio
 4. Poca capacidad de mocimiento

@@ -23,9 +23,9 @@ title: Ejemplo de robot Manipulador
 ![[Pasted image 20230421130449.png]]
 ```
 La construcción física de la mayor aprte de los robots industriales se asemeja a la anatomía del brazo humano
-## Tipos de Aritculaciones:
+# Tipos De Aritculaciones:
 ![[Articulaciones]]
-## Grados de Libertad
+# Grados De Libertad
 ```ad-quote
 title:Definición
 **Grado de libertad**::Cada movimiento indepenndiente que puede hecer el robot en la unión de dos eslabones
@@ -43,7 +43,7 @@ Para articulaciones con mas de dos grados de libertad, se dividen en tantas arti
 - Las articulaciones son de tipo rotación o prismática
 <!--SR:!2023-05-10,3,250-->
 
-En general, el número de grados de libertad de una cadena cinemática (abierta o cerrada) puede ser obtenido mediante la fórmula de Grübler: $NGDL=\lambda * (n-j-1)+ \sum_{i=1}^{j}f_i$  donde:
+En general, el número de grados de libertad de una cadena cinemática (abierta o cerrada) puede ser obtenido mediante la fórmula de Grübler: $NGDL=\lambda * (n-j-1)+ \sum_{i=1}^{j}f_i$ donde:
 	1. $\lambda \rightarrow$ GDL del espacio de trabajo (3 en el plano, 6 en el espacio)
 	2. n $\rightarrow$ Número de eslabines (incluyendo la base)
 	3. j $\rightarrow$ Número de articulaciones
@@ -63,7 +63,7 @@ Para describir el estado de un robot decesitaremos ==una variable de posición i
 
 Un mayor numero de grados de libertad aumenta la maniobravilidad pero complica el control.
 
-## Efector
+# Efector
 La elección del efector se realiza de acuerdo a la tarea que va a realizar el robot
 Se pueden clasificar en:
 - Pinzas

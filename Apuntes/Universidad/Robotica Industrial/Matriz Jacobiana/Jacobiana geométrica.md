@@ -13,7 +13,7 @@ La velocidad angular se obtiene a partir de la submatrix de rotación, **R**, de
 
 Para ello necesitamos definir una matriz $\Omega=\dot{R}*R^T$ 
 	- A tener en cuenta que **R** es ortonormal: $R*R^T=I$ 
-	- Al derivar esa expresión en función de R $\rightarrow$  $\dot{R}*R^T + R*\dot{R^T}=0$ 
+	- Al derivar esa expresión en función de R $\rightarrow$ $\dot{R}*R^T + R*\dot{R^T}=0$ 
 	- El primer sumando corresponde a $\Omega$
 	- El segundo sumando corresponde a $\Omega^T$ 
 

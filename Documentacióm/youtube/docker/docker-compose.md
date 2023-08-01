@@ -3,7 +3,7 @@
 
 ## Networking
 By default Docker-Compose will create a new network for the given compose file. You can change the behavior by defining custom networks in your compose file.
-### Create and assign custom network
+### Create and Assign Custom Network
 ...
 *Example:*
 ```yaml
@@ -15,7 +15,7 @@ services:
     networks:
       - custom-network
 ```
-### Use existing networks
+### Use Existing Networks
 If you want to use an existing Docker network for your compose files, you can add the `external: true` parameter in your compose file
 *Example:*
 ```yaml
