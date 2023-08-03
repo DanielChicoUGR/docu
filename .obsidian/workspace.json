@@ -14,18 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Documentacióm/mio/Datos Postgresql.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "fa592b8c2060eab5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Documentacióm/mio/imagenes/elementos-diagrama-clases.png"
               }
             }
           }
@@ -148,14 +138,6 @@
             }
           },
           {
-            "id": "b6b3234186ba2e7a",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "74794af7c44164c2",
             "type": "leaf",
             "state": {
@@ -168,6 +150,14 @@
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dc0a7de1ecc8dcb",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
               "state": {}
             }
           }
@@ -196,23 +186,25 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "5d33d790f34edba5",
+  "active": "6dc0a7de1ecc8dcb",
   "lastOpenFiles": [
     "Documentacióm/mio/postgres cheatsheet.md",
-    "Documentacióm/mio/Untitled.md",
+    "ideas/Enunciado citas.md",
+    "Documentacióm/mio/imagenes/elementos-diagrama-clases.png",
+    "ideas/Documentación Placas Solares.md",
+    "ideas/Documentación Placas Solares.pandoc.md",
     "Documentacióm/mio/Datos Postgresql.md",
-    "Documentacióm/mio/apuntesUML.md",
     "Documentacióm/mio/UML cheatsheet.md",
     "Apuntes/Universidad/Cursados/FBD/Practicas/SQL.md",
-    "Apuntes/Universidad/Cursados/FBD/Practicas/Algebra Relacional.md",
     "Apuntes/Universidad/Cursados/FBD/Practicas/Modelo Relacional.md",
+    "Documentacióm/mio/apuntesUML.md",
+    "Documentacióm/mio/Untitled.md",
+    "Apuntes/Universidad/Cursados/FBD/Practicas/Algebra Relacional.md",
     "Documentacióm/youtube/databases/postgres.md",
     "Apuntes/Universidad/Cursados/FBD/Teoria/Tema 4 ⇒ Nivel interno.md",
     "Apuntes/Universidad/Cursados/FBD/Teoria/Tema 3 ⇒ Modelo de datos. El modelo Relacional.md",
     "Apuntes/Universidad/Cursados/FBD/Teoria/Tema 2 ⇒ Arquitectura de un SGBD (DBMS).md",
     "Apuntes/Universidad/Cursados/FBD/Teoria/Tema 1 ⇒ Introducción y Definiciones iniciales.md",
-    "ideas/Documentación Placas Solares.md",
-    "ideas/Documentación Placas Solares.pandoc.md",
     "ideas/Documentación Placas Solares.pdf",
     "ideas/Documentación Placas Solares.html",
     "ideas/Documentación Placas Solares_tmp.html",
@@ -220,7 +212,6 @@
     "ideas/mermaid-images",
     "ideas/diagramasApp.pdf",
     "Diagrama de clases.md",
-    "Documentacióm/mio/imagenes/elementos-diagrama-clases.png",
     "Documentacióm/mio/imagenes/casos-de-uso.png",
     "Apuntes/Universidad/Cursados/Untitled",
     "apuntes_uml [Entornos de desarrollo]_files/association-bidirectional.png.md",
@@ -242,8 +233,6 @@
     "Documentacióm/youtube/apps/longhorn.md",
     "Documentacióm/youtube/apps/cloudflare-tunnels.md",
     "Documentacióm/youtube/apps/bind9.md",
-    "Documentacióm/youtube/cloud/what-is-cloud-computing.md",
-    "Documentacióm/youtube/infra/sophos-xg.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",

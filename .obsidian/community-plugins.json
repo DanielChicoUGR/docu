@@ -1,6 +1,5 @@
 [
   "pseudocode-in-obs",
-  "obsidian-admonition",
   "table-editor-obsidian",
   "obsidian-agile-task-notes",
   "cm-editor-syntax-highlight-obsidian",
@@ -12,5 +11,6 @@
   "obsidian-markdown-formatting-assistant-plugin",
   "url-into-selection",
   "obsidian-spaced-repetition",
-  "open-vscode"
+  "open-vscode",
+  "obsidian-admonition"
 ]
