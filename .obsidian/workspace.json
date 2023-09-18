@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b2e18ffc6de1bb",
+        "id": "9cee90c72d74c0aa",
         "type": "tabs",
         "children": [
           {
-            "id": "5d33d790f34edba5",
+            "id": "351d9dc170ea0e52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentacióm/mio/Datos Postgresql.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentacióm/mio/Datos Postgresql.md",
+                "file": "Apuntes/Universidad/MC/Tema 4_ Maquinas Independientes del contexto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentacióm/mio/Datos Postgresql.md",
+                "file": "Apuntes/Universidad/MC/Tema 4_ Maquinas Independientes del contexto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentacióm/mio/Datos Postgresql.md"
+                "file": "Apuntes/Universidad/MC/Tema 4_ Maquinas Independientes del contexto.md"
               }
             }
           },
@@ -171,23 +167,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "canvas:Create new canvas": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-agile-task-notes:Update TFS Tasks": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
-      "markdown-importer:Abrir el importador de Markdown": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "obsidian-spaced-repetition:Revisar Tarjetas": false,
-      "open-vscode:VSCode": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "6dc0a7de1ecc8dcb",
+  "active": "03d75ecb5ee7ff7d",
   "lastOpenFiles": [
+    "Apuntes/Universidad/Fundamentos de Redes/Tema 1",
+    "Apuntes/Universidad/MC/Tema 1_ Introducción a la computación_.md",
+    "Fundamentos de redes.md",
+    "Apuntes/Universidad/Fundamentos de Redes",
     "Documentacióm/mio/postgres cheatsheet.md",
     "ideas/Enunciado citas.md",
     "Documentacióm/mio/imagenes/elementos-diagrama-clases.png",
@@ -226,13 +219,10 @@
     "Documentacióm/mio/imagenes/elementos-casos-uso.png",
     "Documentacióm/mio/imagenes",
     "apuntes_uml [Entornos de desarrollo]_files/uml.png.md",
-    "Documentacióm/mio/UML cheatsheet",
     "Documentacióm/youtube/macos/docker-on-macos-silicon.md",
     "Documentacióm/youtube/apps/traefik.md",
     "Documentacióm/youtube/apps/rancher.md",
     "Documentacióm/youtube/apps/longhorn.md",
-    "Documentacióm/youtube/apps/cloudflare-tunnels.md",
-    "Documentacióm/youtube/apps/bind9.md",
     "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/Indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
