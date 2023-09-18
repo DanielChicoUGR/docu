@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35bf9a18fde843cd",
+        "id": "132a2f6a7d55fb75",
         "type": "tabs",
         "children": [
           {
-            "id": "8b251b7a359e9e53",
+            "id": "f77706bc0da08ed1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ideas/Empresa/3.pdf"
-              }
-            }
-          },
-          {
-            "id": "78f48cea0ebaaa8b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Apuntes/Universidad/Aprendizaje Automático/T3.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ideas/Empresa/3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ideas/Empresa/3.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "ideas/Empresa/3.pdf"
-          }
+          "state": {}
         }
       },
       {
@@ -143,15 +127,14 @@
         }
       },
       {
-        "id": "1adc9092bd94f95a",
+        "id": "293cc3fb1095a481",
         "type": "leaf",
         "state": {
           "type": "mermaid-toolbar-view",
           "state": {}
         }
       }
-    ],
-    "currentTab": 4
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,63 +144,66 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8b251b7a359e9e53",
+  "active": "f77706bc0da08ed1",
   "lastOpenFiles": [
-    "ideas/Empresa/4.pdf",
-    "ideas/Empresa/tarjeta.pdf",
-    "ideas/Empresa/rubberducky.pdf",
-    "ideas/tarjeta_visita.pdf",
-    "ideas/Empresa/banner2_Mesa de trabajo 1.jpg",
-    "ideas/Empresa/banner1_Mesa de trabajo 1.jpg",
-    "ideas/Empresa/3_Mesa de trabajo 1.png",
-    "ideas/Empresa/3.pdf",
-    "ideas/Empresa/2.pdf",
-    "ideas/Empresa/1_Mesa de trabajo 1.png",
-    "ideas/Empresa/1_Mesa de trabajo 1.jpg",
-    "ideas/Empresa/1.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E2.md",
-    "ideas/Servicio Citas Tatuajes.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Examenes/E1.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T6.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T4.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T3.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/T1,2.pdf",
-    "Apuntes/Universidad/Aprendizaje Automático/Resumen.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Examenes/Hoeffding.md",
-    "Apuntes/Universidad/Aprendizaje Automático/Repaso AA/Estadistica.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Vecino mas cercano.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Medidas de Similitud.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/Paradigmas del Aprendizaje Automático.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Coeficiente de Jaccard.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Deterministic Noise.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T5(Overfitting)/Ilustración de Overfitting.md",
-    "Apuntes/Universidad/Cursados/IA/Tema 1 ⇒ Introducción.md",
-    "Apuntes/Universidad/Cursados/MC/Tema 3_ Propiedades de los conjuntos regulares.md",
-    "Apuntes/Universidad/Aprendizaje Automático/pdfs/Examen2.md",
-    "Apuntes/Universidad/Cursados/IA/Tema 4 ⇒ Busqueda con adversario _ Juegos.md",
-    "Apuntes/Universidad/Cursados/IG/Tema 2.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Cosine Similitud.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Mahalanobis Distance.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/imagenes/Screenshot_2023-07-07-20-13-30-452_md.obsidian.png",
-    "Templates/Def_Alg.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/pepe.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/Distacia Euclidea.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T10(Métodos por similaridad)/a.com.md",
-    "2023-07-07.md",
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/imagenes/Pasted image 20230419163258.png",
-    "Apuntes/Universidad/Aprendizaje Automático/T3_T4(Fundamentos AA)/Infiriendo de la Muestra, solución PAC.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611191054.png",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611190526.png",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611185833.png",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes/Pasted image 20230611175157.png",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/grafo localmente finito.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Sistemas inteligentes.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Notación heurísticas.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Heurísticas.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Búsqueda primero mejor.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de búsqueda con Profundidad Iterativa.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo de Agendas.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo SMA_STAR.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo IDA_STAR.md",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda/Algoritmo A_STAR.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/imagenes",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Transiciones de Markov.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Problemas de decisión secuenciales.md",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales/Comportamiento bajo incertidumbre.md",
+    "Apuntes/Universidad/TSI/wuolah-free-Tema-3-Sistemas-de-Planificacion-en-IA-gulag-free.pdf",
+    "Apuntes/Universidad/TSI/wuolah-free-Tema-2-Problemas-de-Satisfaccion-de-Restricciones-gulag-free.pdf",
+    "Apuntes/Universidad/TSI/wuolah-free-Tema-1-Sistemas-Inteligentes-y-Busqueda-gulag-free-gulag-free.pdf",
+    "Apuntes/Universidad/TSI/Sistemas Inteligentes y búsqueda",
+    "Apuntes/Universidad/TSI/Incertidumbre y problemas de decisión secuenciales",
+    "Apuntes/Universidad/TSI",
+    "Screenshot_2023-09-18-15-47-41-297_com.yygg.note.app.png",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/imagenes/Pasted image 20230603193226.png",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/imagenes/Pasted image 20230603192455.png",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/imagenes/Pasted image 20230603191451.png",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/imagenes/Pasted image 20230603191359.png",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/imagenes/Pasted image 20230603184954.png",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/imagenes/Pasted image 20230603181800.png",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/imagenes",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Sistemas Lineales.md",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Regulador PI.md",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Regulador P.md",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Introducción.md",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico/Control Monoarticular.md",
+    "Apuntes/Universidad/Robotica Industrial/Sistemas de Control Dinámico",
+    "Apuntes/Universidad/Robotica Industrial/Programación de manipuladores/imagenes",
+    "Apuntes/Universidad/Robotica Industrial/Programación de manipuladores/Requisitos de un sistema de programación de robots.md",
+    "Apuntes/Universidad/Robotica Industrial/Programación de manipuladores/Programación por guiado.md",
+    "Apuntes/Universidad/Robotica Industrial/Programación de manipuladores/Programación de Robots.md",
+    "Apuntes/Universidad/Robotica Industrial/Programación de manipuladores/Programación Textual de Robots.md",
+    "Apuntes/Universidad/Robotica Industrial/Programación de manipuladores/Introducción.md",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Que es.md",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Métodos numéricos para el calculo de la Jacobiana Geométrica.md",
+    "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Ejemplo SCARA Jacobiana Analitica.canvas",
+    "Apuntes/Universidad/Robotica Industrial/Conceptos Generales/Untitled.canvas",
+    "Untitled.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Tratamiento de Datos/Untitled.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled 1.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/T2(Modelo Lineal)/imagenes/Screenshot_2023-06-26-19-21-54-991_com.yygg.note.app.png",
     "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/indice.canvas",
     "Apuntes/Universidad/Aprendizaje Automático/Untitled.canvas",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/Pasted image 20230419125947.png",
-    "Apuntes/Universidad/Aprendizaje Automático/T1(Introduccion AA)/imagenes/DiagramaInicialML.png",
     "Apuntes/Universidad/Robotica Industrial/Matriz Jacobiana/Untitled.canvas"
   ]
 }
