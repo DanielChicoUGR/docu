@@ -5,10 +5,10 @@
 		- [[#Por cobertura geográfica|Por cobertura geográfica]]
 		- [[#Tecnología de trasmisión|Tecnología de trasmisión]]
 ## Definiciones
-~~~ad-important
+```ad-note
 title: Sistema de comunicación
 Un *Sistema de comunicación es*:: una infraestructura compuesta por elementos físicos (hardware) y lógicos (software) que permite el intercambio de información entre sistemas terminales. #Easy 
-~~~
+```
 
 ```ad-example
 

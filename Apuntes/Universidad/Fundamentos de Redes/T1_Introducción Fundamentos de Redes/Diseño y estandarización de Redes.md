@@ -5,7 +5,6 @@ title:Modelo de Referencia
 ```
 
 
-
 ## Modelo OSI
 ### Capas:
 ?
