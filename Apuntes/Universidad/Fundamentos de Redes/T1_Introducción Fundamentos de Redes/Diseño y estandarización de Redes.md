@@ -16,8 +16,9 @@ title:Modelo de Referencia
  6. [[#Capa de presentación]]
  7. [[#Capa de aplicación]]
 
+![[Pasted image 20230929103254.png]]
 #### Capa Física:
-Se encarga de **la transmisión de información a un niver mecánico**.
+Se encarga de **la transmisión de información a un nivel mecánico**.
 ```ad-example
 Representando la información en bits segun el tipo de cable
 ```
@@ -40,3 +41,21 @@ Permite **delimitar y sincronizar el intercambio de datos, inclutendo los medios
 Su función es **comprimir y cifrar los datos, así como la descripción de los mismos**
 #### Capa de aplicación
 Es donde **residen las aplicaciones de red y sus protocolos de nivel de aplicación, pj el correo electrónico**.
+
+
+## Modelo TCP/IP
+
+![[Pasted image 20230929103338.png]]
+
+### Capas:
+?
+- *Capa de Red*: Encargada del encaminamiento (Como [[#Capa de red| Capa de red del modelo OSI]]).
+	- Se gestiona **Salto a Salto**
+- *Capa de Transporte*: Encargada de la congestión, control de errores y flujo(Como en osi [[#Capa de Transporte| Capa de Transporte]] y [[#Capa de Sesión|Capa de Sesión]] del modelo [[#Modelo OSI|OSI]])
+	- Se gestiona **Extremo a Extremo**
+- *Capa de Aplicación*: Se encarga de todo lo demás, semántica, representación interna, servicios (protocolos como http o ssh viven en esta capa).
+	- Se gestiona **Extremo a Extremo**
+```ad-important
+Al modelo TCPIP es agnostico de la capa física y de la capa de enlace (modelo OSI) y no le da prioridad a la separación entre las capas de presentación y aplicación.
+```
+

@@ -1,3 +1,6 @@
+
+
+
 ## Indice
 - [[#Unión:|Unión:]]
 - [[#Intersección|Intersección]]
