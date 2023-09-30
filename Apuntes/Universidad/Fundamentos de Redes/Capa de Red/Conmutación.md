@@ -2,8 +2,8 @@
 ***Conmutación***:: Acción de cursar tráfico para establecer o determinar un camino que permita trasmitir información extremo a extremo.
 
 Diferentes tecnologías de conmutación:
-- [[#Conmutación de circuitos]]
-- [[#Conmutación de paquetes]]: Datagramas o circuitos virtuales
+- [[#Conmutación de circuito]]
+- [[#Conmutación de Paquetes (Datagramas) | Conmutación de Paquetes ]]: Datagramas o circuitos virtuales
 
 #### Conmutación de Circuito
 ![[Screenshot_2023-09-25-16-50-44-275_com.yygg.note.app.png]]

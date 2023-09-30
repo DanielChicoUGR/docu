@@ -1,32 +1,40 @@
-- [[#Definiciones]]
+- [[#Definiciones|Definiciones]]
+	- [[#Sistema de comunicación|Sistema de comunicación]]
+	- [[#Sistema Terminal|Sistema Terminal]]
+	- [[#Red:|Red:]]
+	- [[#Host|Host]]
+	- [[#Nodo/Elemento de conmutación|Nodo/Elemento de conmutación]]
+	- [[#Linea de trasmisión|Linea de trasmisión]]
+	- [[#Subred:|Subred:]]
 - [[#Por qué deberíamos usar redes?|Por qué deberíamos usar redes?]]
 - [[#Clasificaciones de red|Clasificaciones de red]]
-		- [[#Por topología|Por topología]]
-		- [[#Por cobertura geográfica|Por cobertura geográfica]]
-		- [[#Tecnología de trasmisión|Tecnología de trasmisión]]
+	- [[#Por topología|Por topología]]
+	- [[#Por cobertura geográfica|Por cobertura geográfica]]
+	- [[#Tecnología de trasmisión|Tecnología de trasmisión]]
+
 ## Definiciones
-```ad-note
-title: Sistema de comunicación
-Un *Sistema de comunicación es*:: una infraestructura compuesta por elementos físicos (hardware) y lógicos (software) que permite el intercambio de información entre sistemas terminales. #Easy 
-```
+
+#### Sistema de comunicación
+?
+Un *Sistema de comunicación es* una infraestructura compuesta por elementos físicos (hardware) y lógicos (software) que permite el intercambio de información entre sistemas terminales. #Easy 
+
 
 ```ad-example
 
 En una conversación telefónica, el sistema de3 comunicación sería el teléfono y la red telefónica y los sistemas terminales las personas que hablan entre si.
 ```
 
-```ad-important
-title: Sistema Terminal
-Un *sistema terminal o final*:: en el contecto de las rtedes de computadoras, es un dispositivo que es capaz de recibir y mandar información a través de los sistemas de comunicación. #Easy 
-```
+#### Sistema Terminal
+?
+Un *sistema terminal o final* en el contecto de las rtedes de computadoras, es un dispositivo que es capaz de recibir y mandar información a través de los sistemas de comunicación. #Easy 
+
 ```ad-example
 Un ordenador de sobremesa, un smart watch o una tostadora inteligente son sistemas terminales, que reciben y mandan información constantemente a través de la red
 ```
 
-```ad-important
-title: Red
-Una *Red* es:: un sistema de comunicación con sistemas terminales autónomos (es decir, son capaces de gestionar y procesar la información que mandan y reciven) que facilita el intercambio eficaz y transparente de información. #Easy
-```
+#### Red:
+?
+Una *Red* es un sistema de comunicación con sistemas terminales autónomos (es decir, son capaces de gestionar y procesar la información que mandan y reciven) que facilita el intercambio eficaz y transparente de información. #Easy
 
 ```ad-seealso
 title: Notas de clase
@@ -34,25 +42,24 @@ title: Notas de clase
 *Transparente* ::  Independencia del medio con el que se realiza la conexion 
 ```
 
-```ad-important
-title: Host
-Host:: Sistema terminal donde se *consume la información*, un portatil
-```
+#### Host
+?
+Sistema terminal donde se *consume la información*, un portatil
 
-```ad-important
-title: Nodo/Elemento de conmutación
-Los dispositivos::que se encargan de *enviar* los paquetes entrantes a su destino en la red y *procesarlos*
-```
 
-```ad-important
-title: Linea de trasmisión
-Linea de trasmisión:: Conexión entre los nodos y los host. Una linea de conexión puede ser entre dos hosts, dos nodos o mezcla.
-```
+#### Nodo/Elemento de conmutación
+Los dispositivos que se encargan de *enviar* los paquetes entrantes a su destino en la red y *procesarlos*
 
-```ad-important
-title: Subred
-Subred:: Infraestructura por la que se transporta la información. Por ejemplo, un cable ethernet mas un router.
-```
+
+#### Linea de trasmisión
+? 
+Conexión entre los nodos y los host. Una linea de conexión puede ser entre dos hosts, dos nodos o mezcla.
+
+
+#### Subred:
+?
+Infraestructura por la que se transporta la información. Por ejemplo, un cable ethernet mas un router.
+
 
 ## Por qué deberíamos usar redes?
 ?

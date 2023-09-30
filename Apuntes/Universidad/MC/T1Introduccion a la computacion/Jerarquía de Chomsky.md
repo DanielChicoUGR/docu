@@ -14,6 +14,7 @@ En la parte izquierda solo puede tener un símbolo no terminal
 ![[Pasted image 20230926182459.png]]
 
 ## Tipo 3 (Regulares)
+?
 - Lineales por la izquierda
 ![[Pasted image 20230926182630.png]]
 - Lineales por la derecha
