@@ -11,7 +11,7 @@ Las partes izquierdas y derecha tienen que tener una parte común y solo se admi
 ## Tipo 2 (Independientes de contexto)
 ?
 En la parte izquierda solo puede tener un símbolo no terminal
-![[Pasted image 20231002111110.png]]
+![[Screenshot_2023-10-03-18-31-35-152_com.yygg.note.app.png]]
 ## Tipo 3 (Regulares)
 ?
 - Lineales por la izquierda
