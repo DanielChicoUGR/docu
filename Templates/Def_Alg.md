@@ -27,12 +27,12 @@
 
 ```
 
-<<<<<<< Updated upstream
+
 
 ### Análisis:
 =======
 # Análisis:
->>>>>>> Stashed changes
+
 
 ## Ventajas:
 1. 
