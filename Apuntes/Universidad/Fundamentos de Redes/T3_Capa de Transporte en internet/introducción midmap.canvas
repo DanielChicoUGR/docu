@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"e67af0ea20514c26","type":"text","text":"Realiza la multiplexación/demultiplexación de aplicaciones.","x":420,"y":-260,"width":250,"height":88},
+		{"id":"f6139f18567ffb6c","type":"text","text":"Comunicación **Extremo a Extremo** (end to end)","x":420,"y":-120,"width":250,"height":60},
+		{"id":"400728117944a019","type":"text","text":"Capa de Transporte","x":-96,"y":-172,"width":250,"height":52},
+		{"id":"949cc1c5af0e51d8","type":"text","text":"[[2.Protocolo de datagrama de usuario (UDP)|Protocolo UDP]]","x":200,"y":0,"width":250,"height":60},
+		{"id":"9c8367c7fba189c6","type":"text","text":"Realiza la multiplexación/demultiplexación de aplicaciones","x":0,"y":220,"width":250,"height":92},
+		{"id":"e5b843944ea5235f","type":"text","text":"Ofrece Un servicio **orientado a conexión**, fiable. Con control de errores, flujo, de conexión y de congestión.","x":-405,"y":220,"width":250,"height":159},
+		{"id":"ac54e525db26ebea","type":"text","text":"[[3.Protocolo de control de transmision (TCP)|Protocolo TCP]]","x":-221,"y":0,"width":250,"height":60},
+		{"id":"b2ea045c617af042","type":"text","text":"Servicio **no orientado a conexión**, y no fiable (sin recuperación de errores)","x":400,"y":212,"width":250,"height":88}
+	],
+	"edges":[
+		{"id":"25fd578272df0244","fromNode":"400728117944a019","fromSide":"right","toNode":"f6139f18567ffb6c","toSide":"left"},
+		{"id":"7dcd7db071d8f963","fromNode":"400728117944a019","fromSide":"right","toNode":"e67af0ea20514c26","toSide":"left"},
+		{"id":"fc7aa896400d46cf","fromNode":"949cc1c5af0e51d8","fromSide":"bottom","toNode":"9c8367c7fba189c6","toSide":"top"},
+		{"id":"808d480f4a028c06","fromNode":"949cc1c5af0e51d8","fromSide":"bottom","toNode":"b2ea045c617af042","toSide":"top"},
+		{"id":"64e03b43ce284fb3","fromNode":"400728117944a019","fromSide":"bottom","toNode":"949cc1c5af0e51d8","toSide":"top"},
+		{"id":"52c727f6b69fdb21","fromNode":"ac54e525db26ebea","fromSide":"bottom","toNode":"e5b843944ea5235f","toSide":"top"},
+		{"id":"2389e3d083b797aa","fromNode":"ac54e525db26ebea","fromSide":"bottom","toNode":"9c8367c7fba189c6","toSide":"top"},
+		{"id":"ba45d2f932239047","fromNode":"400728117944a019","fromSide":"bottom","toNode":"ac54e525db26ebea","toSide":"top"}
+	]
+}
