@@ -1,33 +1,44 @@
-- Tareas a automatizar ↓ 
-    - La conceptualización de dominio por medio de la obtención de conceptos y factores relevantes
-    - La obtención de reglas, por medio de la obtención de reglas candidatas a partir de ejemplos
-- Rejilla de repertorio:
-    - También conocida como emparrillado o "Repertory Grid"
-    - Se aplica en una amplitud de campos:
-        1. Asesoramiento
-        2. Estudios demográficos
-        3. Dinámica de grupo
-        4. Adquisición de conocimiento
-    - Idea de la rejilla de repertorio:
-        - Cada persona tiene su propia visión del mundo, asocia y distingue elementos de acuerdo a sus propios criterios. Su propia forma de agrupar diferentes conceptos. Esto se le denomina como {{Constructor/Construcción}}  
-        - Proceso de rejilla repertorio
-            - Pasos de los que se compone ↓ 
-                - Dialogo inicial
-                - Sesión de valoración
-                - Análisis de los resultados
-        - Constructores:
-            - Constructor→es una característica bipolar en la cual cada elemento tiene un cierto grado o escala.
-                - Ejemplo: Pesado-Ligero. Valiente-Cobarde...
-            - Estas características se pueden presentar en una escala lineal con valores ponderados relativos a la característica. No son características binarias de Si o No solamente, aunque pueden incluir valores binarios de ser necesario
-            - Valoración de objetos según el constructor:
-                - Como es el experto quien crea las construcciones, es trabajo suyo comprender qué hace que una construcción sea válida y cómo se usa. Los ratios pueden expresarse también con nombres en vez de números:
-                    - ![](https://remnote-user-data.s3.amazonaws.com/wjIuk0T3Te5HzERn-7sNsnK5_t7kpQHRl7vtBQ1FMY9o9d2E0ifg5Dv5JAjmuskXwVqKaQ0iK-4W8Y--prja-PHZXpi__J6sdqA7PKyN2RAFjthvraEVxJSJrH6h1ju3.png) 
-                - La escala no debe cariar en una misma construcción aunque podrá variar de una construcción a otra.
-                - Un elemento se clasifica según cada construcción usando un ratio subjetivo dado por el experto; esto permite clasificar los elementos en vez de compararlo.
-        - Utilidad de la regilla de repertorio en la IC
-            - El grid es un sistema de correspondencia entre elementos y construcciones. Esta técnica es útil para los expertos o ingenieros del conocimiento por:
-                1. Hace que el experto piense sobre el problema y por tanto ayuda a clarificar [Consecuentes](../../../Universidad/Ingenieria Conocimiento/Prácticas_/P1 ⇒ Reglas y Sistemas basados en reglas/Estructura de una regla__/Consecuentes.md) en su mente 
-                2. Los grids se pueden analizar para encontrar modelos, clases y conceptos o asociaciones a investigar con mayor profundidad.
+ 
+## Tareas a automatizar  
+?
+- La conceptualización de dominio por medio de la obtención de conceptos y factores relevantes
+- La obtención de reglas, por medio de la obtención de reglas candidatas a partir de ejemplos
+
+## Rejilla de repertorio:
+- También conocida como emparrillado o "Repertory Grid"
+
+- Se aplica en una amplitud de campos:
+	1. Asesoramiento
+	2. Estudios demográficos
+	3. Dinámica de grupo
+	4. Adquisición de conocimiento
+```ad-important
+title:  Idea de la rejilla de repertorio:
+Cada persona tiene su propia visión del mundo, asocia y distingue elementos de acuerdo a sus propios criterios. Su propia forma de agrupar diferentes conceptos. Esto se le denomina como **Constructor/Construcción**  
+```
+
+
+- Utilidad de la regilla de repertorio en la IC
+- El grid es un sistema de correspondencia entre elementos y construcciones. Esta técnica es útil para los expertos o ingenieros del conocimiento por:
+1. Hace que el experto piense sobre el problema y por tanto ayuda a clarificar [Consecuentes](../../../Universidad/Ingenieria Conocimiento/Prácticas_/P1 ⇒ Reglas y Sistemas basados en reglas/Estructura de una regla__/Consecuentes.md) en su mente 
+2. Los grids se pueden analizar para encontrar modelos, clases y conceptos o asociaciones a investigar con mayor profundidad.
+
+
+- Proceso de  obtención de la rejilla repertorio
+		Pasos de los que se compone ↓ 
+			- Dialogo inicial
+			- Sesión de valoración
+			- Análisis de los resultados
+	- Constructores:
+		- Constructor→es una característica bipolar en la cual cada elemento tiene un cierto grado o escala.
+			- Ejemplo: Pesado-Ligero. Valiente-Cobarde...
+		- Estas características se pueden presentar en una escala lineal con valores ponderados relativos a la característica. No son características binarias de Si o No solamente, aunque pueden incluir valores binarios de ser necesario
+		- Valoración de objetos según el constructor:
+			- Como es el experto quien crea las construcciones, es trabajo suyo comprender qué hace que una construcción sea válida y cómo se usa. Los ratios pueden expresarse también con nombres en vez de números:
+				- ![](https://remnote-user-data.s3.amazonaws.com/wjIuk0T3Te5HzERn-7sNsnK5_t7kpQHRl7vtBQ1FMY9o9d2E0ifg5Dv5JAjmuskXwVqKaQ0iK-4W8Y--prja-PHZXpi__J6sdqA7PKyN2RAFjthvraEVxJSJrH6h1ju3.png) 
+			- La escala no debe cariar en una misma construcción aunque podrá variar de una construcción a otra.
+			- Un elemento se clasifica según cada construcción usando un ratio subjetivo dado por el experto; esto permite clasificar los elementos en vez de compararlo.
+
     - Obtención de la rejilla
         - Preparación:
             - Se elige el problema ↓ 
@@ -59,40 +70,57 @@
                 1. Dos elementos aparecen ligados cuando no deberían estarlo, en este caso se pueden reconsiderar valores atribuidos a los objetos, si los valores parecen correctos el IC debe solicitar un motivo para diferenciar esos elementos, dicha característica debe añadirse al estudio y generar dos nuevos árboles de agrupamiento.
                 2. Dos elementos aparecen como disjuntos cuando no deberían estar ligados, el proceso es similar al anterior. Se añade una característica que los ligue.
                 3. Dos características aparecen ligadas cuando no deberían estarlo, si los valores atribuidos a los objetos para esas dos características parecen correctos se le solicita al experto un ejemplo de un elemento que contradiga la relación. Si existe, se añade el elemento a la rejilla inicial y se repite el proceso.
-- Arboles de decisión
-    - Árbol de decisión→es una estructura logica que toma como entrada un objeto o situación descrita a través de un conjunto de atributos y devuelven una "decisión", el valor previsto de la salida dada la entrada.
-    - Los atributos pueden ser {{Discretos o Continuos}}
-    - Segun su salida:
-        - Salida Discreta→Clasificación
-        - Salida Continua→Regresión
-    - Los árboles se pueden convertir en reglas "if-then" siguiendo cada rama del árbol.
-        - Los árboles pueden tener en las hojas diferentes casos e inclusive casos en lo que la regla no se cumple→**Certeza **de la regla?
-        - Es posible que in nodo hoja posea un solo caso esto no es muy representativo, esa regla no está bien respaldada. Se conocde como el "soporte" y en el árbol se descartan aquellas reglas que tengan un soporte mínimo.
-    - Es necesario que los árboles tengan un grado de profundidad {{bajo }} para que sean entendibles por una persona
-    - Lo que se obtiene e un árbol de decisión es un "pre-conocimiento" el cual luego debe ser validado por el experto, el experto luego añade excepciones a la reglas o bien existan reglas que no tengan sentido, lo cual luego debe modificarse.
-    - Existe la posibilidad en que dado un grupo de entrenamiento no sea posible generarse un árbol de decisión, se puede aproximar con un cierto grado de **certeza** 
-    - Ejemplos positivos y negativos:
-        - Ejemplos positivos→Aquellos los cuales la meta es positiva?
-        - Ejemplos negativos→Aquellos cuya meta es falsa?
-        - El conjunto de ejemplos completos se denomina {{conjunto de entrenamiento}}
-    - Inducción de árboles de decisión
-        - Existen múltiples maneras de inferir el árbol ↓ 
-            - Trivial
-            - Óptimo
-            - Pseudo-Óptimo
-        - Trivial:
-            - Definición→Se crea una ruta del árbol por cada instancia de entrenamiento
-            - Producen árboles excesivamente grandes
-            - No funciona bien con instancias nuevas
-        - Óptimo
-            - Definición→Consiste en aplicar la heurística de la Navaja de Ockham al árbol
-            - Es inviable a nivel computacional
-        - Pseudo-Óptimo (Heurístico)
-            - Definición→Selección del atributo en cada nivel en finción de la calidad de la división que lo produce
-            - Los principales programas de generación de árboles utilizan procedimientos similares
-- Elección de Atributos
-    - Un buen atributo debería dividir el conjunto de ejemplos en subconjuntos que sean o "todos positivos" o "todos negativos"
-    - Un {{atributo perfecto}} dividirá los ejemplos en conjuntos qie contienen solo ejemplos positivos y solo ejemplos negativos
-    - Se tiene que definir una medida de atributo "adecuado" y "no adecuado"
-    - Para un conjunto de entrenamiento que contenga $p$ ejemplos positivos y $n$ ejemplo negativos, se utiliza la ggunción del grado de entropía: $$I(\frac{p}{p+n},\frac{n}{p+n})=-\frac{p}{p+n} log_2(\frac{p}{p+n})-\frac{n}{p+n} log_2(\frac{n}{p+n})$$ 
-- 
+## Arboles de decisión
+
+**Árbol de decisión**:: Son una estructura logica que toma como entrada un objeto o situación descrita a través de un conjunto de atributos y devuelven una "decisión", el valor previsto de la salida dada la entrada.
+
+### Características:
+
+#### Según su salida:
+?
+- Salida Discreta→Clasificación
+- Salida Continua→Regresión
+
+Los árboles se pueden convertir en reglas "if-then" siguiendo cada rama del árbol. Pueden tener en las hojas diferentes casos e inclusive casos en lo que la regla no se cumple (**Certeza de la regla**)
+
+ Es posible que un *nodo hoja* posea un solo caso esto no es muy representativo, esa regla no está bien respaldada. Se conoce como el "*soporte*" y en el árbol **se descartan aquellas reglas que tengan un soporte mínimo**.
+ Es necesario que los árboles tengan un grado de profundidad **bajo** para que sean entendibles por una persona Lo que se obtiene e un árbol de decisión es un "pre-conocimiento" el cual luego debe ser validado por el experto, el experto luego añade excepciones a la reglas o bien existan reglas que no tengan sentido, lo cual luego debe modificarse.
+
+ Existe la posibilidad en que dado un grupo de entrenamiento no sea posible generarse un árbol de decisión, se puede aproximar con un cierto grado de **certeza**. 
+
+El conjunto de ejemplos completos se denomina **conjunto de entrenamiento**
+
+##### Ejemplos positivos y negativos:
+- Ejemplos positivos→Aquellos los cuales la meta es positiva?
+- Ejemplos negativos→Aquellos cuya meta es falsa?
+
+
+### Inducción de árboles de decisión
+
+- Existen múltiples maneras de inferir el árbol ↓ 
+?
+	- Trivial
+	- Óptimo
+	- Pseudo-Óptimo
+
+#### Trivial:
+?
+- Se crea una ruta del árbol por cada instancia de entrenamiento
+- Producen árboles excesivamente grandes
+- No funciona bien con instancias nuevas
+
+#### Óptimo
+- Definición→Consiste en aplicar la heurística de la Navaja de Ockham al árbol
+- Es inviable a nivel computacional
+
+#### Pseudo-Óptimo (Heurístico)
+- Definición→Selección del atributo en cada nivel en función de la calidad de la división que lo produce
+- Los principales programas de generación de árboles utilizan procedimientos similares
+
+
+### Elección de Atributos
+- Un buen atributo debería dividir el conjunto de ejemplos en subconjuntos que sean o "todos positivos" o "todos negativos"
+- Un **atributo perfecto** dividirá los ejemplos en conjuntos que contienen solo ejemplos positivos y solo ejemplos negativos
+- Se tiene que definir una medida de atributo "adecuado" y "no adecuado"
+- Para un conjunto de entrenamiento que contenga $p$ ejemplos positivos y $n$ ejemplo negativos, se utiliza la función del grado de entropía: $$I(\frac{p}{p+n},\frac{n}{p+n})=-\frac{p}{p+n} log_2(\frac{p}{p+n})-\frac{n}{p+n} log_2(\frac{n}{p+n})$$ 
+
