@@ -12,9 +12,8 @@
 No existe un sistema de trasmisión específico para los robots. los mas usados son:
 ![[Pasted image 20230421194107.png]]
 
-```ad-hint
-Las trasmisiones más habituales son aquellas que cuentan con movimiento circular tanto a la entrada como a la salida
-```
+> [!hint]
+> Las trasmisiones más habituales son aquellas que cuentan con movimiento circular tanto a la entrada como a la salida
 
 # Reductores
 - Junto con las trasmisiones es frecuente el uso de sistemas reductores que adaptan la velocidad del motor a la del movimiento del robot

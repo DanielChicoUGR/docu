@@ -44,6 +44,5 @@ Los elementos de la matriz de rotación son proyecciones de los vectores unitari
 ![[Pasted image 20230425131449.png]]
 
 ![[Pasted image 20230425131556.png]]
-```ad-important
-Las operaciones se aplican de derecha a izquierda
-```
+> [!important]
+> Las operaciones se aplican de derecha a izquierda

@@ -7,10 +7,8 @@ Se define como una cuadrupla $(V,T,P,S)$ donde:
 - *P* -> Conjunto finito de reglas o producciones de la forma $(\alpha,\beta)$ donde $\alpha,\beta \in (V \cup T)^{*}$ y $\alpha$ contiene al menos un símbolo de *V*
 - *S* -> elemento de *V* denominado símbolo de partida o axioma
 
-```ad-note
-title: Utilidad
-Una gramática sirve para determinar un lenguaje. Las palabras pertenecen a $T^{*}$ y se obtienen a partir del símbolo inicial aplicando [[Gramáticas#^1yusgw|derivacion]]. Cada paso consiste en elegir una parte de la palabra qeu coincida con la parte izquierda de una producción y sustituirla por lo que aparece a la derecha de la misma.
-```
+> [!note] Utilidad
+> Una gramática sirve para determinar un lenguaje. Las palabras pertenecen a $T^{*}$ y se obtienen a partir del símbolo inicial aplicando [[Gramáticas#^1yusgw|derivacion]]. Cada paso consiste en elegir una parte de la palabra qeu coincida con la parte izquierda de una producción y sustituirla por lo que aparece a la derecha de la misma.
 
 ## Definiciones:
 
@@ -53,7 +51,5 @@ Una gramática es ambigua si tiene al menos una sentencia ambigua
 **Gramática recursiva**:: Contiene al menos una producción recursiva en su conjunto de producciones. Puede especializarse en *Recursiva por la Derecha* y *Recursiva por la Izquierda.*
 
 
-```ad-todo
-title: Factorización
-Preguntar Profesor
-```
+> [!todo] Factorización
+> Preguntar Profesor

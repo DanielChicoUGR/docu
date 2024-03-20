@@ -16,18 +16,16 @@ Componentes de un problema de decisión de Markov:
 - Utilidad del agente -> Depende de la secuencia de estados
 - Objetivo: Maximizar la recompensa acumulada.
 
-```ad-example
-title:Robot de recolección de latas
-
-- En cada paso el robot tiene que decidir si debería:
-	- Buscar activamente una lata
-	- Esperar que alguien tire una lata
-	- volver al puesto base para recargar las baterías
-- Buscar es lo mejor pero se agotan las baterías, no se puede quedar sin batería en mitad de una acción
-- Las decisiones se basan en función del nivel de batería (alto,bajo)
-
-**Recompensa**-> Número de latas recolectado
-```
+> [!example] Robot de recolección de latas
+> 
+> - En cada paso el robot tiene que decidir si debería:
+> 	- Buscar activamente una lata
+> 	- Esperar que alguien tire una lata
+> 	- volver al puesto base para recargar las baterías
+> - Buscar es lo mejor pero se agotan las baterías, no se puede quedar sin batería en mitad de una acción
+> - Las decisiones se basan en función del nivel de batería (alto,bajo)
+> 
+> **Recompensa**-> Número de latas recolectado
 
 ![[Pasted image 20230611175157.png]]
 

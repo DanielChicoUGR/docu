@@ -15,13 +15,11 @@ Los problemas que puede resolver una computadora se denominan decidíbles
 - Dadas dos gramáticas sin contexto, determinar si generan el mismo conjunto de cadenas, o si se genera un subconjunto de las cadenas generadas por el otro, o si hay alguna cadena en absoluto que ambos generan
 - [La existencia de una brecha espectral de un materia cuántico](https://www.abc.es/ciencia/abci-problema-fisica-no-puede-resolver-201512101033_noticia.html) 
 ## Problema de la parada 
-```ad-question
-Dado un programa p y sus datos de entrada x, decidir si p eventualmente terminará en un número finito de pasos
-```
+> [!question]
+> Dado un programa p y sus datos de entrada x, decidir si p eventualmente terminará en un número finito de pasos
 
-```ad-danger
-title: IRRESOLUBLE
-```
+> [!danger] IRRESOLUBLE
+> 
 
 ### Demostración
 Supongamos el siguiente programa

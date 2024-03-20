@@ -1,9 +1,8 @@
 ## Para que sirven?
 #### Suponemos:
 Que queremos identificar una dirección de email de la forma:
-```ad-hint
-nombre@dominio.exten
-```
+> [!hint]
+> nombre@dominio.exten
 
 
 ## Autómata finíto

@@ -1,7 +1,5 @@
-```ad-quote
-title:Que Son?
-Los actuadores mueven los elementos del robot de acuerdo a las órdenes de la unidad de control
-```
+> [!quote] Que Son?
+> Los actuadores mueven los elementos del robot de acuerdo a las órdenes de la unidad de control
 Principalmente son Cilindros (pistones) o motores
 
 # Cilindros:

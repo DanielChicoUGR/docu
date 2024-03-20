@@ -15,9 +15,8 @@
 ## Palabra/ Cadena
 
 **Definición**::Secuencia finita de símbolos de un alfabetos. $u=a_1 \dots a_n$ donde $a_{i} \in A, \forall i = 1,\dots,n$ 
-```ad-example
-Si $A=\{0,1\}$ entonces 1110 es una palabra del alfabeto A
-```
+> [!example]
+> Si $A=\{0,1\}$ entonces 1110 es una palabra del alfabeto A
 #### Notación
 ?
 -  Palabras: u,v,x,y,z
@@ -39,10 +38,9 @@ Definición:: Es todo subconjunto del universo del alfabeto. Dado un lenguaje $L
 ? 
 -  Lenguajes: $L,M,N,\dots$
 
-```ad-example
-- $L_1=\{a,b,\epsilon\}$ -> El lenguaje tiene 3 palabras
-- $L_2=\{a^ib^i|i=1,2,\dots\}$ -> Sucesión de a seguida de b de igual longitud
-- $L_{3}=uu^{-1}|u \in A^{*}$ -> Palindromo de longitud par
-- $L_{4}=\{a^{n^{2}}|n=1,2,3,\dots\}$ -> sucesiones de a iguales a un cuadrado
-```
+> [!example]
+> - $L_1=\{a,b,\epsilon\}$ -> El lenguaje tiene 3 palabras
+> - $L_2=\{a^ib^i|i=1,2,\dots\}$ -> Sucesión de a seguida de b de igual longitud
+> - $L_{3}=uu^{-1}|u \in A^{*}$ -> Palindromo de longitud par
+> - $L_{4}=\{a^{n^{2}}|n=1,2,3,\dots\}$ -> sucesiones de a iguales a un cuadrado
 

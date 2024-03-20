@@ -1,7 +1,5 @@
-```ad-hint
-title: Significado de Whitening
-Término extraido del procesamiento de señales donde una onda de ruido blanca es una onda con su espectro de frecuencia distribuido de manera uniforme.
-```
+> [!hint] Significado de Whitening
+> Término extraido del procesamiento de señales donde una onda de ruido blanca es una onda con su espectro de frecuencia distribuido de manera uniforme.
 
 *Input whitening*::Proceso de descorrelacionar los datos unos de otros para que las relaciones entre los mismos no genere problemas en el proceso de aprendizaje.
 

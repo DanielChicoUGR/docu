@@ -1,11 +1,9 @@
 
-```ad-hint
-title: Leyenda
-- D -> Data Domain
-- T -> Transformación realizada a los datos
-- $f$ -> Función que une los dominios T a L (etiquetas) 
-- GT -> Ground Truth (Verdad Absoluta) en el contexto se refiere a elegir la etiqueta correcta
-```
+> [!hint] Leyenda
+> - D -> Data Domain
+> - T -> Transformación realizada a los datos
+> - $f$ -> Función que une los dominios T a L (etiquetas) 
+> - GT -> Ground Truth (Verdad Absoluta) en el contexto se refiere a elegir la etiqueta correcta
 
 # Aprendizaje Supervisado:
 ?

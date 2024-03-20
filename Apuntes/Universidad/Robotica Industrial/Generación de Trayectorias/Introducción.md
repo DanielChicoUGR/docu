@@ -1,8 +1,6 @@
 
-```ad-info
-title:trayectoria
-Historial en el tiempo fr ls posición, velocidad y aceleración para cada grado de libertad
-```
+> [!info] trayectoria
+> Historial en el tiempo fr ls posición, velocidad y aceleración para cada grado de libertad
 
 Generalmente, el usuario especifica la posición y orientación inicial y final del efector y el sistema calcula la forma exacta de la ruta para llegar ahí, la duración, el perfil de velocidad ...
 

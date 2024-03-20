@@ -2,32 +2,28 @@ Incertidumbre::Falta de seguridad, certeza o confianza sobre algo (RAE)
 
 Los agentes casi nunca tienen acceso al toda la información del entorno por lo que deben comportarse en ambientes con incertidumbre. Para un agente es imposible construir una descripción completa y exacta de cómo se desarrollan sus acciones.
 
-```ad-example
-title: Tamaño Planes
-
-Plan A_90 -> dejar la casa a falta de 90 min de que salga el vuelo, conducir a una velocidad razonable, aparcar y coger el vuelo.
-
-Nos llevará al aeropuerto a tiempo? -> Puede ser pero muchas cosas pueden salir mal (problemas en la planificación)
-
-Plan A_120 -> aumenta la creencia en el éxito del plan pero también aumenta la creencia de que la espera aumentará. 
-
-
-```
+> [!example] Tamaño Planes
+> 
+> Plan A_90 -> dejar la casa a falta de 90 min de que salga el vuelo, conducir a una velocidad razonable, aparcar y coger el vuelo.
+> 
+> Nos llevará al aeropuerto a tiempo? -> Puede ser pero muchas cosas pueden salir mal (problemas en la planificación)
+> 
+> Plan A_120 -> aumenta la creencia en el éxito del plan pero también aumenta la creencia de que la espera aumentará. 
+> 
+> 
 Una posible solución es dotar al agente de una teoría del mundo simple pero errónea que le permita deducir un plan que ==funcione la mayoría de las veces==. Como? -> analizando la importancia relativa de los distintos objetivos, así como de la creencia en que estos se alcanzarán.
 
 # Manipulando Conocimiento Incierto.
-```ad-example
-title: Ejemplo Medicina y conocimiento complejo
-
-R1: $\forall p$  Síntoma(p,Dolor_Muelas) $\rightarrow$ Enfermedad(p,Caries)
-
-R2: $\forall p$ Síntoma(p,Dolor.Muelas) $\rightarrow$ Enfermedad(p,Caries) $\lor$ Enfermedad(p,Dolencia.Encías) $\lor$  Enfermedad(p,Abceso) $\lor \dots$ 
-
-R3: $\forall p$  Enfermedad(p,Caries) $\rightarrow$ Sintoma(p,Dolor.Muelas)
-
-La ciencia médica no tiene una teoría completa para su dominio de acción.
-
-```
+> [!example] Ejemplo Medicina y conocimiento complejo
+> 
+> R1: $\forall p$  Síntoma(p,Dolor_Muelas) $\rightarrow$ Enfermedad(p,Caries)
+> 
+> R2: $\forall p$ Síntoma(p,Dolor.Muelas) $\rightarrow$ Enfermedad(p,Caries) $\lor$ Enfermedad(p,Dolencia.Encías) $\lor$  Enfermedad(p,Abceso) $\lor \dots$ 
+> 
+> R3: $\forall p$  Enfermedad(p,Caries) $\rightarrow$ Sintoma(p,Dolor.Muelas)
+> 
+> La ciencia médica no tiene una teoría completa para su dominio de acción.
+> 
 
 Poner en una lista el conjunto completo de antecedente y consecuentes que se necesitan para asegurar una regla sin excepciones tiene demasiado trabajo y usar tales reglas es bastante difícil. En el ejemplo anterior, la conexión entre dolor de muelas y caries no es exactamente una consecuencia lógica en ninguna dirección.
 

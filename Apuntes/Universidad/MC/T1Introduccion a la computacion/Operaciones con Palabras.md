@@ -8,9 +8,8 @@
 ## Concatenación:
 **Definición**::si $u,v \in A^{*},u=a_{1},\dots a_{n}, v=b_{1},\dots,b_{n}$, se llama concatenación de $u \text{ y } v$ a la cadena $u \cdot v$ (o simplemente $uv$) dada por $a_{1},\dots a_{n},b_{1}\dots b_{n}$ 
 
-```ad-example
-si $u=011,v=1010$, entonces $uv=0111010$
-```
+> [!example]
+> si $u=011,v=1010$, entonces $uv=0111010$
 
 #### Propiedades:
 ?
@@ -27,13 +26,11 @@ si $u=011,v=1010$, entonces $uv=0111010$
 - $u^{0}=\epsilon$
 - $u^{i+1}=u^{i}u, \forall i \ge 0$ 
 
-```ad-example
-Si $u=101$, entonces $u^3=010010010$
-```
+> [!example]
+> Si $u=101$, entonces $u^3=010010010$
 
 ## Reflexión
 **Definición**:: Si $u$ es una palabra formada por una secuencia de símbolos entonces la palabra $u^{-1}$ se forma invirtiendo el orden de los símbolos.$$ u = u_{1},\dots,u_{n}\in A^{*}, \text{ entonces } u^{-1}=u_{n},\dots, u_{1} \in A^{*}$$
-```ad-example
-Si $u=011$, entonces $u^{-1}=110$
-```
+> [!example]
+> Si $u=011$, entonces $u^{-1}=110$
  

@@ -22,9 +22,8 @@ Se pueden generar 12 ecuaciones para calcular las n incognitas:
 	- 3 ecuaciones vienen de las componentes del vector de posición $^0P_{norig}(q)$ 
 Problema: Aparecen Ec no lineales además de ser un problema no homogeneo de 6 ec y n incógnitas
 
-```ad-info
-Las ecuaciones del modelo cinemático inverso permiten resolver el **PCI** con poco coste computacional
-```
+> [!info]
+> Las ecuaciones del modelo cinemático inverso permiten resolver el **PCI** con poco coste computacional
 
 Alternativamente se puede resolver el PCI mediante enfoques numéricos:
 ?	
@@ -32,10 +31,9 @@ Alternativamente se puede resolver el PCI mediante enfoques numéricos:
  - Lentos con grán coste computacional
  - Aplicables a cualquier manipulador
 
-```ad-important
-El PCI puede:
-
-1. No tener solución cuando la localización se encuentre fuera de su espacio de trabajo
-
- 2. Tener mas de una solución, está relacionado con la cantidad de grados de libertad que dispone el robot y la posibilidad de evitar obstaculos
-```
+> [!important]
+> El PCI puede:
+> 
+> 1. No tener solución cuando la localización se encuentre fuera de su espacio de trabajo
+> 
+>  2. Tener mas de una solución, está relacionado con la cantidad de grados de libertad que dispone el robot y la posibilidad de evitar obstaculos

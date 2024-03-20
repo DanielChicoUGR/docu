@@ -6,4 +6,4 @@ Cambios, después de que el arbitro pite,
 
 Tiempos muertos, tras canasta recibida o balon muerto
 
-Ultinos dos minutos,
+Ultimos dos minutos,

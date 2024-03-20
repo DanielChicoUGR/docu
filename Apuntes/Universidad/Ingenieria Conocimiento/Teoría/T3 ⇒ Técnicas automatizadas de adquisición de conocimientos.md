@@ -12,10 +12,8 @@
 	2. Estudios demográficos
 	3. Dinámica de grupo
 	4. Adquisición de conocimiento
-```ad-important
-title:  Idea de la rejilla de repertorio:
-Cada persona tiene su propia visión del mundo, asocia y distingue elementos de acuerdo a sus propios criterios. Su propia forma de agrupar diferentes conceptos. Esto se le denomina como **Constructor/Construcción**  
-```
+> [!important] Idea de la rejilla de repertorio:
+> Cada persona tiene su propia visión del mundo, asocia y distingue elementos de acuerdo a sus propios criterios. Su propia forma de agrupar diferentes conceptos. Esto se le denomina como **Constructor/Construcción**  
 
 
 - Utilidad de la regilla de repertorio en la IC
