@@ -45,7 +45,7 @@
 - Antecedente::o parte izquierda. Contiene las cláusulas que deben cumplirse para que la regla pueda evaluarse o ejecutarse
 
 - Consecuentes::o parte derecha. Indica las conclusiones que se deducen de las premisas (declarativo) o las acciones que el sistema debe realizar cuando ejecuta la regla (imperativo)
-
+ ^8sfluw
 - El antecedente
 	- Es la condición para que la regla pueda dispararse. Es la parte del "Si" o la parte izquierda
 	- Eta formado normalmente por una conjunción de literales.
