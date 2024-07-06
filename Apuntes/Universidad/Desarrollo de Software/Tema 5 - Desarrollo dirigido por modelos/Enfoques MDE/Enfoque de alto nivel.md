@@ -1,0 +1,19 @@
+Tres tipos de MDE:
+- **Orientados al desarrollo (MDD)**
+	- Se enfocan en las tareas de especificación de requisitos, análisis, diseño e implementación
+	- Las concreciones suelen proporcionar lenguajes para modelar con distintos niveles de abstracción y [[Transformaciones|transformaciones]] para mejorar la productividad y la calidad
+- **Orientados a la [[Prueba software|prueba]] (MDT o MBT)**
+	- Se enfocan en la automatización de las pruebas
+	- Las concreciones suelen representar el comportamiento deseado, las estrategias de prueba y el entorno de prueba
+	- Los casos de prueba generados están al mismo nivel de abstracción que el modelo y podrán convertirse en tests ejecutables que conectan con el sistema usando unas herramientas de prueba y marcos de trabajo concretos
+- **MDA de OMG**
+	- Enfocado principalmente en la definición de [[Modelo|modelos]] y sus [[Transformaciones|transformaciones]]. Admite la definición de modelos en diferentes niveles de abstracción [[Lenguaje de modelado (ML)#Estructuración|(CIM, PIM, PSM)]]
+	- Tipos de transformaciones
+		- M2M
+			- CIM-CIM
+			- CIM-PIM
+			- PIM-PIM
+			- PIM-PSM
+			- PSM-PSM
+		- M2T
+			- PSM-text

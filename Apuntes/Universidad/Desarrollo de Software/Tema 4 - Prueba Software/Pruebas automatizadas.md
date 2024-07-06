@@ -1,0 +1,14 @@
+Dentro de las pruebas automatizadas se encuentran:
+- **Pruebas de corrección**
+	- **Pruebas de la GUI**
+		- Prueban las distintas formas con las que el usuario selecciona un elemento en una interfaz grafica: por teclado, click del raton, tocando la pantalla, etc.
+	- **Pruebas funcionales**
+		- Prueban los cálculos que se realizan en distintas funciones o métodos, detectando las desviaciones de los resultados esperados
+- **Pruebas de disponibilidad y carga**
+	- Deben ser realizados ==cuando el sistema se encuentre bajo el máximo uso==, una condición que suele ser muy difícil de conseguir y es imposible en pruebas manuales. Estos test permiten establecer el hardware y la configuración necesaria de las comunicaciones para distintos niveles de carga
+- **Auditorias automáticas de código**
+	- Usan un auditor automático, que prueba si el código se ajusta a estándares y procedimientos especificados de codificación. El informe que produce como salida incluye una lista de desviaciones de los estándares
+- **Monitorización automática de la cobertura**
+	- Producir informes de la cobertura en líneas de código que se consigue por ficheros de casos de prueba concretos
+- **Pruebas de integridad**
+	- Detectar errores en el software que pueden hacerlo vulnerable a ciberataques. En la actualidad hay herramientas especializadas para este tipo de pruebas

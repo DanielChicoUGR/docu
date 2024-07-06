@@ -1,0 +1,3 @@
+- **[[Enfoque de alto nivel]]**
+- **[[Enfoque de nivel medio]]**. Meta-herramientas dirigidas por modelos
+- **[[Enfoque concreto]]**: herramientas dirigidas por modelos

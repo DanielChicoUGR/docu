@@ -1,0 +1,20 @@
+- **Factor operativo**
+	- **Corrección**
+	- **Manuales de usuario**
+	- **Disponibilidad**
+	- **Fiabilidad**
+	- **Estrés** (carga)
+	- **Seguridad**
+	- **Usabilidad**
+		- De entrenamiento
+		- Operacionales
+- **Factor de revision**
+	- **Corrección del mantenimiento**
+	- **Flexibilidad**
+	- **Facilidad de testeo**
+- **Factor de transición**
+	- **Portabilidad**
+	- **Corrección del software utilizado**
+	- **Interoperabilidad**
+		- Equipamiento
+		- Interfaces software

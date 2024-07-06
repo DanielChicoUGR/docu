@@ -1,0 +1,3 @@
+Las metodologías agiles (**Scrum o Extreme Programming (XP)**) son conscientes de la realidad del [[Ciclo de vida tradicional]] del software, de forma que la resuelven de una forma "extrema", de manera que deciden ==**prescindir en la mayor medida de las fases iniciales y la documentación generada en ellas y enfocarse sobre todo en las fases de codificación y prueba**==, para lo que solo usan diagramas de diseño
+
+La solución que proponen en el caso de que cambie el equipo de desarrollo o mantenimiento del producto software para no "perderse en el código" es la de dejar marcadores para los que vengan detrás, que finalmente son también texto y diagramas de mas alto nivel

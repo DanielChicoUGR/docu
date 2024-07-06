@@ -1,0 +1,5 @@
+[[Observer]]
+[[Strategy]]
+[[Template Method]]
+[[Adapter]]
+[[Intercepting Filters]]

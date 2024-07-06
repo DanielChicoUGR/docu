@@ -1,0 +1,4 @@
+1. **Desarrollo inicial**.
+2. **Evolución**. Al principio es fácil hacer cambios simples mediante [[Miniciclo|miniciclos]]
+3. **Mantenimiento**. Poco a poco los desarrolladores antiguos dejan de estar disponibles y el nuevo equipo de desarrollo se dedica a hacer [[Mantenimiento correctivo]]
+4. **Retirada gradual**. En algún momento el mantenimiento se hace demasiado caro o aparecen soluciones mejores. El software antiguo aun se esta usando pero ya se esta desarrollando uno nuevo a la parte del antiguo que se pretende reutilizar y que formara parte del nuevo de alguna manera. Pasara a ser [[Software heredado|software heredado]]

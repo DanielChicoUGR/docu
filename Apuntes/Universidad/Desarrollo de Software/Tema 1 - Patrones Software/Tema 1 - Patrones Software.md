@@ -1,0 +1,7 @@
+[[1 - Conceptos]]
+[[2 - Clasificación de patrones Software]]
+[[Patrones creacionales]]
+[[Patrones estructurales]]
+[[Patrones de comportamiento]]
+[[4 - Estilos arquitectónicos]]
+[[5 - Ejercicios]]

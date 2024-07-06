@@ -1,0 +1,3 @@
+**Conjunto integrado de elementos computacionales que permiten el desarrollo y ejecución de una clase de productos software**
+
+Proporciona diferentes funcionalidades a través de la reutilización y mecanismos de extensibilidad y se refieren a tecnologías como middleware, librerías software, marcos de aplicaciones y componentes de software, pero también sistemas de gestión de bases de datos, servidores web, gestores de contenidos, sistemas de gestión de documentos, sistemas de gestión de flujo de trabajo, etc.

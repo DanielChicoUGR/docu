@@ -1,0 +1,4 @@
+- **El proceso iterativo a nivel practico se reduce de forma significativa con respecto al teórico**: ante fallos, los programadores, que conocen bien el código, ==se olvidan de la documentación== (en forma de diagramas y texto) y ==cambian directamente el código==
+- ==En fase de explotación del sistema, suele cambiar el equipo de mantenimiento y la documentación esta incompleta==
+- **Para los desarrolladores ==resulta siempre tediosa la elaboración de la documentación**==, ==mucho mas si se hace con mucho detalle==, con una [[Descripción arquitectónica]] elaborada teniendo en cuenta los puntos de vista de los distintos interesados y las distintas perspectivas para asegurar la calidad
+![[Pasted image 20240621011232.png]]
