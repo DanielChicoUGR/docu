@@ -1,0 +1,1 @@
+A menos que se realice un trabajo adicional para *reducir explícitamente la complejidad* de un sistema, **se volverá cada vez mas complejo y menos estructurado** debido a los cambios relacionados con el mantenimiento

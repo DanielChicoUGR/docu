@@ -1,0 +1,8 @@
+- Debe ser dirigido por las ==*Concerns*== de los *Stakeholders*
+- Debe fomentar la ==**comunicación== entre el equipo técnico y los *Stakeholders* no técnicos**
+- Debe realizarse de forma bien ==**organizada**== (definiendo objetivos y encadenando la salida de cada fase con la entrada de la siguiente)
+- Debe ser **pragmático y ==confrontarse con la realidad**== (falta de recursos, cambios de requisitos o del contexto o de la organización donde se utilizara)
+- Debe ser ==**flexible**== para adaptarse a circunstancias particulares
+- Debe ser ==**independiente de la tecnología**==, sin imponer de forma previa patrones arquitectónicos, estilos de desarrollo, modelado, documentación, etc.
+- Debe integrarse ==**dentro del ciclo de desarrollo**== software
+- Debe usar ==**buenas practicas== y estándares de gestión de calidad** para poder integrarse en enfoques existentes
