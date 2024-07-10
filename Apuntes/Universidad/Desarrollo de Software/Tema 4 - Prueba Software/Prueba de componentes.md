@@ -1,0 +1,5 @@
+Un **componente** es un grupo de unidades relacionadas entre si a nivel funcional, por ejemplo, un paquete de clases
+
+Las pruebas de componentes se realizan después de las [[Pruebas de unidad|pruebas de unidad]], también por los desarrolladores, pero en este caso con el objetivo de probar el comportamiento y no el código en si. Es decir, son siempre [[Prueba de caja negra|pruebas de caja negra]]. Se trata por tanto ya de un comienzo de pruebas orientadas al dominio, a probar la experiencia del usuario, y no al código concreto
+
+Suelen programarse unidas a la suite o grupo de pruebas de unidad. A veces reciben el nombre de pruebas de escenarios o características, pues se trata de probar los distintos escenarios o sub-escenarios que representan la interacción del usuario final con ese componente. Ahora no puede haber dobles ([[Diferencias entre mocks y stubs|stubs o mocks]]) entre unidades del componente que probamos, pues queremos probar la interacción real entre las distintas unidades de ese componente. Sin embargo, si que se usaran dobles para silenciar la interacción con unidades de otros componentes

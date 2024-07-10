@@ -1,1 +1,0 @@
-Grafo Localmente Finito::Un grafo cumple esta propiedad si y solo si el numero de hijos de un nodo cualquiera es finíto, que no tiene porque serlo el grafo en sí.

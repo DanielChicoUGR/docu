@@ -1,0 +1,1 @@
+A menos que un sistema *se modifique continuamente para satisfacer necesidades emergentes de los usuarios*, **se vuelve cada vez menos útil**

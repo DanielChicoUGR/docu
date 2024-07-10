@@ -1,0 +1,1 @@
+Selección de un grupo de usuarios que reciben una version del software antes de que se ponga en explotación, de forma que lo pueden instalar y probar, informando de los errores que encuentren

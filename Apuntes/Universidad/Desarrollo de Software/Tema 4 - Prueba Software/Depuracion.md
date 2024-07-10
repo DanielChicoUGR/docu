@@ -1,0 +1,1 @@
+Método usado para identificar errores y corregirlos, pero no suelen considerar las consecuencias que estas puedan tener en otras partes del sistema. Es fundamental hacer una depuración eficaz y comprobar la robustez del código antes de pasar a la siguiente fase de prueba, para que se puedan realizar pruebas de forma rigurosa.

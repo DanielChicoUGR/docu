@@ -1,1 +1,0 @@
-Aplicable a robots en los que los últimos GDL se cortan en un punto

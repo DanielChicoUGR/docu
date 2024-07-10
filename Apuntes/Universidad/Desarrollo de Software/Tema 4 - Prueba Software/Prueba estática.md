@@ -1,0 +1,1 @@
+Detectar errores en el software sin ejecutar código. Se pueden realizar sobre el código o sobre documentos

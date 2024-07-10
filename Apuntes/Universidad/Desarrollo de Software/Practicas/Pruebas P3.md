@@ -1,0 +1,3 @@
+- Decorar una bicicleta varias veces alternando entre estampado y funda. Comprobar que se añadió los nuevos atributos.
+- Método `AsociarImagenBicicleta` de la clase `ConstructorBicicletaDecorada` con una bicicleta decorada con varias fundas. Comprobar que cambia bien de imagen asociada. (Es la única función algo compleja junto con las del decorador).
+- Método `AsociarImagenBicicleta` de la clase `ConstructorBicicletaDecorada` con una bicicleta decorada con varias estampados. Comprobar que cambia bien de imagen asociada. (Es la única función algo compleja junto con las del decorador).

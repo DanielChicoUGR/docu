@@ -1,0 +1,4 @@
+[[Adapter]]
+[[Composite]]
+[[Decorator]]
+[[Facade]]

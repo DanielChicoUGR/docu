@@ -1,0 +1,1 @@
+Es el producto final y cada subproducto obtenido al terminar cada fase en el ciclo de vida. Por ejemplo, son productos software el documento de especificación de requisitos, diseño del sistema o el código producido.
