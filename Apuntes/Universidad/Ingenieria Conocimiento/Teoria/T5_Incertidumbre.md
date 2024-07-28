@@ -1,6 +1,29 @@
+Índice
+
+
 # Incertidumbre
 
 ## Table of Content
+
+1. [Table of Content](#table-of-content)
+2. [Definición previa](#definici%C3%B3n-previa)
+3. [Fuentes de incertidumbre](#fuentes-de-incertidumbre)
+	1. [Con respecto a los hechos](#con-respecto-a-los-hechos)
+		1. [Ignorancia o Desconocimiento](#ignorancia-o-desconocimiento)
+		2. [Vaguedad e imprecisión](#vaguedad-e-imprecisi%C3%B3n)
+	2. [Con respecto a las reglas](#con-respecto-a-las-reglas)
+5. [Razonando con incertidumbre](#razonando-con-incertidumbre)
+	1. [Cuestiones a resolver por las aproximaciones a la **incertidumbre**](#cuestiones-a-resolver-por-las-aproximaciones-a-la-incertidumbre)
+6. [Algo de historia](#algo-de-historia)
+7. [Principales modelos de representación de la incertidumbre](#principales-modelos-de-representaci%C3%B3n-de-la-incertidumbre)
+	1. [Lógica de Primer Orden (LPO)](#l%C3%B3gica-de-primer-orden-lpo)
+		1. [Características:](#caracter%C3%ADsticas)
+8. [Modelos simbólicos:](#modelos-simb%C3%B3licos)
+	1. [Lógica por defecto:](#l%C3%B3gica-por-defecto)
+	2. [Asumción del mundo cerrado:](#asumci%C3%B3n-del-mundo-cerrado)
+	3. [Inconvenientes:](#inconvenientes)
+10. [Modelos numéricos de la incertidumbre](#modelos-num%C3%A9ricos-de-la-incertidumbre)
+	1. [Factores de certeza](#factores-de-certeza)
 
 ## Definición previa 
 
@@ -51,7 +74,6 @@ Muchas veces las reglas que usan los expertos en determinadas situaciones son re
 	- No por mucho madrugar amanece más temprano
 
 Esto puede verse como una desventaja/imprecisión. Pero estas características generan un modelo de razonamiento muy potente. Permite con pocas reglas describir conocimiento complejo, en sentido que si solo utilizáramos conocimiento preciso, haría falta una cantidad inmanejable de reglas.
-
 
 ## Razonando con incertidumbre
 
@@ -135,7 +157,7 @@ Reglas:
 - Se deben de poder retractar: Si *Consecuente, Condiciones Positivas* y *Condiciones, Negativas* entonces retractar *Consecuente*. 
 	- "Si X vuela y es una ave y X no vuela, entonces retractar que vuela
 
-### Asumción del mundo cerrado:
+### Asunción del mundo cerrado:
 
 Sirve para manejar el conocimiento incompleto. "Lo que no se puede probar a partir de mi Base de Conocimiento, es falso". Utilizado en Bases de Datos y en PROLOG, y es lo que se ha estudiado y lo que se ha utilizado en CLIPS hasta ahora.
 
@@ -155,8 +177,18 @@ La relación de los FC y GC es $$FC(H|E)=GC(H|E)-GC(\neg H|E)$$Se quiere saber e
 A diferencia de los Grados de creencia probabilísticos, estos factores de certeza cumplen: $$GC(H|E)+GC(\neg H|E) \neq 1$$
 ![[T5_Incertidumbre-20240709185021839.webp]]
 
-
 ![[T5_Incertidumbre-20240709185033996.webp]]
 
-
 ![[T5_Incertidumbre-20240709185047123.webp]]
+\
+
+### Lógica difusa:
+
+Ser humano se expresa y razona comúnmente con términos vagos en lugar de precisos (fiebre alta, persona delgada, velocidad muy alta,…). Se representan numéricamente términos vagos utilizando lógica multivaluada en $[0,1]$ $$\text{grado\_de\_verdad(“fiebre alta”)} \in [0,1]$$
+Las proposiciones se interpretan y representan como restricciones de los valores que puede tomar una variable
+
+>[!tip] ¿Comó interpretar proposiciones linguísticas?
+>![[T5_Incertidumbre-20240715132530086.webp|668]]
+
+#### Proposiciones simples:
+Una proposición simple P será de la forma "X es A"

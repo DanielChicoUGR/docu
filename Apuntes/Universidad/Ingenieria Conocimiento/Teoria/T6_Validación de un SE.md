@@ -1,4 +1,4 @@
-# Validación de un SE
+# Validación de un SBC
 
 ## Principales errores en el desarrollo de un Sistema Basado en el Conocimiento:
 

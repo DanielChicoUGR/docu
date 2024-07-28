@@ -95,6 +95,8 @@ class Dog extends Animal {
 ```
 # Diferencias entre `__new__` e `__init__` en Python
 *TODO*
+
+
 # Asignación vs Clonación
 Al asignar un objeto ya creado a una variable, guardara una referencia a ese objeto sin copiarlo, de manera que podemos modificar el objeto original desde la referencia. Si quisiéramos modificar el original, tendremos que hacer una clonación de ese objeto, por ejemplo, haciendo uso del patron *Prototype*
 # Criterios de calidad
