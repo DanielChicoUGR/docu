@@ -1,4 +1,4 @@
-- Autómatas Finitos Deterministas
+ - Autómatas Finitos Deterministas
     - Que es?
         - Definición→Es una quintupla $M=(Q,A,\delta,q_0,F)$.
         - Donde:↓ ↓ 
